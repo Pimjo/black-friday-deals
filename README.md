@@ -120,7 +120,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 ### 📚 Books & Courses
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
-| **Product Name** | Example: Programming book or online learning course | **XX% OFF** — Code: `COUPONCODE` | Nov 25 – Dec 2 2025 |
+| [**LabEx**](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [**50% OFF for Two Years**](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: `2025BF50`) and [**30% OFF for One Year**](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: `2025BF30`) | Nov 12 – Dec 1, 2025 |
 
 ---
 
