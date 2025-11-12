@@ -91,6 +91,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**StatusGator**](https://statusgator.com/) | Aggregates and monitors the status of cloud services in one dashboard, tracking outages and maintenance in real time with alerts and customizable status pages. | 20% OFF Monthly and Annual Starter Plans (Coupon: `BLACKFRIDAY2025`) | Nov 2 – Dec 2, 2025 |
 | [**Dux-Soup**](https://www.dux-soup.com/black-friday-2025) | LinkedIn automation tool that helps you generate leads, engage prospects, and manage outreach efficiently. | 25% OFF All Purchases Site-wide (Coupon: `BLCKFRDYDUX25`) | Nov 10 – Nov 30, 2025 |
 | [**Vue PDF Viewer**](https://www.vue-pdf-viewer.dev/?utm_source=github-pimjo&utm_medium=referral&utm_campaign=bfcm2025) | Vue PDF Viewer is a powerful PDF viewer for Vue 3 apps that supports keyword highlights, programmatic control, customization and annotations. | 30% off Viewer Licenses & 40% off Viewer+Annotation Licenses | Nov 17 – Dec 1, 2025 |
+| [**iScan.today**](https://iscan.today) | Discover Hidden Secrets Worth Thousands. | 50% off on all plans with discount code `ISCANBF25` | Nov 10 - Dec 1, 2025 |
 
 
 ---
@@ -200,6 +201,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
