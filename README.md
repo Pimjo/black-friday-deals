@@ -86,10 +86,11 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**NextAdmin**](https://nextadmin.co/) | Next.js admin dashboard template with 200+ components and layouts. | 30% OFF Business Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**NextMerce**](https://nextmerce.com/) | Next.js eCommerce template with Sanity CMS for modern online stores. | 30% OFF All Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Notion Backups**](https://notionbackups.com/) | Easily back up and restore your Notion workspaces. | 25% off of all yearly plans (Coupon: `NOTIONBACKUPS25`) | Nov 20 – Dec 4, 2025 |
-| [**React PDF**](https://www.react-pdf.dev/) | React PDF is a powerful PDF viewer for React apps that supports keyword highlights, programmatic control and customization. | 25% off Developer License (Coupon: `BFCMDEV25`) & 40% off Organization License (Coupon: `BFCMORG25`) | Nov 17 – Dec 1, 2025 |
+| [**React PDF**](https://www.react-pdf.dev/?utm_source=github-pimjo&utm_medium=referral&utm_campaign=bfcm2025) | React PDF is a powerful PDF viewer for React apps that supports keyword highlights, programmatic control and customization. | 30% off Developer License (Coupon: `BFCMDEV25`) & 40% off Organization License (Coupon: `BFCMORG25`) | Nov 17 – Dec 1, 2025 |
 | [**WebsiteVoice**](https://websitevoice.com/) | Text-to-speech widget that lets visitors listen to website content with a simple play button—easy to add with one line of JS. | 20% OFF All Plans (Coupon: `VOICE20`) | Nov 1 – Dec 4, 2025 |
 | [**StatusGator**](https://statusgator.com/) | Aggregates and monitors the status of cloud services in one dashboard, tracking outages and maintenance in real time with alerts and customizable status pages. | 20% OFF Monthly and Annual Starter Plans (Coupon: `BLACKFRIDAY2025`) | Nov 2 – Dec 2, 2025 |
 | [**Dux-Soup**](https://www.dux-soup.com/black-friday-2025) | LinkedIn automation tool that helps you generate leads, engage prospects, and manage outreach efficiently. | 25% OFF All Purchases Site-wide (Coupon: `BLCKFRDYDUX25`) | Nov 10 – Nov 30, 2025 |
+| [**Vue PDF Viewer**](https://www.vue-pdf-viewer.dev/?utm_source=github-pimjo&utm_medium=referral&utm_campaign=bfcm2025) | Vue PDF Viewer is a powerful PDF viewer for Vue 3 apps that supports keyword highlights, programmatic control, customization and annotations. | 30% off Viewer Licenses & 40% off Viewer+Annotation Licenses | Nov 17 – Dec 1, 2025 |
 
 
 ---
@@ -199,6 +200,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
