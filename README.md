@@ -104,14 +104,13 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Lineicons**](https://lineicons.com/) | 30,000+ vector icons in 10 styles, optimized for modern web and app design. | 40% OFF Business Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Uxcel**](https://uxcel.com/) | Interactive learning platform for UX, product, and AI design skills with 500K+ users. Learn with 5-minute lessons, real projects, and certifications. | $299 Lifetime Deal (1,000 spots only) **or** 62.5% OFF Pro Yearly Plan (Auto-applied) | Nov 24 – Dec 3, 2025 |
 
-
-
 ---
 
 ### 🌐 Hosting & Domains
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
 | [**Static.run**](https://static.run/) | Static hosting with instant deploys, built-in analytics, and CDN delivery. | 30% OFF Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
+| **[DNS for Developers](https://dnsfordevelopers.com)** | A video course about the DNS, domain names, and email deliverability | ~~$149~~ **$49**. Discount automatically applied. | Nov 14 - Dec 1, 2025 |
 
 ---
 
@@ -125,7 +124,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 ### 🧩 Productivity Tools
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
-| [**FormBold**](https://formbold.com/) | No-code form backend soultion and API for websites with integrations for Email, Slack, Notion, and more. | 40% OFF Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
+| [**FormBold**](https://formbold.com/) | No-code form backend solution and API for websites with integrations for Email, Slack, Notion, and more. | 40% OFF Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**My Web Audit**](https://www.mywebaudit.com/) | AI-powered website audit tool for freelancers and agencies to uncover SEO, UX, and performance issues that help close more deals. | 50% OFF All Plans | Nov 11 – Dec 3, 2025 |
 | [**Wins**](https://wins.cool?utm_source=black-friday-deals-Pimjo) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF Lifetime | Nov 11 – Dec 3, 2025 |
 | [**DocuGenerate**](https://www.docugenerate.com/) | API-powered and no-code PDF document generation platform for developers and teams. | 50% OFF First 3 Months (Coupon: `BLACKFRIDAY2025`) | Nov 1 – Dec 1, 2025 |
@@ -205,6 +204,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
