@@ -94,6 +94,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Vue PDF Viewer**](https://www.vue-pdf-viewer.dev/?utm_source=github-pimjo&utm_medium=referral&utm_campaign=bfcm2025) | Vue PDF Viewer is a powerful PDF viewer for Vue 3 apps that supports keyword highlights, programmatic control, customization and annotations. | 30% off Viewer Licenses & 40% off Viewer+Annotation Licenses | Nov 17 – Dec 1, 2025 |
 | [**Tower**](https://www.git-tower.com/) | Powerful Git client for Mac and Windows with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) | Nov 25 – Dec 7, 2025 |
 | [**HTTP Toolkit**](https://httptoolkit.com/?ref=pimjo) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code `BLACKFRIDAY25` | Now – Dec 3, 2025 |
+| [**iSsl.today**](https://issl.today) | Simple SSL monitoring that alerts you when certificates expire. | 100% off for 1st month with discount code `FREESSL` | Now - Nov 30, 2025 |
 
 
 ---
@@ -205,6 +206,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
