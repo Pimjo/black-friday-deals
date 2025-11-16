@@ -77,6 +77,9 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**CozyCommerce**](https://cozycommerce.dev/) | Next.js Tailwind CSS eCommerce solution and boilerplate with 100+ components and 20+ pages. | 30% OFF All Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Tailkit**](https://tailkit.com/) | 640+ fully responsive Application UI, Marketing and Ecommerce UI Components for your Tailwind CSS based projects with over 2,000 HTML, React, Vue.js and Alpine.js code snippets. 10 Tailwind templates are also included. | Up to 50% OFF (Coupon: `BLACKFRIDAY2025`) | Nov 24 – Dec 2, 2025 |
 
+| [**AdminMart**](https://adminmart.com/) | Premium Admin Templates and UI Kits for Developers. | Up to 50% OFF SiteWide (Coupon: `BFCM50`) | Now – December 31st, 2025 |
+| [**WrapPixel**](https://www.wrappixel.com/) | Premium UI Kits, Admin Dashboards, and Templates for Developers. | Offer 1: Up to 50% OFF on All Templates (Claim via this [**link**](https://www.wrappixel.com/) (Coupon: `BFCM50`) and Offer 2: 95% OFF on All Access Pass (Claim via this [**link**](https://www.wrappixel.com/all-access-pass/))| Now – December 31st, 2025|
+| [**GetNextJsTemplates**](https://getnextjstemplates.com/) | Premium Next.js Templates for Developers. | Offer: 50% OFF on SiteWide (Coupon: BFCM50) | Now – December 31st, 2025 |
 ---
 
 ### 🛠️ Dev Tools & SaaS
@@ -120,6 +123,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
 | [**MailBluster**](https://mailbluster.com/offer) | Scalable email marketing tool with automation, segmentation, templates, and advanced tracking for developers and marketers. | 50% OFF Upgrade Plan + Up to 30% OFF Email Sending (Coupon: `MBBFCM25`) | Nov 19 – Dec 3, 2025 |
+| [**Nuelink**](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly | Nov 10 - Nov 28, 2025 |
 
 ---
 
@@ -206,6 +210,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
