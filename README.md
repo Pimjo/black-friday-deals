@@ -1,4 +1,4 @@
-# Black Friday & Cyber Monday Deals 2025 - Developers & Designers
+# Best Black Friday Deals 2025 - Developers & Designers
 
 The ultimate **Black Friday** and **Cyber Monday 2025** Deals collection for developers, designers, and makers.
 
@@ -55,7 +55,7 @@ To maintain quality and accuracy:
 
 ---
 
-## 🔥 **Best Black Friday Deals for Developers & Designers (2025)**:
+## 🔥 **Best Black Friday Deals for Developers and Designers**
 Find the best **Black Friday** and **Cyber Monday 2025** deals across categories from developer tools and AI platforms to UI kits, hosting, and more.
 
 ### 🤖 AI Tools & Automation
@@ -140,6 +140,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**DocuGenerate**](https://www.docugenerate.com/) | API-powered and no-code PDF document generation platform for developers and teams. | 50% OFF First 3 Months (Coupon: `BLACKFRIDAY2025`) | Nov 1 – Dec 1, 2025 |
 | [**Qandle**](https://www.qandle.com/) | Qandle is an all-in-one HR software that streamlines payroll, attendance, leave management, and overall workforce operations with automation and an intuitive interface. | Up to 25 percent off on all plans | November 24, 2025 to December 31, 2025 |
 | [**Octoparse**](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) |A no-code web scraping tool that turns any website into structured data in minutes — available on macOS.|Get up to **45% OFF**, auto-applied from Nov 19 to Dec 3, (UTC-5). | 2025-12-03 |
+| [**XGetter**](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** | November 17, 2025 to December 1, 2025 |
 
 ---
 
