@@ -64,6 +64,8 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Meku**](https://meku.dev/) | AI web app builder to create full-stack sites with prompts. | 30% OFF + Free FormBold Starter (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Aymo AI**](https://aymo.ai/) | All-in-one AI platform for teams to collaborate, research, brainstorm, and document smarter. | 30% OFF Premium Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Omnify**](https://www.getomnify.com/) | Omnify is an all-in-one booking and business management platform for service-based businesses to manage schedules, payments, memberships, and customer relationships. | Up to 40 percent off monthly and annual plans (Coupon: `BFCM2025`) | November 1, 2025 to December 1, 2025 |
+| [**SharpAPI**](https://sharpapi.com/en/pricing/?utm_source=github-pimjo&utm_medium=referral&utm_campaign=bfcm2025) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and custom workflows. | 50% OFF first year on all plans (Coupon: `BF2025`) | Nov 24 – Dec 3, 2025 |
+
 
 ---
 
