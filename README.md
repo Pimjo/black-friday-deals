@@ -139,6 +139,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Wins**](https://wins.cool?utm_source=black-friday-deals-Pimjo) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF Lifetime | Nov 11 – Dec 3, 2025 |
 | [**DocuGenerate**](https://www.docugenerate.com/) | API-powered and no-code PDF document generation platform for developers and teams. | 50% OFF First 3 Months (Coupon: `BLACKFRIDAY2025`) | Nov 1 – Dec 1, 2025 |
 | [**Qandle**](https://www.qandle.com/) | Qandle is an all-in-one HR software that streamlines payroll, attendance, leave management, and overall workforce operations with automation and an intuitive interface. | Up to 25 percent off on all plans | November 24, 2025 to December 31, 2025 |
+| [**Octoparse**](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) |A no-code web scraping tool that turns any website into structured data in minutes — available on macOS.|Get up to **45% OFF**, auto-applied from Nov 19 to Dec 3, (UTC-5). | 2025-12-03 |
 
 ---
 
@@ -214,6 +215,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
