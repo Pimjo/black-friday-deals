@@ -100,6 +100,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Tower**](https://www.git-tower.com/) | Powerful Git client for Mac and Windows with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) | Nov 25 – Dec 7, 2025 |
 | [**HTTP Toolkit**](https://httptoolkit.com/?ref=pimjo) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code `BLACKFRIDAY25` | Now – Dec 3, 2025 |
 | [**Super Monitoring**](https://www.supermonitoring.com/) | Super Monitoring tracks website and web app uptime, speed, and performance to ensure everything runs smoothly. | 50 percent off one-time for new customers (Coupon: `SUPERBLACK25`) | November 28, 2025 to December 5, 2025 |
+| [**TelemetryDeck**](https://telemetrydeck.com/blog/black-friday-sale-2025) | Privacy-first analytics for app developers with double-hashing anonymization and GDPR compliance by default. Supports iOS, macOS, Android, Web, and more. Built by indies, for indies. | 40% OFF first year (Coupon: `BLACK2025`) | Nov 24 – Dec 1, 2025 |
 
 
 ---
