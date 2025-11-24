@@ -101,7 +101,12 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Tower**](https://www.git-tower.com/) | Powerful Git client for Mac and Windows with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) | Nov 25 – Dec 7, 2025 |
 | [**HTTP Toolkit**](https://httptoolkit.com/?ref=pimjo) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code `BLACKFRIDAY25` | Now – Dec 3, 2025 |
 | [**Super Monitoring**](https://www.supermonitoring.com/) | Super Monitoring tracks website and web app uptime, speed, and performance to ensure everything runs smoothly. | 50 percent off one-time for new customers (Coupon: `SUPERBLACK25`) | November 28, 2025 to December 5, 2025 |
-| [**Beagle Security**](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for faster, smarter vulnerability management. | **35% OFF annual** (`BFCMY25`) & **20% OFF monthly** (`BFCMM25`) — Applies to Essential & Advanced plans for 6 months | Nov 25 – Dec 4, 2025 |
+| [**Beagle Security**](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for faster, smarter vulnerability management. | **35% OFF annual** (`BFCMY25`) & **20% OFF monthly** (`BFCMM25`) — Applies to 
+| [**Exploit Pack**](https://www.exploitpack.com/products/exploit-pack) | Exploit Framework. Get access to over 39,500+ exploits, zero-days from our lab, implants and utilities. | Lifetime License (Coupon: `LIFETIME`) | November 20, 2025 to December 5, 2025 |
+| [**Control Pack**](https://www.exploitpack.com/products/control-pack) | Control Pack gives you full access to the most advanced and stealthiest post-exploitation C2 framework. | Lifetime License (Coupon: `LIFETIME`) | November 20, 2025 to December 5, 2025 |
+| [**Kernel Pack**](https://www.exploitpack.com/products/kernel-pack) | Kernel Pack is the game over tool that allows you to create your own rootkit (driver) and uses exploits to obtain ring-0 access.. | Lifetime License (Coupon: `LIFETIME`) | November 20, 2025 to December 5, 2025 |
+
+Essential & Advanced plans for 6 months | Nov 25 – Dec 4, 2025 |
 
 
 ---
@@ -219,6 +224,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
