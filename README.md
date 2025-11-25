@@ -64,6 +64,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [KloudUtils](https://kloudutils.com/) | Your Toolbox For Daily Work - AWS, K8S, Web and Dev tasks & Shareable links  | **50% OFF** Lifetime License with code **LAUNCH50** |
 | 💸 | [KeygenGo](https://keygengo.5km.tech) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** (Nov 20 - Dec 2) |
 | 💸 | [DNSDeck](https://apps.apple.com/us/app/dnsdeck-manage-dns-zones/id6753925998?utm_source=BF-2025) | A powerful macOS DNS zone management client for CloudFlare and AWS Route 53. | ****50% OFF**** ($4.99) one-time purchase via the App Store |
+| [**Semantic Pen**](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | 20% OFF (Coupon: `20BF2025`) | Nov 25 – Dec 31, 2025 |
 | 💰 | [ShipAhead](https://shipahe.ad) | Launch your AI SaaS in days, not months | **40% OFF** with code **BF2025** |
 | 💰 | [DevWorkspace Pro](https://devworkspacepro.com) | Desktop app to easily build and manage Docker-powered web apps. | **40% off** with discount code **BLACKFRIDAY40OFF** |
 | 💸 | [Compot – SwiftUI Components](https://www.compotui.com/?utm_source=mrsbf) | Develop iOS apps faster with AI coding assistant and 100+ predesigned SwiftUI components. Explore SwiftUI and discover resources and tools for iOS app developers. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6471916279&code=BF2025) |
@@ -97,6 +98,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [AppCatalystRN](https://appcatalystrn.com/) | React Native/Expo Cross Platform Starter Kit | **20% OFF**, code **BLACKFRIDAY25** (Nov 19 to Dec 31) |
 | 💸 | [CodexUse](https://codexuse.com/?utm_source=mrsbf) | Desktop companion for the Codex CLI—switch profiles instantly, reopen chats by project, see live rate-limit telemetry, and manage MCP servers without JSON edits. | **50% OFF** lifetime license with code **BLACKFRIDAY2025** |
 
+| [**VerifyForge**](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | 30% OFF (Coupon: `BF2025`) | Nov 25 – Dec 1, 2025 |
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🤖 AI Tools
