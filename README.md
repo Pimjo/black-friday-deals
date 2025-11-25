@@ -154,6 +154,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**LabEx**](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [**50% OFF for Two Years**](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: `2025BF50`) and [**30% OFF for One Year**](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: `2025BF30`) | Nov 12 – Dec 1, 2025 |
 | [**Practical TLS**](https://classes.pracnet.net/courses/practical-tls) | Comprehensive course with 80+ videos and 40+ labs to master SSL/TLS, cryptography, ciphers, and real-world security practices. | 83% OFF Full Course — Now $47 (Coupon: `BFCM2025`) | Nov 17 – Dec 6, 2025 |
 | [**Fast Track To Senior Engineer**](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | **25% off** autoapplied, coupon: `BF1125` | Ends on Dec 15, 2025 |
+| [**pwn.guide**](https://pwn.guide) | Learn cybersecurity from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, cryptography, defense & **certification training** (for certificates like the CompTIA Security+ SY0-701). | **20% off** all plans **including Lifetime** with the coupon: `BLKFRI20` | Ends on Dec 5, 2025 |
 
 
 ---
@@ -219,6 +220,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
