@@ -4,7 +4,7 @@ The ultimate **Black Friday** and **Cyber Monday 2025** Deals collection for dev
 
 This repo list brings together **verified deals and discounts on developer tools, SaaS products, UI kits, templates, design assets, and AI tools** - all curated to help you **build faster, design better, and save bigger** this season.
 
-> **Total Deals Count**: 30+
+> **Total Deals Count**: 31+
 
 
 ## Overview
@@ -102,6 +102,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**HTTP Toolkit**](https://httptoolkit.com/?ref=pimjo) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code `BLACKFRIDAY25` | Now – Dec 3, 2025 |
 | [**Super Monitoring**](https://www.supermonitoring.com/) | Super Monitoring tracks website and web app uptime, speed, and performance to ensure everything runs smoothly. | 50 percent off one-time for new customers (Coupon: `SUPERBLACK25`) | November 28, 2025 to December 5, 2025 |
 | [**Beagle Security**](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for faster, smarter vulnerability management. | **35% OFF annual** (`BFCMY25`) & **20% OFF monthly** (`BFCMM25`) — Applies to Essential & Advanced plans for 6 months | Nov 25 – Dec 4, 2025 |
+| [**DeployHQ**](https://www.deployhq.com/) | Deploy with confidence — zero downtime, every time. Automate your deployments, roll out changes safely, and ship faster with Zero Downtime, Auto Deploy, Turbo Deploy, and AI-powered optimizations for your workflows. | **50% OFF** for 3 months (automatically applied for new customers) | Nov 25 – Dec 2, 2025 |
 
 
 ---
