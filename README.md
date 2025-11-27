@@ -77,6 +77,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**AIScraper**](https://aiscraper.co/) | Extract structured data from any website in seconds using AI-powered scraping. | 20% OFF first payment (Coupon: `JOHNRUSH`) | Nov 21 – Dec 7, 2025 |
 | [**TrulyInbox**](https://www.trulyinbox.com/) | AI-powered email warm-up tool that boosts sender reputation with human-like interactions and deliverability monitoring. | 50% OFF Annual plans (Coupon: `BFCM50`) | Nov 17 – Dec 1, 2025 |
 | [**Saleshandy**](https://www.saleshandy.com/) | AI-powered cold email platform that helps sales teams automate outreach and book more meetings. | 50% OFF Annual Outreach Plans (Coupon: `BFCM50`) | Nov 17 – Dec 1, 2025 |
+| [**SConsoleX AI**](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | 50% OFF on all plans (Coupon: `CXBLACK2025`) | Nov 27 – Dec 3, 2025 |
 
 ---
 
@@ -265,6 +266,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
