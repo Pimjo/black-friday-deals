@@ -64,6 +64,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Meku**](https://meku.dev/) | AI web app builder to create full-stack sites with prompts. | 30% OFF + Free FormBold Starter (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Aymo AI**](https://aymo.ai/) | All-in-one AI platform for teams to collaborate, research, brainstorm, and document smarter. | 30% OFF Premium Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Omnify**](https://www.getomnify.com/) | Omnify is an all-in-one booking and business management platform for service-based businesses to manage schedules, payments, memberships, and customer relationships. | Up to 40 percent off monthly and annual plans (Coupon: `BFCM2025`) | November 1, 2025 to December 1, 2025 |
+| [**Semantic Pen**](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | 20% OFF (Coupon: `20BF2025`) | Nov 25 – Dec 31, 2025 |
 | [**Alter**](https://alterhq.com) | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime With 40,000 AI requests included and access to 2,000+ tools | Nov 21 – Dec 1, 2025 |
 
 ---
@@ -97,6 +98,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**StatusGator**](https://statusgator.com/) | Aggregates and monitors the status of cloud services in one dashboard, tracking outages and maintenance in real time with alerts and customizable status pages. | 20% OFF Monthly and Annual Starter Plans (Coupon: `BLACKFRIDAY2025`) | Nov 2 – Dec 2, 2025 |
 | [**Dux-Soup**](https://www.dux-soup.com/black-friday-2025) | LinkedIn automation tool that helps you generate leads, engage prospects, and manage outreach efficiently. | 25% OFF All Purchases Site-wide (Coupon: `BLCKFRDYDUX25`) | Nov 10 – Nov 30, 2025 |
 | [**DevWorkspace Pro**](https://devworkspacepro.com) | Desktop app to easily build and manage Docker-powered web apps. | 40% OFF All Plans (Coupon: `BLACKFRIDAY40OFF`) | Nov 10 – Dec 10, 2025 |
+| [**VerifyForge**](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | 30% OFF (Coupon: `BF2025`) | Nov 25 – Dec 1, 2025 |
 | [**Vue PDF Viewer**](https://www.vue-pdf-viewer.dev/?utm_source=github-pimjo&utm_medium=referral&utm_campaign=bfcm2025) | Vue PDF Viewer is a powerful PDF viewer for Vue 3 apps that supports keyword highlights, programmatic control, customization and annotations. | 30% off Viewer Licenses & 40% off Viewer+Annotation Licenses | Nov 17 – Dec 1, 2025 |
 | [**Tower**](https://www.git-tower.com/) | Powerful Git client for Mac and Windows with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) | Nov 25 – Dec 7, 2025 |
 | [**HTTP Toolkit**](https://httptoolkit.com/?ref=pimjo) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code `BLACKFRIDAY25` | Now – Dec 3, 2025 |
