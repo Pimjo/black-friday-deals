@@ -127,7 +127,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Infisign**](https://www.infisign.ai) | AI-driven IAM and CIAM platform with adaptive MFA, SSO, PAM, IGA, and continuous identity intelligence to prevent modern breaches. | 30% OFF IAM and 40% OFF CIAM (Coupons: `InfisignIAM`, `InfisignCIAM`) | Nov 7 – Dec 31, 2025 |
 | [**Dorik**](https://dorik.com/) | AI-powered no-code builder for creating responsive websites, blogs, and landing pages without coding. | Get 2 years for the price of 1 on all plans | Nov 15 – Dec 1, 2025 |
 | [**Termageddon**](https://termageddon.com/bfcm-2-free/) | Comprehensive website policies solution covering 120+ global privacy laws with auto-updating legal policies. | 2 free licenses for web designers (100% OFF) | Nov 24 – Dec 1, 2025 |
-
+| [**PingPing**](https://pingping.io) | Simple and reliable website uptime & SSL-certificate monitoring. Performs 30-second health checks, alerts you immediately on downtime or expiring SSL certs, and offers clean public status-pages + a full-featured API. | LIFETIME 25% OFF with code **CYBER25** | Nov 27 - Dec 5 |
 
 ---
 
@@ -265,6 +265,8 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
+
 
 
 
