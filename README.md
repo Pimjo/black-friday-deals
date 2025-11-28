@@ -184,6 +184,8 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Fuelance Freelance System**](https://unapologeticih.gumroad.com/l/ktxfX) | Complete freelance operating system with 50+ docs, onboarding tools, lead-gen guides, and RSS lead feeds. | 70% OFF Lifetime Access (Coupon: `70OFFBF`) | Nov 18 – Dec 15, 2025 |
 | [**Mail Mastery MEGA BUNDLE**](https://unapologeticih.gumroad.com/l/nyzwb) | 250 customizable email templates plus 30+ essential business docs including invoices and proposals. | 60% OFF Lifetime Access (Coupon: `60OFFMM`) | Nov 18 – Dec 15, 2025 |
 | [**HR Software (Qandle)**](https://www.qandle.com/) | All-in-one HR, payroll, attendance, and leave management software with automation and intuitive workflows. | Up to 25% OFF on all plans | Nov 24 – Dec 31, 2025 |
+| [**Autentique**](https://www.autentique.com.br/en) | Electronic signature & document workflow platform, with API, webhooks, advanced audit trail and team features. | 90% OFF with code BF2025DEV | Nov 28 – Dec 10, 2025 |
+
 
 
 ---
@@ -265,6 +267,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
