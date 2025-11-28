@@ -197,6 +197,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Fast Track To Senior Engineer**](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | **25% off** autoapplied, coupon: `BF1125` | Ends on Dec 15, 2025 |
 | [**pwn.guide**](https://pwn.guide) | Learn cybersecurity from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, cryptography, defense & **certification training** (for certificates like the CompTIA Security+ SY0-701). | **20% off** all plans **including Lifetime** with the coupon: `BLKFRI20` | Ends on Dec 5, 2025 |
 | [**Certificates.dev**](https://certificates.dev/?utm_source=greygrids&utm_medium=github&utm_campaign=cert_bf2025_bf) | Certifications for React, Angular, JavaScript, Vue, and Nuxt built with creators and industry experts; trusted by developers at 680+ companies. | Up to 60% OFF + free Junior certification and two AI dev courses | Nov 11 – Dec 3, 2025 |
+| [**AIDD – AI-Driven Development Masterclass**](https://www.aidd.io?friend=VUEPDF) | Learn to code 20x faster with AI using real-world workflows like test generation, code reviews, and repo-aware agents. Includes bonuses and a 30-day money-back guarantee. | **45% OFF all plans** | Now – Dec 3, 2025 |
 
 
 ---
@@ -265,6 +266,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
