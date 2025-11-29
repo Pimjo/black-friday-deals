@@ -95,6 +95,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**GetNextJsTemplates**](https://getnextjstemplates.com/) | Premium Next.js templates for developers. | 50 percent off sitewide (Coupon: `BFCM50`) | Now to December 31, 2025 |
 | [**ShipAhead**](https://shipahe.ad) | Launch your AI SaaS in hours with a production-ready Nuxt 4 boilerplate built for modern AI apps. | 40% OFF Nuxt 4 Boilerplate (Coupon: `BF2025`) | Nov 10 – Dec 1, 2025 |
 | [**Unicorn Platform**](https://unicornplatform.com/) | AI website builder to create SaaS, app, blog, directory, and personal websites without design or coding. | 20% OFF first payment (Coupon: `JOHNRUSH`) | Nov 21 – Dec 7, 2025 |
+| [**shadcn/studio**](https://shadcnstudio.com) |  Shadcn UI library with 550+ Blocks, 1000+ components & variants, AI Tools, Theme generator and templates. | 30% OFF Storewide (Coupon: `BFCM30SS`) | Nov 24 – Dec 1, 2025 |
 
 ---
 
@@ -265,6 +266,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
