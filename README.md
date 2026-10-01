@@ -165,6 +165,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**GhostHunt**](https://unapologeticih.gumroad.com/l/sctuym) | Airtable database (Vol. 1 & 2) with 1900+ Ghost newsletters including titles, categories, descriptions, and member counts. | 50% OFF Lifetime Access (Coupon: `50GHOST`) | Nov 18 – Dec 15, 2025 |
 | [**WP SMS**](https://wp-sms-pro.com/) | WordPress plugin for sending SMS alerts, notifications, and marketing messages with 300+ gateway integrations. | 40% OFF Premium plans (Coupon: `BLACKFRIDAY40`) | Nov 24 – Dec 2, 2025 |
 | [**WP Statistics**](https://wp-statistics.com/) | Privacy-friendly WordPress analytics plugin for tracking visitors, traffic trends, and real-time insights without external services. | 40% OFF Premium plans (Coupon: `BLACKFRIDAY40`) | Nov 24 – Dec 2, 2025 |
+| [**Uprankly Link Builder**](https://www.uprankly.com/link-builder) | All-in-one link building software for SEO & AI Search that automates domain prospecting, qualification, email outreach, reply management, and live backlink monitoring. | **72% OFF** on all 3-month plans (Coupon: `BFCM72`) | Nov 7 – Dec 5, 2026 |
 
 ---
 
