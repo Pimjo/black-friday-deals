@@ -82,6 +82,8 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 ---
 | [**SharpAPI**](https://sharpapi.com/en/pricing/?utm_source=github-pimjo&utm_medium=referral&utm_campaign=bfcm2025) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and custom workflows. | 50% OFF first year on all plans (Coupon: `BF2025`) | Nov 24 – Dec 3, 2025 |
 
+| [**Saleshandy**](https://www.saleshandy.com/) | AI-powered cold email platform that helps sales teams automate outreach and book more meetings. | 50% OFF Annual Outreach Plans (Coupon: `BFCM50`) | Nov 17 – Dec 1, 2025 |
+| [**SConsoleX AI**](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | 50% OFF on all plans (Coupon: `CXBLACK2025`) | Nov 27 – Dec 3, 2025 |
 
 ---
 
