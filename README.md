@@ -80,6 +80,10 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Seedeo**](https://seedeo.ai/pricing?utm_source=pimjo_github&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=non_expiring_creator_credits) | AI creation workspace for switching between video, image, music, and voice models while keeping every project on one shared credit balance. | **20,000 non-expiring credits for $99** (62% OFF; regularly $259.90). Coupon: `bf26_pack99`. One pack per customer. | Oct 24 – Nov 30, 2026 |
 
 ---
+| [**SharpAPI**](https://sharpapi.com/en/pricing/?utm_source=github-pimjo&utm_medium=referral&utm_campaign=bfcm2025) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and custom workflows. | 50% OFF first year on all plans (Coupon: `BF2025`) | Nov 24 – Dec 3, 2025 |
+
+
+---
 
 ### 🎨 UI Kits, Templates & Boilerplates
 | Name | Description | Deal Details | Validity |
