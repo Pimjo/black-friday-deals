@@ -84,6 +84,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 
 | [**Saleshandy**](https://www.saleshandy.com/) | AI-powered cold email platform that helps sales teams automate outreach and book more meetings. | 50% OFF Annual Outreach Plans (Coupon: `BFCM50`) | Nov 17 – Dec 1, 2025 |
 | [**SConsoleX AI**](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | 50% OFF on all plans (Coupon: `CXBLACK2025`) | Nov 27 – Dec 3, 2025 |
+| [**TypingMind**](https://www.typingmind.com/?utm_source=pimjo) | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | 60% OFF Lifetime Premium (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 15, 2026 |
 
 ---
 
@@ -138,6 +139,8 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Dorik**](https://dorik.com/) | AI-powered no-code builder for creating responsive websites, blogs, and landing pages without coding. | Get 2 years for the price of 1 on all plans | Nov 15 – Dec 1, 2025 |
 | [**Termageddon**](https://termageddon.com/bfcm-2-free/) | Comprehensive website policies solution covering 120+ global privacy laws with auto-updating legal policies. | 2 free licenses for web designers (100% OFF) | Nov 24 – Dec 1, 2025 |
 | [**PingPing**](https://pingping.io) | Simple and reliable website uptime & SSL-certificate monitoring. Performs 30-second health checks, alerts you immediately on downtime or expiring SSL certs, and offers clean public status-pages + a full-featured API. | LIFETIME 25% OFF with code **CYBER25** | Nov 27 - Dec 5 |
+| [**DevUtils**](https://devutils.com/?utm_source=pimjo) | Offline all-in-one toolbox for developers on macOS: JSON formatter, Base64, JWT debugger, regex tester and more, all running locally. | 60% OFF All Plans (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 30, 2026 |
+
 
 ---
 
