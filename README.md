@@ -104,6 +104,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Unicorn Platform**](https://unicornplatform.com/) | AI website builder to create SaaS, app, blog, directory, and personal websites without design or coding. | 20% OFF first payment (Coupon: `JOHNRUSH`) | Nov 21 – Dec 7, 2025 |
 | [**FlyonUI**](https://flyonui.com) | Tailwind CSS Component library with 1000+ component & variants, with 500+ Blocks and templates. | 30% OFF Storewide (Coupon: `BFCM30FY`) | Nov 18 – Dec 1, 2025 |
 
+| [**shadcn/studio**](https://shadcnstudio.com) |  Shadcn UI library with 550+ Blocks, 1000+ components & variants, AI Tools, Theme generator and templates. | 30% OFF Storewide (Coupon: `BFCM30SS`) | Nov 24 – Dec 1, 2025 |
 
 ---
 
