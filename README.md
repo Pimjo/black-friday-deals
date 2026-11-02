@@ -77,6 +77,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**AIScraper**](https://aiscraper.co/) | Extract structured data from any website in seconds using AI-powered scraping. | 20% OFF first payment (Coupon: `JOHNRUSH`) | Nov 21 – Dec 7, 2025 |
 | [**TrulyInbox**](https://www.trulyinbox.com/) | AI-powered email warm-up tool that boosts sender reputation with human-like interactions and deliverability monitoring. | 50% OFF Annual plans (Coupon: `BFCM50`) | Nov 17 – Dec 1, 2025 |
 | [**Saleshandy**](https://www.saleshandy.com/) | AI-powered cold email platform that helps sales teams automate outreach and book more meetings. | 50% OFF Annual Outreach Plans (Coupon: `BFCM50`) | Nov 17 – Dec 1, 2025 |
+| [**TypingMind**](https://www.typingmind.com/?utm_source=pimjo) | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | 60% OFF Lifetime Premium (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 15, 2026 |
 
 ---
 
@@ -127,6 +128,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Infisign**](https://www.infisign.ai) | AI-driven IAM and CIAM platform with adaptive MFA, SSO, PAM, IGA, and continuous identity intelligence to prevent modern breaches. | 30% OFF IAM and 40% OFF CIAM (Coupons: `InfisignIAM`, `InfisignCIAM`) | Nov 7 – Dec 31, 2025 |
 | [**Dorik**](https://dorik.com/) | AI-powered no-code builder for creating responsive websites, blogs, and landing pages without coding. | Get 2 years for the price of 1 on all plans | Nov 15 – Dec 1, 2025 |
 | [**Termageddon**](https://termageddon.com/bfcm-2-free/) | Comprehensive website policies solution covering 120+ global privacy laws with auto-updating legal policies. | 2 free licenses for web designers (100% OFF) | Nov 24 – Dec 1, 2025 |
+| [**DevUtils**](https://devutils.com/?utm_source=pimjo) | Offline all-in-one toolbox for developers on macOS: JSON formatter, Base64, JWT debugger, regex tester and more, all running locally. | 60% OFF All Plans (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 30, 2026 |
 
 
 ---
