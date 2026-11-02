@@ -140,6 +140,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Termageddon**](https://termageddon.com/bfcm-2-free/) | Comprehensive website policies solution covering 120+ global privacy laws with auto-updating legal policies. | 2 free licenses for web designers (100% OFF) | Nov 24 – Dec 1, 2025 |
 | [**PingPing**](https://pingping.io) | Simple and reliable website uptime & SSL-certificate monitoring. Performs 30-second health checks, alerts you immediately on downtime or expiring SSL certs, and offers clean public status-pages + a full-featured API. | LIFETIME 25% OFF with code **CYBER25** | Nov 27 - Dec 5 |
 | [**DevUtils**](https://devutils.com/?utm_source=pimjo) | Offline all-in-one toolbox for developers on macOS: JSON formatter, Base64, JWT debugger, regex tester and more, all running locally. | 60% OFF All Plans (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 30, 2026 |
+| [**ClipAudit**](https://clipaudit.app) | macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard. | 40% OFF ($29 → $17.40) (Coupon: `BLACKFRIDAY2026`) | Nov 27 – Dec 1, 2026 |
 
 
 ---
