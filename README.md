@@ -1,6 +1,6 @@
-# Best Black Friday Deals 2025 - Developers & Designers
+# Best Black Friday Deals 2026 - Developers & Designers
 
-The ultimate **Black Friday** and **Cyber Monday 2025** Deals collection for developers, designers, and makers.
+The ultimate **Black Friday** and **Cyber Monday 2026** Deals collection for developers, designers, and makers.
 
 This repo list brings together **verified deals and discounts on developer tools, SaaS products, UI kits, templates, design assets, and AI tools** - all curated to help you **build faster, design better, and save bigger** this season.
 
@@ -25,7 +25,7 @@ Every year, hundreds of tools and platforms run **Black Friday developer deals**
 
 **What You’ll Find**
 - **Curated, verified deals** on trusted developer and designer tools  
-- **Centralized listings** for 2025’s best dev and SaaS offers  
+- **Centralized listings** for 2026’s best dev and SaaS offers  
 - **Community contributions** from developers, teams, and creators 
 - **Simple submission process** for both technical and non-technical users 
 - **Each deal includes** the product name, description, offer, and validity
@@ -33,7 +33,7 @@ Every year, hundreds of tools and platforms run **Black Friday developer deals**
 
 ## How to Contribute
 
-Found a great **Black Friday 2025** or **Cyber Monday 2025** deal?  Add it here and help the community discover verified discounts.
+Found a great **Black Friday 2026** or **Cyber Monday 2026** deal?  Add it here and help the community discover verified discounts.
 
 **For Developers (GitHub Users)**
 1. Fork this repository  
@@ -62,7 +62,7 @@ To maintain quality and accuracy:
 ---
 
 ## 🔥 **Best Black Friday Deals for Developers and Designers**
-Find the best **Black Friday** and **Cyber Monday 2025** deals across categories from developer tools and AI platforms to UI kits, hosting, and more.
+Find the best **Black Friday** and **Cyber Monday 2026** deals across categories from developer tools and AI platforms to UI kits, hosting, and more.
 
 ### 🤖 AI Tools & Automation
 | Name | Description | Deal Details | Validity |
