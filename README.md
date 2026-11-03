@@ -97,15 +97,16 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**NextjsTemplates**](https://nextjstemplates.com/) | 20+ high-performance Next.js templates for SaaS and portfolios. | 40% OFF Business Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**TailTemplates**](https://tailtemplates.com/) | Tailwind CSS templates for startups, SaaS, and agencies. | 80% OFF Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**CozyCommerce**](https://cozycommerce.dev/) | Next.js Tailwind CSS eCommerce solution and boilerplate with 100+ components and 20+ pages. | 30% OFF All Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
-| [**Tailkit**](https://tailkit.com/) | 640+ fully responsive Application UI, Marketing and Ecommerce UI Components for your Tailwind CSS based projects with over 2,000 HTML, React, Vue.js and Alpine.js code snippets. 10 Tailwind templates are also included. | Up to 50% OFF (Coupon: `BLACKFRIDAY2025`) | Nov 24 – Dec 2, 2025 |
+| [**Tailkit**](https://tailkit.com/) | 2,000+ responsive Tailwind CSS UI components for React, Vue.js, Laravel, Alpine.js and HTML, with an MCP server for AI-powered development. | Up to 60% OFF (Auto-applied) | Nov 23 – Dec 1, 2026 |
 | [**AdminMart**](https://adminmart.com/) | Premium admin templates and UI kits for developers. | Up to 50 percent off sitewide (Coupon: `BFCM50`) | Now to December 31, 2025 |
 | [**WrapPixel**](https://www.wrappixel.com/) | Premium UI kits, admin dashboards, and templates for developers. | Up to 50 percent off all templates (Coupon: `BFCM50`) and 95 percent off All Access Pass | Now to December 31, 2025 |
 | [**GetNextJsTemplates**](https://getnextjstemplates.com/) | Premium Next.js templates for developers. | 50 percent off sitewide (Coupon: `BFCM50`) | Now to December 31, 2025 |
 | [**ShipAhead**](https://shipahe.ad) | Launch your AI SaaS in hours with a production-ready Nuxt 4 boilerplate built for modern AI apps. | 40% OFF Nuxt 4 Boilerplate (Coupon: `BF2025`) | Nov 10 – Dec 1, 2025 |
 | [**Unicorn Platform**](https://unicornplatform.com/) | AI website builder to create SaaS, app, blog, directory, and personal websites without design or coding. | 20% OFF first payment (Coupon: `JOHNRUSH`) | Nov 21 – Dec 7, 2025 |
 | [**FlyonUI**](https://flyonui.com) | Tailwind CSS Component library with 1000+ component & variants, with 500+ Blocks and templates. | 30% OFF Storewide (Coupon: `BFCM30FY`) | Nov 18 – Dec 1, 2025 |
-
 | [**shadcn/studio**](https://shadcnstudio.com) |  Shadcn UI library with 550+ Blocks, 1000+ components & variants, AI Tools, Theme generator and templates. | 30% OFF Storewide (Coupon: `BFCM30SS`) | Nov 24 – Dec 1, 2025 |
+| [**Buildkit for Astro**](https://astrobuildkit.com/) | Astro design system for building marketing websites with your AI agent: core blocks, backgrounds and animated visuals, guided by skills. | Up to 47% OFF (Auto-applied) | Nov 23 – Dec 1, 2026 |
+| [**CodedVisuals**](https://codedvisuals.com/) | Coded visual and illustration components for React and shadcn/ui, plus AI skills agents can build with. | Up to 40% OFF (Auto-applied) | Nov 23 – Dec 1, 2026 |
 
 ---
 
