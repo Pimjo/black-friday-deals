@@ -204,6 +204,9 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**HR Software (Qandle)**](https://www.qandle.com/) | All-in-one HR, payroll, attendance, and leave management software with automation and intuitive workflows. | Up to 25% OFF on all plans | Nov 24 – Dec 31, 2025 |
 | [**Summate**](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | 50% OFF - Annual: $10/mo, Monthly: $15/mo (Coupon: `SUMMATEBF25`) | Nov 25 – Dec 5, 2025 |
 | [**Autentique**](https://www.autentique.com.br/en) | Electronic signature & document workflow platform, with API, webhooks, advanced audit trail and team features. | 90% OFF with code BF2025DEV | Nov 28 – Dec 10, 2025 |
+| [**Presentify**](https://presentifyapp.com) | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. Native Mac app for presentations, calls, demos, and teaching. One-time purchase. | 30% OFF (Coupon: `PRESENTIFY30`), direct purchase from the website only | Nov 18 - Dec 2, 2026 |
+| [**FaceScreen**](https://facescreen.app) | Floating camera overlay with a text overlay and ring light, for screen recordings and video calls. Mac, iPhone, and iPad. One-time purchase. | 30% OFF (Coupon: `FACESCREEN30`), direct purchase from the website only | Nov 18 - Dec 2, 2026 |
+| [**KeyScreen**](https://keyscreen.app) | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app. One-time purchase. | 30% OFF (Coupon: `KEYSCREEN30`), direct purchase from the website only | Nov 18 - Dec 2, 2026 |
 
 
 
