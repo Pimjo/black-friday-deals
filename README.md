@@ -85,6 +85,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Saleshandy**](https://www.saleshandy.com/) | AI-powered cold email platform that helps sales teams automate outreach and book more meetings. | 50% OFF Annual Outreach Plans (Coupon: `BFCM50`) | Nov 17 – Dec 1, 2025 |
 | [**SConsoleX AI**](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | 50% OFF on all plans (Coupon: `CXBLACK2025`) | Nov 27 – Dec 3, 2025 |
 | [**TypingMind**](https://www.typingmind.com/?utm_source=pimjo) | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | 60% OFF Lifetime Premium (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 15, 2026 |
+| [**JSON2Video**](https://json2video.com/pricing/blackfriday-2026/?c=pimjo) | Video editing API: turn JSON or templates into MP4 videos with AI voices, subtitles and AI images, from code, n8n, Make, Zapier, Claude or ChatGPT. | 25% OFF the first year of yearly plans: Professional $299.70 (was $399.60), Hobby $149.63 (was $199.50) (Coupon: `BF2026PIMJO`) | Nov 24 – Dec 1, 2026 |
 
 ---
 
