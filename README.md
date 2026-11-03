@@ -204,6 +204,10 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**HR Software (Qandle)**](https://www.qandle.com/) | All-in-one HR, payroll, attendance, and leave management software with automation and intuitive workflows. | Up to 25% OFF on all plans | Nov 24 – Dec 31, 2025 |
 | [**Summate**](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | 50% OFF - Annual: $10/mo, Monthly: $15/mo (Coupon: `SUMMATEBF25`) | Nov 25 – Dec 5, 2025 |
 | [**Autentique**](https://www.autentique.com.br/en) | Electronic signature & document workflow platform, with API, webhooks, advanced audit trail and team features. | 90% OFF with code BF2025DEV | Nov 28 – Dec 10, 2025 |
+| [**Email Me**](https://emailmeapp.net/) | The fastest way to record your thoughts as voice or text notes, sent to your inbox. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** (no code needed) | Nov 27 – Dec 1, 2026 |
+| [**Digital Photo Frame**](https://digitalphotoframeapp.com/) | Turn your iPhone, iPad, Mac or Apple TV into a smart photo frame. | **50% OFF** (no code needed) | Nov 27 – Dec 1, 2026 |
+| [**Photo Booth App**](https://thephotoboothapp.com/) | Turn your iPhone or iPad into a photo booth for events. | **50% OFF** (no code needed) | Nov 27 – Dec 1, 2026 |
+| [**Our Family Album**](https://ourfamilyalbum.com/) | The private family album app for iPhone and iPad. | **50% OFF** (no code needed) | Nov 27 – Dec 1, 2026 |
 
 
 
