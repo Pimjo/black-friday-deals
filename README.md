@@ -182,6 +182,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Uprankly Link Builder**](https://www.uprankly.com/link-builder) | All-in-one link building software for SEO & AI Search that automates domain prospecting, qualification, email outreach, reply management, and live backlink monitoring. | **72% OFF** on all 3-month plans (Coupon: `BFCM72`) | Nov 7 – Dec 5, 2026 |
 | [**Airefs**](https://getairefs.com/) | The Google Search Console for AI Search. Track AI Search Impressions and Share of Voice across hundreds of prompts, without breaking the bank. | 50% OFF Pro plan (Coupon: `BFAI50`) | Nov 26 – Dec 2, 2025 |
 | [**Picmim**](https://picmim.com/?utm_source=blackfridaydeals&utm_campaign=annual50) | AI social media manager that learns your brand from your website, plans a week of on-brand posts, and publishes across Instagram, Facebook, LinkedIn, TikTok, X and more — approve posts with a swipe or let Autopilot handle it. | 50% OFF the first year of any annual plan (Coupon: `PICMIM50`) | Oct 18 – Dec 1, 2026 |
+| [**Outmano**](https://outmano.com/?utm_source=pimjo) | AI competitive intelligence for SaaS teams: tracks competitors' pricing, website, SEO and news, alerts you on changes, and works with your AI agent via MCP. | 30% OFF the first 12 months on any monthly plan, new customers only (Coupon: `BF2026`) | Nov 3 – Dec 2, 2026 |
 
 ---
 
