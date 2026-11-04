@@ -106,6 +106,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**FlyonUI**](https://flyonui.com) | Tailwind CSS Component library with 1000+ component & variants, with 500+ Blocks and templates. | 30% OFF Storewide (Coupon: `BFCM30FY`) | Nov 18 – Dec 1, 2025 |
 
 | [**shadcn/studio**](https://shadcnstudio.com) |  Shadcn UI library with 550+ Blocks, 1000+ components & variants, AI Tools, Theme generator and templates. | 30% OFF Storewide (Coupon: `BFCM30SS`) | Nov 24 – Dec 1, 2025 |
+| [**HextaUI Pro**](https://hextaui.com/pricing?utm_source=bf-pimjo) | shadcn/ui blocks for AI products: chat threads, streaming, tool calls and agent views, installed with the shadcn CLI. | Up to 40% OFF one-time licence, $49 early-bird (regular $79), auto-applied | Nov 4 – Dec 1, 2026 |
 
 ---
 
