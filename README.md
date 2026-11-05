@@ -204,6 +204,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**HR Software (Qandle)**](https://www.qandle.com/) | All-in-one HR, payroll, attendance, and leave management software with automation and intuitive workflows. | Up to 25% OFF on all plans | Nov 24 – Dec 31, 2025 |
 | [**Summate**](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | 50% OFF - Annual: $10/mo, Monthly: $15/mo (Coupon: `SUMMATEBF25`) | Nov 25 – Dec 5, 2025 |
 | [**Autentique**](https://www.autentique.com.br/en) | Electronic signature & document workflow platform, with API, webhooks, advanced audit trail and team features. | 90% OFF with code BF2025DEV | Nov 28 – Dec 10, 2025 |
+| [**AI Toolbox**](https://www.ai-toolbox.co/pricing) | Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | 50% OFF Lifetime ($49.50) and All Access Lifetime ($99.50) with code BLACKFRIDAY. Monthly, Annual and Teams not included. | Nov 2 - Nov 30, 2026 |
 
 
 
