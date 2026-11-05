@@ -159,6 +159,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
 | [**Static.run**](https://static.run/) | Static hosting with instant deploys, built-in analytics, and CDN delivery. | 30% OFF Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
+| [**ESN Hosting**](https://panel.esnoffical.com/plans) | Discord bot, Minecraft and game server hosting on a Pterodactyl web panel (Python, Node.js, Java and more). | 85% OFF the first month on monthly plans, applied at checkout, no code needed (Stripe minimum $0.50) | Oct 31 – Dec 1, 2026 |
 
 ---
 
