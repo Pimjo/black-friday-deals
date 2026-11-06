@@ -152,6 +152,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 |------|--------------|--------------|-----------|
 | [**Lineicons**](https://lineicons.com/) | 30,000+ vector icons in 10 styles, optimized for modern web and app design. | 40% OFF Business Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Uxcel**](https://uxcel.com/) | Interactive learning platform for UX, product, and AI design skills with 500K+ users. Learn with 5-minute lessons, real projects, and certifications. | $299 Lifetime Deal (1,000 spots only) **or** 62.5% OFF Pro Yearly Plan (Auto-applied) | Nov 24 – Dec 3, 2025 |
+| [**Atmos**](https://atmos.style/?utm_source=pimjo&utm_campaign=bf2026) | Color palette tool for UI design: perceptually uniform shades in OKLCH and LCH, WCAG and APCA contrast checks, and a Figma plugin with sync. | 50% OFF Lifetime plan (Coupon: `BF2026`) | Nov 23 - 29, 2026 |
 
 
 
