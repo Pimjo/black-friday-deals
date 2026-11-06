@@ -11,7 +11,7 @@ This repo list brings together **verified deals and discounts on developer tools
 | [Meku](https://meku.dev/?ref=PimjoGitHub) <br/> 🔥 30% OFF | [Lineicons](https://lineicons.com/?ref=PimjoGitHub) <br/> 🔥 40% OFF | [TailAdmin](https://tailadmin.com/?ref=PimjoGitHub) <br/> 🔥 30% OFF |
 | --- | --- | --- |
 | <a href="https://meku.dev/?ref=PimjoGitHub"><img width="420" src="https://github.com/user-attachments/assets/6fda2a1b-5c11-4f94-a7ad-e1fc5c7dbca7" /></a> | <a href="https://lineicons.com/?ref=PimjoGitHub"><img width="420" src="https://github.com/user-attachments/assets/64852580-1c9c-4294-b88f-1a445f618155" /></a> | <a href="https://tailadmin.com/?ref=PimjoGitHub"><img width="420" src="https://github.com/user-attachments/assets/c29a3895-d009-4a31-a44b-6cdecbb9a6a5" /></a> |
-| Meku.dev is an AI-powered site and app builder for developers. Generate and deploy full-stack projects from simple prompts with essential tools and hosting. <br/> <br/>  Coupon: **BLFCM2025** | Lineicons offers 30,000+ precision-crafted icons in 10 styles, delivering consistent, scalable visuals that integrate smoothly across products. <br/>  <br/> Coupon: **BLFCM2025** | Industry-leading Tailwind CSS dashboard kit with 500+ components for modern admin panels. Available for HTML, React, Next.js, Vue, Laravel, and Angular. <br/>  <br/> Coupon: **BLFCM2025** |
+| Meku.dev is an AI-powered site and app builder for developers. Generate and deploy full-stack projects from simple prompts with essential tools and hosting. <br/> <br/>  Coupon: **BLFCM2026** | Lineicons offers 30,000+ precision-crafted icons in 10 styles, delivering consistent, scalable visuals that integrate smoothly across products. <br/>  <br/> Coupon: **BLFCM2026** | Industry-leading Tailwind CSS dashboard kit with 500+ components for modern admin panels. Available for HTML, React, Next.js, Vue, Laravel, and Angular. <br/>  <br/> Coupon: **BLFCM2026** |
 
 ## Overview
 
@@ -67,8 +67,8 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 ### 🤖 AI Tools & Automation
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
-| [**Meku**](https://meku.dev/) | AI web app builder to create full-stack sites with prompts. | 30% OFF + Free FormBold Starter (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
-| [**Aymo AI**](https://aymo.ai/) | All-in-one AI platform for teams to collaborate, research, brainstorm, and document smarter. | 30% OFF Premium Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
+| [**Meku**](https://meku.dev/) | AI web app builder to create full-stack sites with prompts. | 30% OFF + Free FormBold Starter (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
+| [**Aymo AI**](https://aymo.ai/) | All-in-one AI platform for teams to collaborate, research, brainstorm, and document smarter. | 30% OFF Premium Yearly Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
 | [**Omnify**](https://www.getomnify.com/) | Omnify is an all-in-one booking and business management platform for service-based businesses to manage schedules, payments, memberships, and customer relationships. | Up to 40 percent off monthly and annual plans (Coupon: `BFCM2025`) | November 1, 2025 to December 1, 2025 |
 | [**RewriteBar**](https://rewritebar.com?ref=pimjo&utm_source=github-pimjo) | Improve your writing in any macOS application with AI assistance. Fix grammar, adjust tone, translate, rewrite, summarize, plus custom actions and templates. | 50% OFF Lifetime Deal (Coupon: `BF2026`) | Nov 2 – Dec 3, 2026 |
 | [**Semantic Pen**](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | 20% OFF (Coupon: `20BF2025`) | Nov 25 – Dec 31, 2025 |
@@ -93,12 +93,12 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 ### 🎨 UI Kits, Templates & Boilerplates
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
-| [**TailAdmin**](https://tailadmin.com/) | Tailwind CSS admin dashboards with 500+ Components for React, Vue, and HTML projects. | 30% OFF Business Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
-| [**TailGrids**](https://tailgrids.com/) | Tailwind CSS UI library with 600+ components and templates. | 30% OFF All-Access Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
-| [**UIdeck**](https://uideck.com/) | 100+ premium HTML, React, and Tailwind templates for startups and SaaS. | 60% OFF All-Access Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
-| [**NextjsTemplates**](https://nextjstemplates.com/) | 20+ high-performance Next.js templates for SaaS and portfolios. | 40% OFF Business Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
-| [**TailTemplates**](https://tailtemplates.com/) | Tailwind CSS templates for startups, SaaS, and agencies. | 80% OFF Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
-| [**CozyCommerce**](https://cozycommerce.dev/) | Next.js Tailwind CSS eCommerce solution and boilerplate with 100+ components and 20+ pages. | 30% OFF All Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
+| [**TailAdmin**](https://tailadmin.com/) | Tailwind CSS admin dashboards with 500+ Components for React, Vue, and HTML projects. | 30% OFF Business Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
+| [**TailGrids**](https://tailgrids.com/) | Tailwind CSS UI library with 600+ components and templates. | 30% OFF All-Access Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
+| [**UIdeck**](https://uideck.com/) | 100+ premium HTML, React, and Tailwind templates for startups and SaaS. | 60% OFF All-Access Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
+| [**NextjsTemplates**](https://nextjstemplates.com/) | 20+ high-performance Next.js templates for SaaS and portfolios. | 40% OFF Business Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
+| [**TailTemplates**](https://tailtemplates.com/) | Tailwind CSS templates for startups, SaaS, and agencies. | 80% OFF Yearly Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
+| [**CozyCommerce**](https://cozycommerce.dev/) | Next.js Tailwind CSS eCommerce solution and boilerplate with 100+ components and 20+ pages. | 30% OFF All Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
 | [**Tailkit**](https://tailkit.com/) | 2,000+ responsive Tailwind CSS UI components for React, Vue.js, Laravel, Alpine.js and HTML, with an MCP server for AI-powered development. | Up to 60% OFF (Auto-applied) | Nov 23 – Dec 1, 2026 |
 | [**AdminMart**](https://adminmart.com/) | Premium admin templates and UI kits for developers. | Up to 50 percent off sitewide (Coupon: `BFCM50`) | Now to December 31, 2025 |
 | [**WrapPixel**](https://www.wrappixel.com/) | Premium UI kits, admin dashboards, and templates for developers. | Up to 50 percent off all templates (Coupon: `BFCM50`) and 95 percent off All Access Pass | Now to December 31, 2025 |
@@ -118,10 +118,10 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 ### 🛠️ Dev Tools & SaaS
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
-| [**SaaSBold**](https://saasbold.com/) | Next.js SaaS boilerplate with built-in auth, billing, and dashboard templates. | 40% OFF + Free AI Starter Kit (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
-| [**AI Starter Kit**](https://aistarterkit.dev/) | Next.js + OpenAI starter to build AI apps fast with ready-made chat and auth. | 30% OFF or Free with SaaSBold (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
-| [**NextAdmin**](https://nextadmin.co/) | Next.js admin dashboard template with 200+ components and layouts. | 30% OFF Business Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
-| [**NextMerce**](https://nextmerce.com/) | Next.js eCommerce template with Sanity CMS for modern online stores. | 30% OFF All Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
+| [**SaaSBold**](https://saasbold.com/) | Next.js SaaS boilerplate with built-in auth, billing, and dashboard templates. | 40% OFF + Free AI Starter Kit (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
+| [**AI Starter Kit**](https://aistarterkit.dev/) | Next.js + OpenAI starter to build AI apps fast with ready-made chat and auth. | 30% OFF or Free with SaaSBold (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
+| [**NextAdmin**](https://nextadmin.co/) | Next.js admin dashboard template with 200+ components and layouts. | 30% OFF Business Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
+| [**NextMerce**](https://nextmerce.com/) | Next.js eCommerce template with Sanity CMS for modern online stores. | 30% OFF All Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
 | [**Notion Backups**](https://notionbackups.com/) | Easily back up and restore your Notion workspaces. | 25% off of all yearly plans (Coupon: `NOTIONBACKUPS25`) | Nov 20 – Dec 4, 2025 |
 | [**React PDF Kit**](https://www.react-pdf-kit.dev/?utm_source=github-pimjo&utm_medium=referral&utm_campaign=bfcm2026) | React PDF Kit is a powerful PDF viewer for React apps that supports keyword highlights, programmatic control and customization. | 50% off Developer License and Organization License (Coupon: `BFCM2026`) | Nov 1 – Dec 1, 2026 |
 | [**WebsiteVoice**](https://websitevoice.com/) | Text-to-speech widget that lets visitors listen to website content with a simple play button—easy to add with one line of JS. | 20% OFF All Plans (Coupon: `VOICE20`) | Nov 1 – Dec 4, 2025 |
@@ -157,7 +157,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 ### 🖋️ Design & Icons
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
-| [**Lineicons**](https://lineicons.com/) | 30,000+ vector icons in 10 styles, optimized for modern web and app design. | 40% OFF Business Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
+| [**Lineicons**](https://lineicons.com/) | 30,000+ vector icons in 10 styles, optimized for modern web and app design. | 40% OFF Business Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
 | [**Uxcel**](https://uxcel.com/) | Interactive learning platform for UX, product, and AI design skills with 500K+ users. Learn with 5-minute lessons, real projects, and certifications. | $299 Lifetime Deal (1,000 spots only) **or** 62.5% OFF Pro Yearly Plan (Auto-applied) | Nov 24 – Dec 3, 2025 |
 | [**Atmos**](https://atmos.style/?utm_source=pimjo&utm_campaign=bf2026) | Color palette tool for UI design: perceptually uniform shades in OKLCH and LCH, WCAG and APCA contrast checks, and a Figma plugin with sync. | 50% OFF Lifetime plan (Coupon: `BF2026`) | Nov 23 - 29, 2026 |
 
@@ -168,7 +168,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 ### 🌐 Hosting & Domains
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
-| [**Static.run**](https://static.run/) | Static hosting with instant deploys, built-in analytics, and CDN delivery. | 30% OFF Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
+| [**Static.run**](https://static.run/) | Static hosting with instant deploys, built-in analytics, and CDN delivery. | 30% OFF Yearly Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
 
 ---
 
@@ -203,7 +203,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 ### 🧩 Productivity Tools
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
-| [**FormBold**](https://formbold.com/) | No-code form backend solution and API for websites with integrations for Email, Slack, Notion, and more. | 40% OFF Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
+| [**FormBold**](https://formbold.com/) | No-code form backend solution and API for websites with integrations for Email, Slack, Notion, and more. | 40% OFF Yearly Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
 | [**My Web Audit**](https://www.mywebaudit.com/) | AI-powered website audit tool for freelancers and agencies to uncover SEO, UX, and performance issues that help close more deals. | 50% OFF All Plans | Nov 11 – Dec 3, 2025 |
 | [**Wins**](https://wins.cool/) | Easy-to-use Mac window manager with Windows-like window management, Dock Preview, and keyboard shortcuts. | 40% OFF All Plans (Coupon: `BF_26`) | Nov 11 – Dec 1, 2026 |
 | [**DocuGenerate**](https://www.docugenerate.com/) | API-powered and no-code PDF document generation platform for developers and teams. | 50% OFF First 3 Months (Coupon: `BLACKFRIDAY2025`) | Nov 1 – Dec 1, 2025 |
