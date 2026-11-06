@@ -143,6 +143,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**PingPing**](https://pingping.io) | Simple and reliable website uptime & SSL-certificate monitoring. Performs 30-second health checks, alerts you immediately on downtime or expiring SSL certs, and offers clean public status-pages + a full-featured API. | LIFETIME 25% OFF with code **CYBER25** | Nov 27 - Dec 5 |
 | [**DevUtils**](https://devutils.com/?utm_source=pimjo) | Offline all-in-one toolbox for developers on macOS: JSON formatter, Base64, JWT debugger, regex tester and more, all running locally. | 60% OFF All Plans (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 30, 2026 |
 | [**anon.li**](https://anon.li/pricing) | Open-source email aliases, end-to-end encrypted file sharing and encrypted forms, with a CLI, API and MCP server. | 40% OFF all paid plans for 12 months, card checkout (Coupon: `BLKFRI40`) | Nov 2 - Dec 6, 2026 |
+| [**UserJot**](https://userjot.com/?ref=pimjo-bf) | Live chat, feedback boards, a public roadmap, and a changelog for SaaS teams, with an AI agent that answers support questions. | 30% OFF first year on yearly plans (Coupon: `BF2026`) | Now – Dec 2, 2026 |
 
 
 ---
