@@ -85,6 +85,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Saleshandy**](https://www.saleshandy.com/) | AI-powered cold email platform that helps sales teams automate outreach and book more meetings. | 50% OFF Annual Outreach Plans (Coupon: `BFCM50`) | Nov 17 – Dec 1, 2025 |
 | [**SConsoleX AI**](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | 50% OFF on all plans (Coupon: `CXBLACK2025`) | Nov 27 – Dec 3, 2025 |
 | [**TypingMind**](https://www.typingmind.com/?utm_source=pimjo) | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | 60% OFF Lifetime Premium (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 15, 2026 |
+| [**CiteWing**](https://citewing.com) | AI Backlink Outreach Agent to get recommended by AI | 36% OFF Pro Plan; 50% OFF [directory submission service](https://citewing.com/directory-submission-service). Auto-applied | Nov 1 – Dec 31, 2026 |
 
 ---
 
@@ -101,7 +102,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**AdminMart**](https://adminmart.com/) | Premium admin templates and UI kits for developers. | Up to 50 percent off sitewide (Coupon: `BFCM50`) | Now to December 31, 2025 |
 | [**WrapPixel**](https://www.wrappixel.com/) | Premium UI kits, admin dashboards, and templates for developers. | Up to 50 percent off all templates (Coupon: `BFCM50`) and 95 percent off All Access Pass | Now to December 31, 2025 |
 | [**GetNextJsTemplates**](https://getnextjstemplates.com/) | Premium Next.js templates for developers. | 50 percent off sitewide (Coupon: `BFCM50`) | Now to December 31, 2025 |
-| [**ShipAhead**](https://shipahe.ad) | Launch your AI SaaS in hours with a production-ready Nuxt 4 boilerplate built for modern AI apps. | 40% OFF Nuxt 4 Boilerplate (Coupon: `BF2025`) | Nov 10 – Dec 1, 2025 |
+| [**ShipAhead**](https://shipahe.ad) | Ship your SaaS in a weekend with Nuxt Starter Kit | 50% OFF. Auto-applied | Nov 1 – Dec 31, 2026 |
 | [**Unicorn Platform**](https://unicornplatform.com/) | AI website builder to create SaaS, app, blog, directory, and personal websites without design or coding. | 20% OFF first payment (Coupon: `JOHNRUSH`) | Nov 21 – Dec 7, 2025 |
 | [**FlyonUI**](https://flyonui.com) | Tailwind CSS Component library with 1000+ component & variants, with 500+ Blocks and templates. | 30% OFF Storewide (Coupon: `BFCM30FY`) | Nov 18 – Dec 1, 2025 |
 
