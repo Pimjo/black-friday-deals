@@ -213,6 +213,10 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Summate**](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | 50% OFF - Annual: $10/mo, Monthly: $15/mo (Coupon: `SUMMATEBF25`) | Nov 25 – Dec 5, 2025 |
 | [**Autentique**](https://www.autentique.com.br/en) | Electronic signature & document workflow platform, with API, webhooks, advanced audit trail and team features. | 90% OFF with code BF2025DEV | Nov 28 – Dec 10, 2025 |
 | [**Chronoid**](https://www.chronoid.app/pricing) | Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac. | 50% OFF Lifetime ($149 → $74.50) and Personal ($99 → $49.50) (Coupon: `BLACKFRIDAY26`) | Nov 3 – Dec 2, 2026 |
+| [**Email Me**](https://emailmeapp.net/) | The fastest way to record your thoughts as voice or text notes, sent to your inbox. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF**: $19.99 → $9.99 USD (no code needed) | Nov 27 – Dec 1, 2026 |
+| [**Digital Photo Frame**](https://digitalphotoframeapp.com/) | Turn your iPhone, iPad, Mac or Apple TV into a smart photo frame. | **50% OFF**: $19.99 → $9.99 USD (no code needed) | Nov 27 – Dec 1, 2026 |
+| [**Photo Booth App**](https://thephotoboothapp.com/) | Turn your iPhone or iPad into a photo booth for events. | **50% OFF**: $99.99 → $49.99 USD (no code needed) | Nov 27 – Dec 1, 2026 |
+| [**Our Family Album**](https://ourfamilyalbum.com/) | The private family album app for iPhone and iPad. | **50% OFF**: $49.99 → $24.99 USD (no code needed) | Nov 27 – Dec 1, 2026 |
 
 
 
