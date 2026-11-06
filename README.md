@@ -226,6 +226,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**FaceScreen**](https://facescreen.app) | Floating camera overlay with a text overlay and ring light, for screen recordings and video calls. Mac, iPhone, and iPad. One-time purchase. | 30% OFF (Coupon: `FACESCREEN30`), direct purchase from the website only | Nov 18 - Dec 2, 2026 |
 | [**KeyScreen**](https://keyscreen.app) | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app. One-time purchase. | 30% OFF (Coupon: `KEYSCREEN30`), direct purchase from the website only | Nov 18 - Dec 2, 2026 |
 | [**AI Toolbox**](https://www.ai-toolbox.co/pricing) | Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | 50% OFF Lifetime ($49.50) and All Access Lifetime ($99.50) with code BLACKFRIDAY. Monthly, Annual and Teams not included. | Nov 2 - Nov 30, 2026 |
+| [**Todowing**](https://todowing.com/?ref=pimjo) | Chrome extension that upgrades Todoist with focus sessions, time estimates, a notes pad and Apple Calendar on Today. | **40% OFF** lifetime unlock, $9.99 → $5.99 (Coupon: `BF2026`) | Nov 5 – Nov 30, 2026 |
 
 
 
