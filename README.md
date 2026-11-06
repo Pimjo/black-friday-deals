@@ -219,6 +219,9 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Digital Photo Frame**](https://digitalphotoframeapp.com/) | Turn your iPhone, iPad, Mac or Apple TV into a smart photo frame. | **50% OFF**: $19.99 → $9.99 USD (no code needed) | Nov 27 – Dec 1, 2026 |
 | [**Photo Booth App**](https://thephotoboothapp.com/) | Turn your iPhone or iPad into a photo booth for events. | **50% OFF**: $99.99 → $49.99 USD (no code needed) | Nov 27 – Dec 1, 2026 |
 | [**Our Family Album**](https://ourfamilyalbum.com/) | The private family album app for iPhone and iPad. | **50% OFF**: $49.99 → $24.99 USD (no code needed) | Nov 27 – Dec 1, 2026 |
+| [**Presentify**](https://presentifyapp.com) | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. Native Mac app for presentations, calls, demos, and teaching. One-time purchase. | 30% OFF (Coupon: `PRESENTIFY30`), direct purchase from the website only | Nov 18 - Dec 2, 2026 |
+| [**FaceScreen**](https://facescreen.app) | Floating camera overlay with a text overlay and ring light, for screen recordings and video calls. Mac, iPhone, and iPad. One-time purchase. | 30% OFF (Coupon: `FACESCREEN30`), direct purchase from the website only | Nov 18 - Dec 2, 2026 |
+| [**KeyScreen**](https://keyscreen.app) | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app. One-time purchase. | 30% OFF (Coupon: `KEYSCREEN30`), direct purchase from the website only | Nov 18 - Dec 2, 2026 |
 
 
 
