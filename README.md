@@ -116,6 +116,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**UserJot**](https://userjot.com/?ref=pimjo-bf) | Live chat, feedback boards, a public roadmap, and a changelog for SaaS teams, with an AI agent that answers support questions. | 30% OFF first year on yearly plans (Coupon: `BF2026`) | Now – Dec 2, 2026 |
 | [**ClipAudit**](https://clipaudit.app) | macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard. | 40% OFF ($29 → $17.40) (Coupon: `BLACKFRIDAY2026`) | Nov 27 – Dec 1, 2026 |
 | [**SmoothCapture**](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | 50% OFF Lifetime ($149 → $74.50) and Personal ($79 → $39.50) (Coupon: `BLACKFRIDAY26`) | Nov 3 – Dec 2, 2026 |
+| [**JuxtaCode**](https://juxtacode.app/black-friday/) | Native Mac app to compare Git branches and resolve merge conflicts with ease. One-time purchase. | 40% OFF ($40 → $24) (Coupon: `BLACKFRIDAY26`), direct purchase from juxtacode.app only, not the Mac App Store | Nov 20 – Dec 1, 2026 |
 
 ---
 
