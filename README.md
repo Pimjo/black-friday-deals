@@ -125,6 +125,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | --- | --- | --- | --- |
 | [**Lineicons**](https://lineicons.com/) | 30,000+ vector icons in 10 styles, optimized for modern web and app design. | 40% OFF Business Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
 | [**Atmos**](https://atmos.style/?utm_source=pimjo&utm_campaign=bf2026) | Color palette tool for UI design: perceptually uniform shades in OKLCH and LCH, WCAG and APCA contrast checks, and a Figma plugin with sync. | 50% OFF Lifetime plan (Coupon: `BF2026`) | Nov 23 – 29, 2026 |
+| [**LS Graphics**](https://www.ls.graphics/) | Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma, and Sketch source files. | 50% OFF all bundles, monthly plans, and annual plans | Nov 6 – Dec 1, 2026 |
 
 ---
 
