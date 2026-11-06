@@ -195,6 +195,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Outmano**](https://outmano.com/?utm_source=pimjo) | AI competitive intelligence for SaaS teams: tracks competitors' pricing, website, SEO and news, alerts you on changes, and works with your AI agent via MCP. | 30% OFF the first 12 months on any monthly plan, new customers only (Coupon: `BF2026`) | Nov 3 – Dec 2, 2026 |
 | [**Supacite**](https://supacite.com?ref=pj) | Let Claude Code and Cursor handle your SEO. Every tool they need in one place: keywords, blogs, listings, AI visibility, competitor tracking and more. | **70% OFF** Lifetime · first 100 · code `CITEBF` | Nov 9 - Dec 7, 2026 |
 | [**LandinTools**](https://tools.landin.page/advertise?ref=black-friday-deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 50% OFF Featured listing for a full year ($49 → $24.50) (Coupon: `BF2026`) | Now – Dec 1, 2026 |
+| [**Sponsonizer**](https://sponsonizer.com/?ref=pimjo) | Sell newsletter sponsorships without the email back-and-forth: sponsors pick an open slot, fill in their ad and pay with Stripe. | **50% OFF** first year of Pro Yearly, $99 → $49.50 (Coupon: `BF2026`) | Nov 5 – Nov 30, 2026 |
 
 ---
 
