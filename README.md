@@ -205,6 +205,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**HR Software (Qandle)**](https://www.qandle.com/) | All-in-one HR, payroll, attendance, and leave management software with automation and intuitive workflows. | Up to 25% OFF on all plans | Nov 24 – Dec 31, 2025 |
 | [**Summate**](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | 50% OFF - Annual: $10/mo, Monthly: $15/mo (Coupon: `SUMMATEBF25`) | Nov 25 – Dec 5, 2025 |
 | [**Autentique**](https://www.autentique.com.br/en) | Electronic signature & document workflow platform, with API, webhooks, advanced audit trail and team features. | 90% OFF with code BF2025DEV | Nov 28 – Dec 10, 2025 |
+| [**Chronoid**](https://www.chronoid.app/pricing) | Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac. | 50% OFF Lifetime ($149 → $74.50) and Personal ($99 → $49.50) (Coupon: `BLACKFRIDAY26`) | Nov 3 – Dec 2, 2026 |
 
 
 
