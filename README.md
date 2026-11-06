@@ -111,6 +111,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**shadcn/studio**](https://shadcnstudio.com) |  Shadcn UI library with 550+ Blocks, 1000+ components & variants, AI Tools, Theme generator and templates. | 30% OFF Storewide (Coupon: `BFCM30SS`) | Nov 24 – Dec 1, 2025 |
 | [**Buildkit for Astro**](https://astrobuildkit.com/) | Astro design system for building marketing websites with your AI agent: core blocks, backgrounds and animated visuals, guided by skills. | Up to 47% OFF (Auto-applied) | Nov 23 – Dec 1, 2026 |
 | [**CodedVisuals**](https://codedvisuals.com/) | Coded visual and illustration components for React and shadcn/ui, plus AI skills agents can build with. | Up to 40% OFF (Auto-applied) | Nov 23 – Dec 1, 2026 |
+| [**HextaUI Pro**](https://hextaui.com/pricing?utm_source=bf-pimjo) | shadcn/ui blocks for AI products: chat threads, streaming, tool calls and agent views, installed with the shadcn CLI. | Up to 40% OFF one-time licence, $49 early-bird (regular $79), auto-applied | Nov 4 – Dec 1, 2026 |
 
 ---
 
