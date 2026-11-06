@@ -193,6 +193,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Picmim**](https://picmim.com/?utm_source=blackfridaydeals&utm_campaign=annual50) | AI social media manager that learns your brand from your website, plans a week of on-brand posts, and publishes across Instagram, Facebook, LinkedIn, TikTok, X and more — approve posts with a swipe or let Autopilot handle it. | 50% OFF the first year of any annual plan (Coupon: `PICMIM50`) | Oct 18 – Dec 1, 2026 |
 | [**Outmano**](https://outmano.com/?utm_source=pimjo) | AI competitive intelligence for SaaS teams: tracks competitors' pricing, website, SEO and news, alerts you on changes, and works with your AI agent via MCP. | 30% OFF the first 12 months on any monthly plan, new customers only (Coupon: `BF2026`) | Nov 3 – Dec 2, 2026 |
 | [**Supacite**](https://supacite.com?ref=pj) | Let Claude Code and Cursor handle your SEO. Every tool they need in one place: keywords, blogs, listings, AI visibility, competitor tracking and more. | **70% OFF** Lifetime · first 100 · code `CITEBF` | Nov 9 - Dec 7, 2026 |
+| [**LandinTools**](https://tools.landin.page/advertise?ref=black-friday-deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 50% OFF Featured listing for a full year ($49 → $24.50) (Coupon: `BF2026`) | Now – Dec 1, 2026 |
 
 ---
 
@@ -238,6 +239,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**pwn.guide**](https://pwn.guide) | Learn cybersecurity from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, cryptography, defense & **certification training** (for certificates like the CompTIA Security+ SY0-701). | **20% off** all plans **including Lifetime** with the coupon: `BLKFRI20` | Ends on Dec 5, 2025 |
 | [**Certificates.dev**](https://certificates.dev/?utm_source=greygrids&utm_medium=github&utm_campaign=cert_bf2025_bf) | Certifications for React, Angular, JavaScript, Vue, and Nuxt built with creators and industry experts; trusted by developers at 680+ companies. | Up to 60% OFF + free Junior certification and two AI dev courses | Nov 11 – Dec 3, 2025 |
 | [**AIDD – AI-Driven Development Masterclass**](https://www.aidd.io?friend=VUEPDF) | Learn to code 20x faster with AI using real-world workflows like test generation, code reviews, and repo-aware agents. Includes bonuses and a 30-day money-back guarantee. | **45% OFF all plans** | Now – Dec 3, 2025 |
+| [**Get Your First Client**](https://getyourfirstclient.freelancerpath.com/?ref=black-friday-deals) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | 50% OFF ($49.99 → $24.99), limited redemptions (Coupon: `BLACK`) | Now – Dec 1, 2026 |
 
 
 ---
