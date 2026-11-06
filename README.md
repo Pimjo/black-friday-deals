@@ -225,6 +225,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Presentify**](https://presentifyapp.com) | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. Native Mac app for presentations, calls, demos, and teaching. One-time purchase. | 30% OFF (Coupon: `PRESENTIFY30`), direct purchase from the website only | Nov 18 - Dec 2, 2026 |
 | [**FaceScreen**](https://facescreen.app) | Floating camera overlay with a text overlay and ring light, for screen recordings and video calls. Mac, iPhone, and iPad. One-time purchase. | 30% OFF (Coupon: `FACESCREEN30`), direct purchase from the website only | Nov 18 - Dec 2, 2026 |
 | [**KeyScreen**](https://keyscreen.app) | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app. One-time purchase. | 30% OFF (Coupon: `KEYSCREEN30`), direct purchase from the website only | Nov 18 - Dec 2, 2026 |
+| [**AI Toolbox**](https://www.ai-toolbox.co/pricing) | Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | 50% OFF Lifetime ($49.50) and All Access Lifetime ($99.50) with code BLACKFRIDAY. Monthly, Annual and Teams not included. | Nov 2 - Nov 30, 2026 |
 
 
 
