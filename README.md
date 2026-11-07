@@ -116,6 +116,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**UserJot**](https://userjot.com/?ref=pimjo-bf) | Live chat, feedback boards, a public roadmap, and a changelog for SaaS teams, with an AI agent that answers support questions. | 30% OFF first year on yearly plans (Coupon: `BF2026`) | Now – Dec 2, 2026 |
 | [**ClipAudit**](https://clipaudit.app) | macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard. | 40% OFF ($29 → $17.40) (Coupon: `BLACKFRIDAY2026`) | Nov 27 – Dec 1, 2026 |
 | [**SmoothCapture**](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | 50% OFF Lifetime ($149 → $74.50) and Personal ($79 → $39.50) (Coupon: `BLACKFRIDAY26`) | Nov 3 – Dec 2, 2026 |
+| [**Evendeals**](https://evendeals.com/?ref=pimjo) | Purchasing power parity pricing for SaaS and digital products. Increase revenue by up to 30% with location-based discounts. | 40% OFF all annual and lifetime plans (Coupon: `BF2026`) | Nov 5 – Nov 30, 2026 |
 
 ---
 
