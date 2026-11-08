@@ -147,6 +147,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**LandinTools**](https://tools.landin.page/advertise?ref=black-friday-deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 50% OFF Featured listing for a full year ($49 → $24.50) (Coupon: `BF2026`) | Now – Dec 1, 2026 |
 | [**Sponsonizer**](https://sponsonizer.com/?ref=pimjo) | Sell newsletter sponsorships without the email back-and-forth: sponsors pick an open slot, fill in their ad and pay with Stripe. | **50% OFF** first year of Pro Yearly, $99 → $49.50 (Coupon: `BF2026`) | Nov 5 – Nov 30, 2026 |
 | [**Outpublished**](https://outpublished.com/black-friday) | Shows content and SEO teams every page their competitors have that they don't, and each new one they publish. | 40% OFF all paid plans for as long as you stay subscribed, first 150 accounts (no coupon needed) | Nov 20 – Dec 4, 2026 |
+| [**Posteady**](https://www.posteady.com/black-friday?promo=BF26&utm_source=pimjo&utm_medium=referral&utm_campaign=bf2026) | AI social media workspace with a REST API and an MCP server: schedule, publish and read posts on Threads, Instagram, X, LinkedIn, TikTok, YouTube and Facebook from your code or from Claude, ChatGPT and other MCP clients. Also turns a link or idea into carousels and Reels. | **50% OFF** annual plans, half the monthly price and kept while you stay annual (Coupon: `BF26`) · new monthly subscribers: 20% OFF the first 3 months | Nov 20 – Dec 3, 2026 |
 
 ---
 
