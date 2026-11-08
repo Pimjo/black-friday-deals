@@ -147,6 +147,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**LandinTools**](https://tools.landin.page/advertise?ref=black-friday-deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 50% OFF Featured listing for a full year ($49 → $24.50) (Coupon: `BF2026`) | Now – Dec 1, 2026 |
 | [**Sponsonizer**](https://sponsonizer.com/?ref=pimjo) | Sell newsletter sponsorships without the email back-and-forth: sponsors pick an open slot, fill in their ad and pay with Stripe. | **50% OFF** first year of Pro Yearly, $99 → $49.50 (Coupon: `BF2026`) | Nov 5 – Nov 30, 2026 |
 | [**Outpublished**](https://outpublished.com/black-friday) | Shows content and SEO teams every page their competitors have that they don't, and each new one they publish. | 40% OFF all paid plans for as long as you stay subscribed, first 150 accounts (no coupon needed) | Nov 20 – Dec 4, 2026 |
+| [**Nuelink**](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=pimjo_black_friday_deals) | Agentic social media scheduling and automation for 12 platforms: tell Claude or ChatGPT what to post and Nuelink publishes it. | 50% OFF yearly plans (6 months free) or 25% OFF your first 3 monthly payments (Coupon: `BFCM26`) | Nov 6 – Nov 30, 2026 |
 
 ---
 
