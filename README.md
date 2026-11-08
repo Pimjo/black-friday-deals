@@ -174,6 +174,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
 | [**Get Your First Client**](https://getyourfirstclient.freelancerpath.com/?ref=black-friday-deals) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | 50% OFF ($49.99 → $24.99), limited redemptions (Coupon: `BLACK`) | Now – Dec 1, 2026 |
+| [**pwn.guide**](https://pwn.guide/pricing) | Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training. | 20% OFF all plans, forever, including renewals and lifetime plans, card checkout (Coupon: `BLKFRI20`) | Nov 1 - Dec 5, 2026 |
 
 ---
 
