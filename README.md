@@ -118,6 +118,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**SmoothCapture**](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | 50% OFF Lifetime ($149 → $74.50) and Personal ($79 → $39.50) (Coupon: `BLACKFRIDAY26`) | Nov 3 – Dec 2, 2026 |
 | [**Rapidemo**](https://getrapidemo.com/pricing?utm_source=pimjo) | Screen recorder for Windows with auto-zoom, cursor smoothing, camera layouts and studio voice. | **30% OFF** first year on the yearly plan, $108 → $75.60 (Coupon: `BLACKFRIDAY26`) | Nov 19 – Dec 2, 2026 |
 | [**JuxtaCode**](https://juxtacode.app/black-friday/) | Native Mac app to compare Git branches and resolve merge conflicts with ease. One-time purchase. | 40% OFF ($40 → $24) (Coupon: `BLACKFRIDAY26`), direct purchase from juxtacode.app only, not the Mac App Store | Nov 20 – Dec 1, 2026 |
+| [**Evendeals**](https://evendeals.com/?ref=pimjo) | Purchasing power parity pricing for SaaS and digital products. Increase revenue by up to 30% with location-based discounts. | 40% OFF all annual and lifetime plans (Coupon: `BF2026`) | Nov 5 – Nov 30, 2026 |
 
 ---
 
