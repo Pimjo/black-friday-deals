@@ -122,6 +122,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**GetYouTubeTranscript**](https://getyoutubetranscript.com/pricing) | YouTube transcript API, MCP server and Chrome extension: transcripts, search and channel data in one call. | 30% OFF the first year of the annual plan ($54 → $37.80), auto-applied at checkout (Coupon: `BF26GYT`) | Nov 1 – Dec 10, 2026 |
 | [**ScreenSage Pro**](https://screensage.pro/bf2026?ref=pimjo-bf2026) | Native macOS screen recorder/editor for product demos, with automatic cursor zoom and camera layouts. | **Up to 53% OFF**: Lifetime $449 → $209.90 (Coupon: `BFS2026L`); Pro 3 Macs $149 → $79.90 (Coupon: `BFS2026P`) | Nov 4 – Dec 15, 2026 |
 | [**CleanClip**](https://pricing.cleanclip.cc/src?ref=pimjo-bf2026) | Native Mac clipboard manager for development workflows, with searchable history, smart lists and quick paste. | **30% OFF**: Standard $19.99 → $13.99, Pro $29.99 → $20.99 (Coupon: `BF2026`) | Nov 4 – Dec 15, 2026 |
+| [**Kilobat Pro**](https://kilobat.app) | macOS network monitoring and diagnostics for app connections and hotspot data. | 30% OFF one-time Pro license for two Macs, US$29 → US$20.30 before tax (Coupon: `BLACKFRIDAY30`); includes v1 updates. | Nov 20 – Nov 30, 2026 (upcoming) |
 
 ---
 
