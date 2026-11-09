@@ -119,6 +119,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Rapidemo**](https://getrapidemo.com/pricing?utm_source=pimjo) | Screen recorder for Windows with auto-zoom, cursor smoothing, camera layouts and studio voice. | **30% OFF** first year on the yearly plan, $108 → $75.60 (Coupon: `BLACKFRIDAY26`) | Nov 19 – Dec 2, 2026 |
 | [**JuxtaCode**](https://juxtacode.app/black-friday/) | Native Mac app to compare Git branches and resolve merge conflicts with ease. One-time purchase. | 40% OFF ($40 → $24) (Coupon: `BLACKFRIDAY26`), direct purchase from juxtacode.app only, not the Mac App Store | Nov 20 – Dec 1, 2026 |
 | [**Evendeals**](https://evendeals.com/?ref=pimjo) | Purchasing power parity pricing for SaaS and digital products. Increase revenue by up to 30% with location-based discounts. | 40% OFF all annual and lifetime plans (Coupon: `BF2026`) | Nov 5 – Nov 30, 2026 |
+| [**GetYouTubeTranscript**](https://getyoutubetranscript.com/pricing) | YouTube transcript API, MCP server and Chrome extension: transcripts, search and channel data in one call. | 30% OFF the first year of the annual plan ($54 → $37.80), auto-applied at checkout (Coupon: `BF26GYT`) | Nov 1 – Dec 10, 2026 |
 
 ---
 
