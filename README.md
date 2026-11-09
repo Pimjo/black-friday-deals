@@ -174,6 +174,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
 | [**Get Your First Client**](https://getyourfirstclient.freelancerpath.com/?ref=black-friday-deals) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | 50% OFF ($49.99 → $24.99), limited redemptions (Coupon: `BLACK`) | Now – Dec 1, 2026 |
+| [**LabEx**](https://labex.io/) | Learn Linux, DevOps, Cybersecurity, and Cloud with hands-on labs. | [**30% OFF LabEx Pro — 1 Year**](https://labex.io/checkout?type=2&coupon=2026BF30) (Coupon: `2026BF30`); [**50% OFF LabEx Pro — 2 Years**](https://labex.io/checkout?type=4&coupon=2026BF50) (Coupon: `2026BF50`) | Now – Dec 7, 2026 |
 
 ---
 
