@@ -120,6 +120,8 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**JuxtaCode**](https://juxtacode.app/black-friday/) | Native Mac app to compare Git branches and resolve merge conflicts with ease. One-time purchase. | 40% OFF ($40 → $24) (Coupon: `BLACKFRIDAY26`), direct purchase from juxtacode.app only, not the Mac App Store | Nov 20 – Dec 1, 2026 |
 | [**Evendeals**](https://evendeals.com/?ref=pimjo) | Purchasing power parity pricing for SaaS and digital products. Increase revenue by up to 30% with location-based discounts. | 40% OFF all annual and lifetime plans (Coupon: `BF2026`) | Nov 5 – Nov 30, 2026 |
 | [**GetYouTubeTranscript**](https://getyoutubetranscript.com/pricing) | YouTube transcript API, MCP server and Chrome extension: transcripts, search and channel data in one call. | 30% OFF the first year of the annual plan ($54 → $37.80), auto-applied at checkout (Coupon: `BF26GYT`) | Nov 1 – Dec 10, 2026 |
+| [**ScreenSage Pro**](https://screensage.pro/bf2026?ref=pimjo-bf2026) | Native macOS screen recorder/editor for product demos, with automatic cursor zoom and camera layouts. | **Up to 53% OFF**: Lifetime $449 → $209.90 (Coupon: `BFS2026L`); Pro 3 Macs $149 → $79.90 (Coupon: `BFS2026P`) | Nov 4 – Dec 15, 2026 |
+| [**CleanClip**](https://pricing.cleanclip.cc/src?ref=pimjo-bf2026) | Native Mac clipboard manager for development workflows, with searchable history, smart lists and quick paste. | **30% OFF**: Standard $19.99 → $13.99, Pro $29.99 → $20.99 (Coupon: `BF2026`) | Nov 4 – Dec 15, 2026 |
 
 ---
 
