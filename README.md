@@ -1,10 +1,12 @@
 # Best Black Friday Deals 2026 - AI Tools, SaaS, Apps, Developer-Designer Tools and More
 
-The ultimate **Black Friday** and **Cyber Monday 2026** Deals collection for developers, designers, and makers.
+The ultimate **Black Friday** and **Cyber Monday 2026** deals list for **AI tools, SaaS products, apps, and developer and design tools**, from UI kits and templates to hosting, marketing, and productivity apps.
 
-This repo list brings together **verified deals and discounts on developer tools, SaaS products, UI kits, templates, design assets, and AI tools** - all curated to help you **build faster, design better, and save bigger** this season.
+Deals are **submitted by makers and the community and reviewed** before they go live, with the coupon code and dates in one place.
 
-> **Total Deals Count**: 78+
+> **Total Deals Count**: 78+ · Have a deal? [Add it here](#how-to-contribute)
+
+**Jump to:** [🤖 AI Tools](#ai-tools) · [🎨 UI Kits & Templates](#ui-kits-templates) · [🛠️ Dev Tools & SaaS](#dev-tools-saas) · [🖋️ Design & Icons](#design-icons) · [🌐 Hosting](#hosting-domains) · [📈 Marketing & SEO](#marketing-seo) · [🧩 Productivity & Apps](#productivity) · [📚 Books & Courses](#books-courses) · [⚙️ NoCode](#nocode) · [🗞️ Communities](#communities-newsletters) · [🧱 Other](#other-resources)
 
 ## Featured Deals
 
@@ -13,60 +15,11 @@ This repo list brings together **verified deals and discounts on developer tools
 | <a href="https://meku.dev/?ref=PimjoGitHub"><img width="420" src="https://github.com/user-attachments/assets/6fda2a1b-5c11-4f94-a7ad-e1fc5c7dbca7" /></a> | <a href="https://lineicons.com/?ref=PimjoGitHub"><img width="420" src="https://github.com/user-attachments/assets/64852580-1c9c-4294-b88f-1a445f618155" /></a> | <a href="https://tailadmin.com/?ref=PimjoGitHub"><img width="420" src="https://github.com/user-attachments/assets/c29a3895-d009-4a31-a44b-6cdecbb9a6a5" /></a> |
 | Meku.dev is an AI-powered site and app builder for developers. Generate and deploy full-stack projects from simple prompts with essential tools and hosting. <br/><br/> Coupon: **BLFCM2026** | Lineicons offers 30,000+ precision-crafted icons in 10 styles, delivering consistent, scalable visuals that integrate smoothly across products. <br/><br/> Coupon: **BLFCM2026** | Industry-leading Tailwind CSS dashboard kit with 500+ components for modern admin panels. Available for HTML, React, Next.js, Vue, Laravel, and Angular. <br/><br/> Coupon: **BLFCM2026** |
 
-## Overview
+## 🔥 All Black Friday & Cyber Monday 2026 Deals
 
-Every year, hundreds of tools and platforms run **Black Friday developer deals** and **Cyber Monday SaaS offers**, but most get lost in the noise.
+**How to redeem:** open the product link and use the coupon at checkout. "Auto-applied" or "no code needed" means the discount is added for you. Deals are submitted by their makers, so check the final price at checkout.
 
-**Who It’s For**
-
-- Developers working with React, Next.js, Tailwind, and modern stacks
-- Designers looking for UI kits, icon packs, and design systems
-- Indie makers and SaaS founders seeking affordable upgrades
-- AI enthusiasts exploring workflow automation tools
-
-**What You’ll Find**
-
-- **Curated, verified deals** on trusted developer and designer tools
-- **Centralized listings** for 2026’s best dev and SaaS offers
-- **Community contributions** from developers, teams, and creators
-- **Simple submission process** for both technical and non-technical users
-- **Each deal includes** the product name, description, offer, and validity
-
-## How to Contribute
-
-Found a great **Black Friday 2026** or **Cyber Monday 2026** deal? Add it here and help the community discover verified discounts.
-
-**For Developers (GitHub Users)**
-
-1. Fork this repository
-2. Edit the `README.md` file
-3. Add your deal under the correct category (see format below)
-4. Submit a Pull Request
-
-**Include:** the product link, coupon (if any), and offer validity dates.
-
-> For Everyone Else: 👉 **[Submit a Deal Form](https://forms.gle/UFG576VMFPeBGzM3A)**
-
-Our team reviews and publishes valid submissions within **24–48 hours**.
-
----
-
-## Submission Guidelines
-
-To maintain quality and accuracy:
-
-- Submit only **active or upcoming deals**
-- Use **official links** no third-party coupon sites
-- Include **start and end dates** when available
-- **Check for duplicates** before submitting
-- Deals must be relevant to **developers or designers**
-- Maintain the existing order: **first come, first served**
-
----
-
-## 🔥 Best Black Friday Deals for Developers and Designers
-
-Find the best **Black Friday** and **Cyber Monday 2026** deals across categories from developer tools and AI platforms to UI kits, hosting, and more.
+<a id="ai-tools"></a>
 
 ### 🤖 AI Tools & Automation
 
@@ -84,6 +37,8 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Renderly**](https://renderly.video/pricing?code=BLACKFRIDAY2026&utm_source=pimjo-bf26) | Video rendering API: send a JSON template and your data, get an MP4 back. Product videos, personalized clips and captioned shorts, with a browser editor, AI captions and voiceover, Zapier and Make, and an MCP server for Claude. | 30% OFF the first payment of a new Creator or Business subscription (Coupon: `BLACKFRIDAY2026`) | Nov 27 – Dec 1, 2026 |
 
 ---
+
+<a id="ui-kits-templates"></a>
 
 ### 🎨 UI Kits, Templates & Boilerplates
 
@@ -104,6 +59,8 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Miguel Recio Framer Templates**](https://www.framer.com/@miguel-recio/) | Framer website templates for SaaS, boutique hotels, real estate, law firms and finance, plus CMS components and vector sets for Framer. | 30% OFF all paid templates and components (Coupon: `BF26`) · 5-template bundle $99 → $69, no code needed | Nov 24 – Dec 1, 2026 |
 
 ---
+
+<a id="dev-tools-saas"></a>
 
 ### 🛠️ Dev Tools & SaaS
 
@@ -130,6 +87,8 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 
 ---
 
+<a id="design-icons"></a>
+
 ### 🖋️ Design & Icons
 
 | Name | Description | Deal Details | Validity |
@@ -140,6 +99,8 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 
 ---
 
+<a id="hosting-domains"></a>
+
 ### 🌐 Hosting & Domains
 
 | Name | Description | Deal Details | Validity |
@@ -148,6 +109,8 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**OneClickClaw**](https://oneclickclaw.io/plans?utm_source=pimjo&utm_medium=deal_list&utm_campaign=blackfriday2026) | Your own OpenClaw or Hermes Agent server in the EU (Denmark), set up for you. Free 7-day trial, no card. | Up to 33% OFF the first month on monthly plans: Starter €9.99 (was €14.99), Hobbyist €17.99 (was €25.99), Pro €34.99 (was €49.99). Auto-applied at checkout, no code. Then the regular monthly price | Nov 10 – Dec 1, 2026 |
 
 ---
+
+<a id="marketing-seo"></a>
 
 ### 📈 Marketing & SEO Tools
 
@@ -168,6 +131,8 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Broadcast**](https://sendbroadcast.net/black-friday?ref=pimjo) | Self-hosted email marketing for developers: newsletters, automations and transactional email on your own server, with a REST API, an MCP server and your own SES, Postmark, Mailgun or SMTP. One-time license, unlimited subscribers. | **40% OFF** the Regular License, one-time ($250 → $150) (Coupon: `BLACKFRIDAY26`) | Nov 9 – Dec 1, 2026 |
 
 ---
+
+<a id="productivity"></a>
 
 ### 🧩 Productivity Tools
 
@@ -191,6 +156,8 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 
 ---
 
+<a id="books-courses"></a>
+
 ### 📚 Books & Courses
 
 | Name | Description | Deal Details | Validity |
@@ -202,37 +169,103 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 
 ---
 
+<a id="nocode"></a>
+
 ### ⚙️ NoCode Tools
+
+_No deals yet. [Add yours](#how-to-contribute)!_
 
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
-| **Product Name** | Example: No-code builder or automation tool | **XX% OFF** — Code: `COUPONCODE` | Nov 25 – Dec 2, 2026 |
 
 ---
+
+<a id="communities-newsletters"></a>
 
 ### 🗞️ Communities & Newsletters
 
+_No deals yet. [Add yours](#how-to-contribute)!_
+
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
-| **Product Name** | Example: Developer community or newsletter subscription | **XX% OFF** — Code: `COUPONCODE` | Nov 25 – Dec 2, 2026 |
 
 ---
 
+<a id="other-resources"></a>
+
 ### 🧱 Other Resources for Devs
+
+_No deals yet. [Add yours](#how-to-contribute)!_
 
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
-| **Product Name** | Example: Plugin, legal tool, or other developer resource | **XX% OFF** — Code: `COUPONCODE` | Nov 25 – Dec 2, 2026 |
+
+---
+
+## How to Contribute
+
+Found a great **Black Friday 2026** or **Cyber Monday 2026** deal? Add it here and help the community discover verified discounts.
+
+**For Developers (GitHub Users)**
+
+1. Fork this repository
+2. Edit the `README.md` file
+3. Add your deal at the end of the right category, using the format below
+4. Submit a Pull Request
+
+**Include:** the product link, coupon (if any), and offer validity dates.
+
+```md
+| [**Product Name**](https://example.com) | One-line description of the product. | 30% OFF yearly plans (Coupon: `CODE2026`) | Nov 20 – Dec 2, 2026 |
+```
+
+> For Everyone Else: 👉 **[Submit a Deal Form](https://forms.gle/UFG576VMFPeBGzM3A)**
+
+Our team reviews and publishes valid submissions within **24–48 hours**.
+
+---
+
+## Submission Guidelines
+
+To maintain quality and accuracy:
+
+- Submit only **active or upcoming deals**
+- Use **official links**, no third-party coupon sites
+- Include **start and end dates** when available
+- **Check for duplicates** before submitting
+- Deals must be on **AI tools, SaaS, apps, or developer and design tools**
+- Maintain the existing order: **first come, first served**
+
+---
+
+## About This List
+
+Every year, hundreds of tools and platforms run **Black Friday developer deals** and **Cyber Monday SaaS offers**, but most get lost in the noise.
+
+**Who It’s For**
+
+- Developers working with React, Next.js, Tailwind, and modern stacks
+- Designers looking for UI kits, icon packs, and design systems
+- Indie makers and SaaS founders seeking affordable upgrades
+- AI users and teams looking for better tools and apps for less
+
+**What You’ll Find**
+
+- **Curated, verified deals** on AI tools, SaaS, apps, and developer and design tools
+- **One list** for 2026’s best AI, SaaS, and app offers
+- **Community contributions** from developers, teams, and creators
+- **Simple submission process** for both technical and non-technical users
+- **Each deal includes** the product name, description, offer, and validity
 
 ---
 
 ## Why This Deals Repository
 
-We’re building a **community-driven hub** for the developer and design ecosystem as a single destination where creators find all relevant **Black Friday & Cyber Monday deals** each year.
+We’re building a **community-driven hub** for developers, designers, makers, and teams as a single destination where creators find all relevant **Black Friday & Cyber Monday deals** each year.
 
 Our mission is to make this repo:
 
-- **Searchable** (optimized for “developer Black Friday deals”)
+- **Searchable** (easy to scan by category)
 - **Trustworthy** (verified entries only)
 - **Inclusive** (open to non-technical submissions)
 - **Resourceful** (up-to-date through the holiday season)
@@ -245,24 +278,28 @@ This repository is open-source under the [MIT License](LICENSE).
 All deals are community-submitted and verified by maintainers.
 
 <!--
-black friday developer deals 2025,
+black friday developer deals 2026,
 cyber monday developer discounts,
 black friday saas deals for developers,
 ui kits black friday,
 nextjs templates black friday,
 tailwind ui black friday,
 icon packs black friday,
-ai tools black friday 2025,
+ai tools black friday 2026,
 design assets black friday,
 developer productivity tools black friday,
 developer black friday resources,
 black friday software deals for developers,
 developer tool discounts,
-developer templates black friday 2025,
+developer templates black friday 2026,
 black friday website builder deals,
-black friday 2025 dev tools,
-cyber monday dev deals 2025,
+black friday 2026 dev tools,
+cyber monday dev deals 2026,
 saas tools black friday,
 black friday offers for developers,
-cyber monday software deals 2025
+cyber monday software deals 2026,
+black friday ai tools deals 2026,
+black friday saas deals 2026,
+black friday app deals 2026,
+black friday mac app deals 2026
 -->
