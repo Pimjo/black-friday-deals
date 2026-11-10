@@ -4,7 +4,7 @@ The ultimate **Black Friday** and **Cyber Monday 2026** Deals collection for dev
 
 This repo list brings together **verified deals and discounts on developer tools, SaaS products, UI kits, templates, design assets, and AI tools** - all curated to help you **build faster, design better, and save bigger** this season.
 
-> **Total Deals Count**: 66+
+> **Total Deals Count**: 78+
 
 ## Featured Deals
 
@@ -81,7 +81,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**JSON2Video**](https://json2video.com/pricing/blackfriday-2026/?c=pimjo) | Video editing API: turn JSON or templates into MP4 videos with AI voices, subtitles and AI images, from code, n8n, Make, Zapier, Claude or ChatGPT. | 25% OFF the first year of yearly plans: Professional $299.70 (was $399.60), Hobby $149.63 (was $199.50) (Coupon: `BF2026PIMJO`) | Nov 24 – Dec 1, 2026 |
 | [**Nivon**](https://nivon.ai/) | AI customer support chatbot trained on your website and docs, with handoff to your team for unresolved chats. | 30% OFF Paid Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2026 |
 | [**SnapDub**](https://snapdub.ai/) | Turn a long video (stream, podcast or YouTube link) into captioned vertical clips for TikTok, Reels and Shorts, ready to post. Also works inside ChatGPT and Claude. | 20% OFF the first month, any plan (Coupon: `BLACKFRIDAY20`) | Now – Dec 4, 2026 |
-| [**Renderly**](https://renderly.video/pricing?code=BLACKFRIDAY2026&utm_source=pimjo-bf26) | Video rendering API: send a JSON template and your data, get an MP4 back. Product videos, personalized clips and captioned shorts, with a browser editor, AI captions and voiceover, Zapier and Make, and an MCP server for Claude. | 30% OFF the first payment of a new Creator or Business subscription (Coupon: `BLACKFRIDAY2026`) | Nov 27 - Dec 1, 2026 |
+| [**Renderly**](https://renderly.video/pricing?code=BLACKFRIDAY2026&utm_source=pimjo-bf26) | Video rendering API: send a JSON template and your data, get an MP4 back. Product videos, personalized clips and captioned shorts, with a browser editor, AI captions and voiceover, Zapier and Make, and an MCP server for Claude. | 30% OFF the first payment of a new Creator or Business subscription (Coupon: `BLACKFRIDAY2026`) | Nov 27 – Dec 1, 2026 |
 
 ---
 
@@ -145,7 +145,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
 | [**Static.run**](https://static.run/) | Static hosting with instant deploys, built-in analytics, and CDN delivery. | 30% OFF Yearly Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
-| [**OneClickClaw**](https://oneclickclaw.io/plans?utm_source=pimjo&utm_medium=deal_list&utm_campaign=blackfriday2026) | Your own OpenClaw or Hermes Agent server in the EU (Denmark), set up for you. Free 7-day trial, no card. | Up to 33% OFF the first month on monthly plans: Starter €9.99 (was €14.99), Hobbyist €17.99 (was €25.99), Pro €34.99 (was €49.99). Auto-applied at checkout, no code. Then the regular monthly price | Nov 10 - Dec 1, 2026 |
+| [**OneClickClaw**](https://oneclickclaw.io/plans?utm_source=pimjo&utm_medium=deal_list&utm_campaign=blackfriday2026) | Your own OpenClaw or Hermes Agent server in the EU (Denmark), set up for you. Free 7-day trial, no card. | Up to 33% OFF the first month on monthly plans: Starter €9.99 (was €14.99), Hobbyist €17.99 (was €25.99), Pro €34.99 (was €49.99). Auto-applied at checkout, no code. Then the regular monthly price | Nov 10 – Dec 1, 2026 |
 
 ---
 
