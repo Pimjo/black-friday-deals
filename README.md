@@ -162,6 +162,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Terlido**](https://terlido.com/pricing?utm_source=pimjo&utm_medium=deal-list&utm_campaign=bfcm-2026) | Cold email and newsletters from your own mailbox: warmup, campaigns, inbox and an AI agent. Newsletters free up to 10,000 subscribers. | **40% OFF** for 12 months: Email Pro $39 → $23.40/seat/mo, Newsletter Pro $29 → $17.40/mo (Coupon: `BF2026`) | Nov 9 – Dec 1, 2026 |
 | [**PageDuel**](https://pageduel.com/pricing?utm_source=pimjo&utm_medium=deal-list&utm_campaign=bfcm-2026) | Web analytics, A/B testing and revenue attribution in one tool, plus funnels and URL personalization. For indie hackers, SaaS and Shopify stores. | **40% OFF** for 12 months, plans from $9 → $5.40/mo (Coupon: `BF2026`) | Nov 9 – Dec 1, 2026 |
 | [**RenderPixels**](https://renderpixels.com/?ref=pimjo) | MCP server that lets Claude, ChatGPT or other assistants that support remote MCP and OAuth make your marketing images, like Open Graph images, social posts and logos. | 20% OFF any credit pack, credits never expire (Coupon: `BF2026`) | Nov 9 – Nov 30, 2026 |
+| [**Broadcast**](https://sendbroadcast.net/black-friday?ref=pimjo) | Self-hosted email marketing for developers: newsletters, automations and transactional email on your own server, with a REST API, an MCP server and your own SES, Postmark, Mailgun or SMTP. One-time license, unlimited subscribers. | **40% OFF** the Regular License, one-time ($250 → $150) (Coupon: `BLACKFRIDAY26`) | Nov 9 – Dec 1, 2026 |
 
 ---
 
