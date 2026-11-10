@@ -141,6 +141,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
 | [**Static.run**](https://static.run/) | Static hosting with instant deploys, built-in analytics, and CDN delivery. | 30% OFF Yearly Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
+| [**OneClickClaw**](https://oneclickclaw.io/plans?utm_source=pimjo&utm_medium=deal_list&utm_campaign=blackfriday2026) | Your own OpenClaw or Hermes Agent server in the EU (Denmark), set up for you. Free 7-day trial, no card. | Up to 33% OFF the first month on monthly plans: Starter €9.99 (was €14.99), Hobbyist €17.99 (was €25.99), Pro €34.99 (was €49.99). Auto-applied at checkout, no code. Then the regular monthly price | Nov 10 - Dec 1, 2026 |
 
 ---
 
