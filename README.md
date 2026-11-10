@@ -106,6 +106,7 @@ Please follow the rules below:
 |💸|[PageDuel](https://pageduel.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm-2026)| Web analytics, A/B testing and revenue attribution in one tool, plus funnels and URL personalization. For indie hackers, SaaS and Shopify stores. | **40% OFF** for 12 months with code **BF2026**: plans from $9 → $5.40/mo (until Dec 1, 2026)|
 |💸|[RenderPixels](https://renderpixels.com/?ref=dqhieu)| MCP server that lets Claude, ChatGPT or other assistants that support remote MCP and OAuth make your marketing images, like Open Graph images, social posts and logos | **20% OFF** any credit pack with code **BF2026** (credits never expire, until Nov 30)|
 |🤑|[Scanify](https://scanify.to/pricing)| Check a link, file, QR code or IP before you open it, on the web: 95+ antivirus engines, domain age, redirects and a sandbox picture of the page. | **50% OFF** Lifetime Pro with code **BLACKFRIDAY** ($29 → $14.50, one payment), or **50% OFF** Pro monthly for 3 months with code **BFPRO** ($20 → $10/mo) (Nov 10 – Dec 9, 2026)|
+|🤑|[Scanify](https://scanify.to/pricing)| Check a link, file, QR code or IP before you open it, on the web: 95+ antivirus engines, domain age, redirects and a sandbox picture of the page. | **50% OFF** Lifetime Pro with code **BLACKFRIDAY** ($29 → $14.50, one payment), or **50% OFF** Pro monthly for 3 months with code **BFPRO** ($20 → $10/mo) (Nov 10 – Dec 9, 2026)|
 
 ---
 
