@@ -186,6 +186,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Todowing**](https://todowing.com/?ref=pimjo) | Chrome extension that upgrades Todoist with focus sessions, time estimates, a notes pad and Apple Calendar on Today. | **40% OFF** lifetime unlock, $9.99 → $5.99 (Coupon: `BF2026`) | Nov 5 – Nov 30, 2026 |
 | [**Iruka**](https://iruka.sh/black-friday) | Native file manager for Mac with dual panes, previews, and a terminal that follows your folder. | 30% OFF new licences, $19.99 → $13.99 (Coupon: `BF30`) | Nov 6 – Dec 3, 2026 |
 | [**SmoothCut**](https://smoothcut.studio/pricing) | Screen recorder for macOS and Windows that auto-zooms on your clicks, smooths the cursor, and adds a camera bubble and on-device captions. One-time purchase. | 40% OFF Personal ($79 → $47.40) and Pro ($169 → $101.40) (Coupon: `BLACKFRIDAY40`, auto-applied at checkout) | Nov 10 – Dec 1, 2026 |
+| [**Pimosa**](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. One-time purchase. | 40% OFF one-time licenses, Personal $29 → $17.40, Plus $49 → $29.40 (Coupon: `BLACKFRIDAY40`, auto-applied at checkout) | Nov 10 – Nov 30, 2026 |
 
 ---
 
