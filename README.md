@@ -1,4 +1,4 @@
-# Best Black Friday Deals 2026 - Developers & Designers
+# Best Black Friday Deals 2026 - AI Tools, SaaS, Apps, Developer-Designer Tools and More
 
 The ultimate **Black Friday** and **Cyber Monday 2026** Deals collection for developers, designers, and makers.
 
