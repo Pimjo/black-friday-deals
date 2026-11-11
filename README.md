@@ -127,6 +127,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**CleanClip**](https://pricing.cleanclip.cc/src?ref=pimjo-bf2026) | Native Mac clipboard manager for development workflows, with searchable history, smart lists and quick paste. | **30% OFF**: Standard $19.99 → $13.99, Pro $29.99 → $20.99 (Coupon: `BF2026`) | Nov 4 – Dec 15, 2026 |
 | [**Kilobat Pro**](https://kilobat.app) | macOS network monitoring and diagnostics for app connections and hotspot data. | 30% OFF one-time Pro license for two Macs, US$29 → US$20.30 before tax (Coupon: `BLACKFRIDAY30`); includes v1 updates. | Nov 20 – Nov 30, 2026 (upcoming) |
 | [**Piloterr**](https://www.piloterr.com/blackfriday) | Web scraping API for developers: one call returns the page or structured data, with headless browsers and proxy rotation handled for you. | **50% OFF** first 3 months on every monthly plan, e.g. Premium $49 → $24.50/mo (Coupon: `BLACKFRIDAY50`) | Now – Nov 30, 2026 |
+| [Vibe App Scanner](https://vibeappscanner.com/black-friday) | Live-app and source-code security checks with evidence, fix guidance and coverage limits. | **60% OFF the first month** of Go or Pro, automatically applied. New-account Go $11.60 then $29 USD/month; Pro $19.60 then $49 USD/month. First subscriptions only; previous subscriptions and AppSumo excluded. No code needed. | Nov 10-30, 2026; ends 11:59pm Toronto (EST) |
 
 ---
 
