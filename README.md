@@ -82,6 +82,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | [**Nivon**](https://nivon.ai/) | AI customer support chatbot trained on your website and docs, with handoff to your team for unresolved chats. | 30% OFF Paid Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2026 |
 | [**SnapDub**](https://snapdub.ai/) | Turn a long video (stream, podcast or YouTube link) into captioned vertical clips for TikTok, Reels and Shorts, ready to post. Also works inside ChatGPT and Claude. | 20% OFF the first month, any plan (Coupon: `BLACKFRIDAY20`) | Now – Dec 4, 2026 |
 | [**Renderly**](https://renderly.video/pricing?code=BLACKFRIDAY2026&utm_source=pimjo-bf26) | Video rendering API: send a JSON template and your data, get an MP4 back. Product videos, personalized clips and captioned shorts, with a browser editor, AI captions and voiceover, Zapier and Make, and an MCP server for Claude. | 30% OFF the first payment of a new Creator or Business subscription (Coupon: `BLACKFRIDAY2026`) | Nov 27 – Dec 1, 2026 |
+| [**MindPal**](https://mindpal.io/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Turn your expertise into AI agents and multi-agent workflows, with your own knowledge, tools, MCP servers and API, and share them on a link, an embed or your own domain. No code. | 60% OFF your first year on any annual plan (Coupon: `BLACKFRIDAY2026`) | Nov 10 – Dec 11, 2026 |
 
 ---
 
