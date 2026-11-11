@@ -223,6 +223,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
 | **Product Name** | Example: Plugin, legal tool, or other developer resource | **XX% OFF** — Code: `COUPONCODE` | Nov 25 – Dec 2, 2026 |
+| [**SmartUsername Pro**](https://smartusername.com/black-friday/?code=PIMJO10) | WordPress plugin that renames any user, including admin, and stops WordPress showing login names in author URLs, the REST API and oEmbed. Free version on wordpress.org. | **60% OFF** every yearly plan, no code (Personal $29 → $12, Pro $79 → $32, Agency $179 → $72 first year; lifetime $299 → $149). Extra 10% (Coupon: `PIMJO10`) | Nov 11 – Dec 1, 2026 |
 
 ---
 
