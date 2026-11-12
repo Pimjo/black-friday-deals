@@ -62,6 +62,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**HextaUI Pro**](https://hextaui.com/pricing?utm_source=bf-pimjo) | shadcn/ui blocks for AI products: chat threads, streaming, tool calls and agent views, installed with the shadcn CLI. | Up to 40% OFF one-time licence, $49 early-bird (regular $79), auto-applied | Nov 4 – Dec 1, 2026 |
 | [**Miguel Recio Framer Templates**](https://www.framer.com/@miguel-recio/) | Framer website templates for SaaS, boutique hotels, real estate, law firms and finance, plus CMS components and vector sets for Framer. | 30% OFF all paid templates and components (Coupon: `BF26`) · 5-template bundle $99 → $69, no code needed | Nov 24 – Dec 1, 2026 |
 | [**Dirstarter**](https://dirstarter.com/?discountCode=BF2026) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories. | 50% OFF lifetime license, Basic $150 → $75, Pro $200 → $100 (Coupon: `BF2026`) | Nov 10 – Dec 1, 2026 |
+| [**Bardach Technologies Templates**](https://bardachtechnologies.gumroad.com/) | Spreadsheet and Notion templates for small businesses and freelancers, and the Larderly menu costing. | 25% OFF all products, regular prices from $4.99 (Coupon: `BLACKFRIDAY2026`) | Nov 24 – Dec 1, 2026 |
 
 ---
 
