@@ -97,6 +97,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Mailazy**](https://mailazy.com/) | Email sending API and marketing. | 30% OFF (Coupon: `THANKS30`), Pro $49/month → $34.30/month | Nov 5, 2026 – Feb 5, 2027 |
 | [**RealUptime**](https://realuptime.io/pricing) | Uptime monitoring, status pages and error tracking on one plan, with a free tier and 14-day Pro trial. | **50% OFF for life** for the first 20 customers, then **40% OFF** the first year; automatic at checkout (no code) | Nov 23 – Nov 30, 2026 |
 | [**Perch**](https://perch.run/black-friday?ref=pimjo) | Native Mac menu bar app for Claude Code, Codex, Cursor and six more AI coding agents: see every session, and approve from your iPhone and Apple Watch. | 40% OFF one-time licence ($29 → $17.40), solo or per team seat, first 500 orders (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 1, 2026 |
+| [**Safe Screen Share**](https://www.safescreenshare.com) | Chrome and Firefox extension that auto-blurs emails, API keys and customer data before you screen share or record. | 40% OFF lifetime license (Coupon: `BF2026`) | Nov 13 – Dec 2, 2026 |
 
 ---
 
