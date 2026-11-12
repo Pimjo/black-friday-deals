@@ -39,6 +39,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**ClipUGC**](https://clipugc.com/black-friday?utm_source=pimjo) | Make UGC style videos for your app with AI influencers. Paste your App Store or Play link and a screen recording, get vertical videos with hooks and captions. Also works from the terminal with an npm CLI and an MCP server. | 50% OFF any plan for your first 2 months: Professional $7.50/mo (was $14.99) (Coupon: `BLACKFRIDAY`) | Now – Dec 6, 2026 |
 | [**Leelo**](https://leelo-ai.com/black-friday?utm_source=github-pimjo) | AI voice studio on the web: text to speech in 1,100+ voices and 82 languages, video dubbing, voice cloning and transcription. Pay once instead of a monthly subscription. | Lifetime Pro $149 (was $199), one payment for 80,000 credits every month; 50% more credits on every pack; up to 30% OFF the first payment of a plan. No code needed | Nov 24 – Dec 1, 2026 |
 | [**MindPal**](https://mindpal.io/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Turn your expertise into AI agents and multi-agent workflows, with your own knowledge, tools, MCP servers and API, and share them on a link, an embed or your own domain. No code. | 60% OFF your first year on any annual plan (Coupon: `BLACKFRIDAY2026`) | Nov 10 – Dec 11, 2026 |
+| [**Wordfully**](https://www.wordfully.ai/c/BLACKFRIDAY2026) | AI grammar checker and rephraser for everyday writing. | **50% OFF the first Pro payment** (Coupon: `BLACKFRIDAY2026`). Monthly $20 → $10 for the first month; annual $108 → $54 for the first year (USD, before tax). First-time paying customers only; renewals at normal price. | From Nov 12, 2026; no expiry |
 
 ---
 
@@ -214,7 +215,6 @@ _No deals yet. [Add yours](#how-to-contribute)!_
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
 | [**SmartUsername Pro**](https://smartusername.com/black-friday/?code=PIMJO10) | WordPress plugin that renames any user, including admin, and stops WordPress showing login names in author URLs, the REST API and oEmbed. Free version on wordpress.org. | **60% OFF** every yearly plan, no code (Personal $29 → $12, Pro $79 → $32, Agency $179 → $72 first year; lifetime $299 → $149). Extra 10% (Coupon: `PIMJO10`) | Nov 11 – Dec 1, 2026 |
-| [**Wordfully**](https://www.wordfully.ai/c/BLACKFRIDAY2026) | AI grammar checker and rephraser for everyday writing. | **50% OFF the first Pro payment** (Coupon: `BLACKFRIDAY2026`). Monthly $20 → $10 for the first month; annual $108 → $54 for the first year (USD, before tax). First-time paying customers only; renewals at normal price. | From Nov 12, 2026; no expiry |
 
 ---
 
