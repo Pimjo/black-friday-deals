@@ -90,6 +90,9 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Scanify**](https://scanify.to/pricing) | Check a link, file, QR code or IP before you open it: 95+ antivirus engines, domain age, redirect chain and a sandbox picture of the page, in one 0-100 risk score. | 50% OFF Lifetime Pro, $29 → $14.50 (Coupon: `BLACKFRIDAY`) · 50% OFF Pro monthly for 3 months, $20 → $10/mo (Coupon: `BFPRO`) | Nov 10 – Dec 9, 2026 |
 | [**POSH**](https://poshtui.com/black-friday?utm_source=pimjo-bf&utm_campaign=bf2026) | Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP. Free terminal browser. macOS & Linux. | **30% OFF** monthly and yearly plans, kept while you stay subscribed: €7 → €4.90/month, €60 → €42/year (Coupon: `BLACKFRIDAY2026`). New subscriptions only | Nov 11 – Dec 2, 2026 |
 | [Vibe App Scanner](https://vibeappscanner.com/black-friday) | Live-app and source-code security checks with evidence, fix guidance and coverage limits. | **60% OFF the first month** of Go or Pro, automatically applied. New-account Go $11.60 then $29 USD/month; Pro $19.60 then $49 USD/month. First subscriptions only; previous subscriptions and AppSumo excluded. No code needed. | Nov 10-30, 2026; ends 11:59pm Toronto (EST) |
+| [**SSOJet**](https://ssojet.com/) | Single sign-on for B2B apps. | 20% OFF (Coupon: `BF2026`), Business $79/connection/month → $63.20 | Through Dec 15, 2026 |
+| [**MojoAuth**](https://mojoauth.com/) | Passwordless login for apps. | 20% OFF (Coupon: `BF2026`), Business Pro (2,500 MAU) $150/month → $120/month | Through Dec 15, 2026 |
+| [**Mailazy**](https://mailazy.com/) | Email sending API and marketing. | 30% OFF (Coupon: `THANKS30`), Pro $49/month → $34.30/month | Nov 5, 2026 – Feb 5, 2027 |
 
 ---
 
