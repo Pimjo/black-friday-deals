@@ -93,6 +93,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**SSOJet**](https://ssojet.com/) | Single sign-on for B2B apps. | 20% OFF (Coupon: `BF2026`), Business $79/connection/month → $63.20 | Through Dec 15, 2026 |
 | [**MojoAuth**](https://mojoauth.com/) | Passwordless login for apps. | 20% OFF (Coupon: `BF2026`), Business Pro (2,500 MAU) $150/month → $120/month | Through Dec 15, 2026 |
 | [**Mailazy**](https://mailazy.com/) | Email sending API and marketing. | 30% OFF (Coupon: `THANKS30`), Pro $49/month → $34.30/month | Nov 5, 2026 – Feb 5, 2027 |
+| [**RealUptime**](https://realuptime.io/pricing) | Uptime monitoring, status pages and error tracking on one plan, with a free tier and 14-day Pro trial. | **50% OFF for life** for the first 20 customers, then **40% OFF** the first year; automatic at checkout (no code) | Nov 23 – Nov 30, 2026 |
 
 ---
 
