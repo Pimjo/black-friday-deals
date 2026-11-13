@@ -62,6 +62,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**HextaUI Pro**](https://hextaui.com/pricing?utm_source=bf-pimjo) | shadcn/ui blocks for AI products: chat threads, streaming, tool calls and agent views, installed with the shadcn CLI. | Up to 40% OFF one-time licence, $49 early-bird (regular $79), auto-applied | Nov 4 – Dec 1, 2026 |
 | [**Miguel Recio Framer Templates**](https://www.framer.com/@miguel-recio/) | Framer website templates for SaaS, boutique hotels, real estate, law firms and finance, plus CMS components and vector sets for Framer. | 30% OFF all paid templates and components (Coupon: `BF26`) · 5-template bundle $99 → $69, no code needed | Nov 24 – Dec 1, 2026 |
 | [**Dirstarter**](https://dirstarter.com/?discountCode=BF2026) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories. | 50% OFF lifetime license, Basic $150 → $75, Pro $200 → $100 (Coupon: `BF2026`) | Nov 10 – Dec 1, 2026 |
+| **[MingCute UI](https://ui.mingcute.com/?utm_source=bfd1)** | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) Coupon: `BF2026` | Nov 15 - Dec 5, 2026 |
 
 ---
 
@@ -109,6 +110,9 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Lineicons**](https://lineicons.com/) | 30,000+ vector icons in 10 styles, optimized for modern web and app design. | 40% OFF Business Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2026 |
 | [**Atmos**](https://atmos.style/?utm_source=pimjo&utm_campaign=bf2026) | Color palette tool for UI design: perceptually uniform shades in OKLCH and LCH, WCAG and APCA contrast checks, and a Figma plugin with sync. | 50% OFF Lifetime plan (Coupon: `BF2026`) | Nov 23 – 29, 2026 |
 | [**LS Graphics**](https://www.ls.graphics/) | Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma, and Sketch source files. | 50% OFF all bundles, monthly plans, and annual plans | Nov 6 – Dec 1, 2026 |
+| **[MingCute Icons](https://mgc.mingcute.com/?utm_source=bfd1)** | Carefully crafted icon pack collection featuring over 27,000 high-quality vector icons | **30% OFF** ($59 → $41) Coupon: `BF2026` | Nov 15 - Dec 5, 2026 |
+| **[Animation Icons](https://www.mingcute.com/animation?utm_source=bfd1)** | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) Coupon: `BF2026` | Nov 15 - Dec 5, 2026 |
+| **[Weather Icons](https://mgcweather.framer.website/?utm_source=bfd1)** | 120 graceful weather icons | **30% OFF** ($25 → $17.5) Coupon: `BF2026` | Nov 15 - Dec 5, 2026 |
 
 ---
 
