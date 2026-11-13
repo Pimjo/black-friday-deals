@@ -4,7 +4,7 @@ The ultimate **Black Friday** and **Cyber Monday 2026** deals list for **AI tool
 
 Deals are **submitted by makers and the community and reviewed** before they go live, with the coupon code and dates in one place.
 
-> **Total Deals Count**: 95+ · Have a deal? [Add it here](#how-to-contribute)
+> **Total Deals Count**: 112+ · Have a deal? [Add it here](#how-to-contribute)
 
 **Jump to:** [🤖 AI Tools](#ai-tools) · [🎨 UI Kits & Templates](#ui-kits-templates) · [🛠️ Dev Tools & SaaS](#dev-tools-saas) · [🖋️ Design & Icons](#design-icons) · [🌐 Hosting](#hosting-domains) · [📈 Marketing & SEO](#marketing-seo) · [🧩 Productivity & Apps](#productivity) · [📚 Books & Courses](#books-courses) · [⚙️ NoCode](#nocode) · [🗞️ Communities](#communities-newsletters) · [🧱 Other](#other-resources)
 
@@ -39,8 +39,8 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**ClipUGC**](https://clipugc.com/black-friday?utm_source=pimjo) | Make UGC style videos for your app with AI influencers. Paste your App Store or Play link and a screen recording, get vertical videos with hooks and captions. Also works from the terminal with an npm CLI and an MCP server. | 50% OFF any plan for your first 2 months: Professional $7.50/mo (was $14.99) (Coupon: `BLACKFRIDAY`) | Now – Dec 6, 2026 |
 | [**Leelo**](https://leelo-ai.com/black-friday?utm_source=github-pimjo) | AI voice studio on the web: text to speech in 1,100+ voices and 82 languages, video dubbing, voice cloning and transcription. Pay once instead of a monthly subscription. | Lifetime Pro $149 (was $199), one payment for 80,000 credits every month; 50% more credits on every pack; up to 30% OFF the first payment of a plan. No code needed | Nov 24 – Dec 1, 2026 |
 | [**MindPal**](https://mindpal.io/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Turn your expertise into AI agents and multi-agent workflows, with your own knowledge, tools, MCP servers and API, and share them on a link, an embed or your own domain. No code. | 60% OFF your first year on any annual plan (Coupon: `BLACKFRIDAY2026`) | Nov 10 – Dec 11, 2026 |
-| [**Wovo**](https://wovo.one/?ref=pimjo2026#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | 50% OFF Pro and Max yearly plans, auto-applied at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | through Dec 15, 2026 |
-| [**Wordfully**](https://www.wordfully.ai/c/BLACKFRIDAY2026) | AI grammar checker and rephraser for everyday writing. | **50% OFF the first Pro payment** (Coupon: `BLACKFRIDAY2026`). Monthly $20 → $10 for the first month; annual $108 → $54 for the first year (USD, before tax). First-time paying customers only; renewals at normal price. | Nov 12 – Dec 4, 2026 (ends 23:59 Europe/Warsaw) |
+| [**Wovo**](https://wovo.one/?ref=pimjo2026#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | 50% OFF Pro and Max yearly plans, auto-applied at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | Now – Dec 15, 2026 |
+| [**Wordfully**](https://www.wordfully.ai/c/BLACKFRIDAY2026) | AI grammar checker and rephraser for everyday writing. | **50% OFF the first Pro payment** (Coupon: `BLACKFRIDAY2026`). Monthly $20 → $10 for the first month; annual $108 → $54 for the first year (USD, before tax). First-time paying customers only; renewals at normal price. | Nov 12 – Dec 4, 2026 |
 | [**Let's Trip**](https://letstrip.ai/pricing) | AI travel planner with personalized itineraries, hotel and flight price tracking, and price-drop alerts. | 50% OFF Premium: $5/month (was $10) or $50/year (was $100). | Nov 11 – Dec 1, 2026 |
 
 ---
@@ -66,8 +66,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Miguel Recio Framer Templates**](https://www.framer.com/@miguel-recio/) | Framer website templates for SaaS, boutique hotels, real estate, law firms and finance, plus CMS components and vector sets for Framer. | 30% OFF all paid templates and components (Coupon: `BF26`) · 5-template bundle $99 → $69, no code needed | Nov 24 – Dec 1, 2026 |
 | [**Dirstarter**](https://dirstarter.com/?discountCode=BF2026) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories. | 50% OFF lifetime license, Basic $150 → $75, Pro $200 → $100 (Coupon: `BF2026`) | Nov 10 – Dec 1, 2026 |
 | [**Shashank Thigale Framer Templates**](https://shashankthigale.com/templates/?utm_source=pimjo&utm_medium=referral&utm_campaign=bfcm2026) | Niche Framer website templates for med spas (Nacre), retreat centers (Quinta) and therapy practices (Bower), with booking flows and CMS content. | 30% OFF all templates, single-site and Unlimited licenses; All-Access Pass (every template and component) $199 → $139 (Coupon: `BFCM30`) | Nov 27 - Dec 1, 2026 |
-| [**Bardach Technologies Templates**](https://bardachtechnologies.gumroad.com/) | Spreadsheet and Notion templates for small businesses and freelancers, and the Larderly menu costing. | 25% OFF all products, regular prices from $4.99 (Coupon: `BLACKFRIDAY2026`) | Nov 24 – Dec 1, 2026 |
-| **[MingCute UI](https://ui.mingcute.com/?utm_source=bfd1)** | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) Coupon: `BF2026` | Nov 15 - Dec 5, 2026 |
+| [**MingCute UI**](https://ui.mingcute.com/?utm_source=bfd1) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
 
 ---
 
@@ -117,11 +116,11 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Lineicons**](https://lineicons.com/) | 30,000+ vector icons in 10 styles, optimized for modern web and app design. | 40% OFF Business Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2026 |
 | [**Atmos**](https://atmos.style/?utm_source=pimjo&utm_campaign=bf2026) | Color palette tool for UI design: perceptually uniform shades in OKLCH and LCH, WCAG and APCA contrast checks, and a Figma plugin with sync. | 50% OFF Lifetime plan (Coupon: `BF2026`) | Nov 23 – 29, 2026 |
 | [**LS Graphics**](https://www.ls.graphics/) | Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma, and Sketch source files. | 50% OFF all bundles, monthly plans, and annual plans | Nov 6 – Dec 1, 2026 |
-| [**Artnap Pro**](https://artnap.com/pro) | Archive of about 540,000 public domain artworks from museum open access collections, with museum master files and print-ready paper sizes in Pro. | 38% OFF first year of the yearly plan, $95.88 → $59, renews at $95.88 (no code needed) | Nov 23 – 30, 2026 |
+| [**Artnap Pro**](https://artnap.com/pro) | Archive of about 540,000 public domain artworks from museum open access collections, with museum master files and print-ready paper sizes in Pro. | 38% OFF first year of the yearly plan, $95.88 → $59, renews at $95.88 (no code needed) | Nov 23 – Nov 30, 2026 |
 | [**Sip**](https://sipapp.io/) | Modern color picker for macOS to collect, organize, edit, and share colors and palettes. | 50% OFF with `BLACKFRIDAY26` ([Black Friday](https://sipapp.io/blackfriday/) Nov 27–29) and `CYBERMONDAY26` ([Cyber Monday](https://sipapp.io/cybermonday/) Nov 30–Dec 2) | Nov 27 – Dec 2, 2026 |
-| **[MingCute Icons](https://mgc.mingcute.com/?utm_source=bfd1)** | Carefully crafted icon pack collection featuring over 27,000 high-quality vector icons | **30% OFF** ($59 → $41) Coupon: `BF2026` | Nov 15 - Dec 5, 2026 |
-| **[Animation Icons](https://www.mingcute.com/animation?utm_source=bfd1)** | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) Coupon: `BF2026` | Nov 15 - Dec 5, 2026 |
-| **[Weather Icons](https://mgcweather.framer.website/?utm_source=bfd1)** | 120 graceful weather icons | **30% OFF** ($25 → $17.5) Coupon: `BF2026` | Nov 15 - Dec 5, 2026 |
+| [**MingCute Icons**](https://mgc.mingcute.com/?utm_source=bfd1) | Carefully crafted icon pack collection featuring over 27,000 high-quality vector icons | **30% OFF** ($59 → $41) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
+| [**Animation Icons**](https://www.mingcute.com/animation?utm_source=bfd1) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
+| [**Weather Icons**](https://mgcweather.framer.website/?utm_source=bfd1) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
 
 ---
 
@@ -183,8 +182,9 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**SmoothCut**](https://smoothcut.studio/pricing) | Screen recorder for macOS and Windows that auto-zooms on your clicks, smooths the cursor, and adds a camera bubble and on-device captions. One-time purchase. | 40% OFF Personal ($79 → $47.40) and Pro ($169 → $101.40) (Coupon: `BLACKFRIDAY40`, auto-applied at checkout) | Nov 10 – Dec 1, 2026 |
 | [**Pimosa**](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. One-time purchase. | 40% OFF one-time licenses, Personal $29 → $17.40, Plus $49 → $29.40 (Coupon: `BLACKFRIDAY40`, auto-applied at checkout) | Nov 10 – Nov 30, 2026 |
 | [**ScreenSnap Pro**](https://www.screensnap.pro/pricing) | All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. One-time purchase. | 50% OFF lifetime license, $39 → $19.50 (Coupon: `BLACKFRIDAY`) | Nov 10 – Nov 30, 2026 |
-| [**Gramcheck**](https://extensions.loopspec.com/gramcheck?utm_source=github_pimjo&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=gramcheck) | On-device grammar and spelling checker for Chrome; your writing is never uploaded. | **51% OFF** one-time license: $39 → $19, including 5 years of updates; no code needed. License keeps working afterward. | Nov 5 – Dec 2, 2026 (UTC) |
-| [**Roomtape**](https://extensions.loopspec.com/roomtape?utm_source=github_pimjo&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=roomtape) | Chrome extension that records Google Meet and Teams calls to local MP4 files, with no bot or uploads. | **69% OFF** one-time license: $29 → $9, including 3 years of updates; no code needed. License keeps working afterward. | Nov 5 – Dec 2, 2026 (UTC) |
+| [**Gramcheck**](https://extensions.loopspec.com/gramcheck?utm_source=github_pimjo&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=gramcheck) | On-device grammar and spelling checker for Chrome; your writing is never uploaded. | **51% OFF** one-time license: $39 → $19, including 5 years of updates; no code needed. License keeps working afterward. | Nov 5 – Dec 2, 2026 |
+| [**Roomtape**](https://extensions.loopspec.com/roomtape?utm_source=github_pimjo&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=roomtape) | Chrome extension that records Google Meet and Teams calls to local MP4 files, with no bot or uploads. | **69% OFF** one-time license: $29 → $9, including 3 years of updates; no code needed. License keeps working afterward. | Nov 5 – Dec 2, 2026 |
+| [**Bardach Technologies Templates**](https://bardachtechnologies.gumroad.com/) | Spreadsheet and Notion templates for small businesses and freelancers, and the Larderly menu costing. | 25% OFF all products, regular prices from $4.99 (Coupon: `BLACKFRIDAY2026`) | Nov 24 – Dec 1, 2026 |
 
 ---
 
@@ -249,6 +249,7 @@ Found a great **Black Friday 2026** or **Cyber Monday 2026** deal? Add it here a
 
 ```md
 | [**Product Name**](https://example.com) | One-line description of the product. | 30% OFF yearly plans (Coupon: `CODE2026`) | Nov 20 – Dec 2, 2026 |
+
 ```
 
 > For Everyone Else: 👉 **[Submit a Deal Form](https://forms.gle/UFG576VMFPeBGzM3A)**
