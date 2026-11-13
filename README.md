@@ -64,6 +64,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Miguel Recio Framer Templates**](https://www.framer.com/@miguel-recio/) | Framer website templates for SaaS, boutique hotels, real estate, law firms and finance, plus CMS components and vector sets for Framer. | 30% OFF all paid templates and components (Coupon: `BF26`) · 5-template bundle $99 → $69, no code needed | Nov 24 – Dec 1, 2026 |
 | [**Dirstarter**](https://dirstarter.com/?discountCode=BF2026) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories. | 50% OFF lifetime license, Basic $150 → $75, Pro $200 → $100 (Coupon: `BF2026`) | Nov 10 – Dec 1, 2026 |
 | [**Shashank Thigale Framer Templates**](https://shashankthigale.com/templates/?utm_source=pimjo&utm_medium=referral&utm_campaign=bfcm2026) | Niche Framer website templates for med spas (Nacre), retreat centers (Quinta) and therapy practices (Bower), with booking flows and CMS content. | 30% OFF all templates, single-site and Unlimited licenses; All-Access Pass (every template and component) $199 → $139 (Coupon: `BFCM30`) | Nov 27 - Dec 1, 2026 |
+| [**Bardach Technologies Templates**](https://bardachtechnologies.gumroad.com/) | Spreadsheet and Notion templates for small businesses and freelancers, and the Larderly menu costing. | 25% OFF all products, regular prices from $4.99 (Coupon: `BLACKFRIDAY2026`) | Nov 24 – Dec 1, 2026 |
 
 ---
 
