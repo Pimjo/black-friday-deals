@@ -14,7 +14,6 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | --- | --- | --- |
 | <a href="https://meku.dev/?ref=PimjoGitHub"><img width="420" src="https://github.com/user-attachments/assets/6fda2a1b-5c11-4f94-a7ad-e1fc5c7dbca7" /></a> | <a href="https://lineicons.com/?ref=PimjoGitHub"><img width="420" src="https://github.com/user-attachments/assets/64852580-1c9c-4294-b88f-1a445f618155" /></a> | <a href="https://tailadmin.com/?ref=PimjoGitHub"><img width="420" src="https://github.com/user-attachments/assets/c29a3895-d009-4a31-a44b-6cdecbb9a6a5" /></a> |
 | Meku.dev is an AI-powered site and app builder for developers. Generate and deploy full-stack projects from simple prompts with essential tools and hosting. <br/><br/> Coupon: **BLFCM2026** | Lineicons offers 30,000+ precision-crafted icons in 10 styles, delivering consistent, scalable visuals that integrate smoothly across products. <br/><br/> Coupon: **BLFCM2026** | Industry-leading Tailwind CSS dashboard kit with 500+ components for modern admin panels. Available for HTML, React, Next.js, Vue, Laravel, and Angular. <br/><br/> Coupon: **BLFCM2026** |
-| [**DevIntern**](https://devintern.com/pricing/) | Self-hosted worker that turns tracker tickets into PRs with your own coding agent across multiple repos, plus automations. | **40% OFF** the first invoice: Team $99 → $59.40 first month or $990 → $594 first year; Business $299 → $179.40 first month or $2,990 → $1,794 first year; Supporter License $99 → $59.40 (Coupon: `BLACKFRIDAY26`) | Nov 20 – Dec 1, 2026 | 
 
 ## 🔥 All Black Friday & Cyber Monday 2026 Deals
 
@@ -105,6 +104,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Perch**](https://perch.run/black-friday?ref=pimjo) | Native Mac menu bar app for Claude Code, Codex, Cursor and six more AI coding agents: see every session, and approve from your iPhone and Apple Watch. | 40% OFF one-time licence ($29 → $17.40), solo or per team seat, first 500 orders (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 1, 2026 |
 | [**Safe Screen Share**](https://www.safescreenshare.com) | Chrome and Firefox extension that auto-blurs emails, API keys and customer data before you screen share or record. | 40% OFF lifetime license (Coupon: `BF2026`) | Nov 13 – Dec 2, 2026 |
 | [**DevWorkspace Pro**](https://devworkspacepro.com) | One desktop app to run, code and ship any dev project: Files, Git, GitHub, AI agents, terminal, and DDEV, Docker or native runtimes. | 40% OFF All Plans (Coupon: `BLACKFRIDAY40OFF`) | Nov 10 – Dec 10, 2026 |
+| [**DevIntern**](https://devintern.com/pricing/) | Self-hosted worker that turns tracker tickets into PRs with your own coding agent across multiple repos, plus automations. | **40% OFF** the first invoice: Team $99 → $59.40 first month or $990 → $594 first year; Business $299 → $179.40 first month or $2,990 → $1,794 first year; Supporter License $99 → $59.40 (Coupon: `BLACKFRIDAY26`) | Nov 20 – Dec 1, 2026 | 
 
 ---
 
