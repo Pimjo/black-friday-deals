@@ -67,6 +67,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Dirstarter**](https://dirstarter.com/?discountCode=BF2026) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories. | 50% OFF lifetime license, Basic $150 → $75, Pro $200 → $100 (Coupon: `BF2026`) | Nov 10 – Dec 1, 2026 |
 | [**Shashank Thigale Framer Templates**](https://shashankthigale.com/templates/?utm_source=pimjo&utm_medium=referral&utm_campaign=bfcm2026) | Niche Framer website templates for med spas (Nacre), retreat centers (Quinta) and therapy practices (Bower), with booking flows and CMS content. | 30% OFF all templates, single-site and Unlimited licenses; All-Access Pass (every template and component) $199 → $139 (Coupon: `BFCM30`) | Nov 27 - Dec 1, 2026 |
 | [**MingCute UI**](https://ui.mingcute.com/?utm_source=bfd1) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
+| [**SaaSykit**](https://saasykit.com/) | Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics. One-time purchase. | **50% OFF** all versions: SaaSykit $239 → $119.50, Tenancy $269 → $134.50, Complete $299 → $149.50. Auto-applied (Coupon: `BLACKFRIDAY26`) | Nov 14 – Dec 6, 2026 |
 
 ---
 
@@ -185,6 +186,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Gramcheck**](https://extensions.loopspec.com/gramcheck?utm_source=github_pimjo&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=gramcheck) | On-device grammar and spelling checker for Chrome; your writing is never uploaded. | **51% OFF** one-time license: $39 → $19, including 5 years of updates; no code needed. License keeps working afterward. | Nov 5 – Dec 2, 2026 |
 | [**Roomtape**](https://extensions.loopspec.com/roomtape?utm_source=github_pimjo&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=roomtape) | Chrome extension that records Google Meet and Teams calls to local MP4 files, with no bot or uploads. | **69% OFF** one-time license: $29 → $9, including 3 years of updates; no code needed. License keeps working afterward. | Nov 5 – Dec 2, 2026 |
 | [**Bardach Technologies Templates**](https://bardachtechnologies.gumroad.com/) | Spreadsheet and Notion templates for small businesses and freelancers, and the Larderly menu costing. | 25% OFF all products, regular prices from $4.99 (Coupon: `BLACKFRIDAY2026`) | Nov 24 – Dec 1, 2026 |
+| [**CopyPasta**](https://usecopypasta.com/) | Private-by-default clipboard manager for macOS that opens from the notch. One-time purchase. | **50% OFF** all licenses: Personal $14.99 → $7.50, Plus $29.99 → $15, Studio $39.99 → $20. Auto-applied (Coupon: `BLACKFRIDAY26`) | Nov 14 – Dec 6, 2026 |
 
 ---
 
