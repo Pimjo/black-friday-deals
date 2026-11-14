@@ -104,6 +104,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Perch**](https://perch.run/black-friday?ref=pimjo) | Native Mac menu bar app for Claude Code, Codex, Cursor and six more AI coding agents: see every session, and approve from your iPhone and Apple Watch. | 40% OFF one-time licence ($29 → $17.40), solo or per team seat, first 500 orders (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 1, 2026 |
 | [**Safe Screen Share**](https://www.safescreenshare.com) | Chrome and Firefox extension that auto-blurs emails, API keys and customer data before you screen share or record. | 40% OFF lifetime license (Coupon: `BF2026`) | Nov 13 – Dec 2, 2026 |
 | [**DevWorkspace Pro**](https://devworkspacepro.com) | One desktop app to run, code and ship any dev project: Files, Git, GitHub, AI agents, terminal, and DDEV, Docker or native runtimes. | 40% OFF All Plans (Coupon: `BLACKFRIDAY40OFF`) | Nov 10 – Dec 10, 2026 |
+| [**Zero-Trace Ship Kit**](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=pimjo) | Git hooks that stop commit and push when a supported leak pattern (keys, home paths, private keys, e-mails, photo metadata) is found, plus clean release ZIPs. Python, no network. | Solo licence 40% OFF, $39 → $23.40, buy once (Coupon: `FOUNDER10`, first 100 uses) | Nov 14 – Nov 30, 2026 |
 
 ---
 
