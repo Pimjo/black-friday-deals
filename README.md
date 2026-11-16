@@ -42,6 +42,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Wovo**](https://wovo.one/?ref=pimjo2026#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | 50% OFF Pro and Max yearly plans, auto-applied at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | Now – Dec 15, 2026 |
 | [**Wordfully**](https://www.wordfully.ai/c/BLACKFRIDAY2026) | AI grammar checker and rephraser for everyday writing. | **50% OFF the first Pro payment** (Coupon: `BLACKFRIDAY2026`). Monthly $20 → $10 for the first month; annual $108 → $54 for the first year (USD, before tax). First-time paying customers only; renewals at normal price. | Nov 12 – Dec 4, 2026 |
 | [**Let's Trip**](https://letstrip.ai/pricing) | AI travel planner with personalized itineraries, hotel and flight price tracking, and price-drop alerts. | 50% OFF Premium: $5/month (was $10) or $50/year (was $100). | Nov 11 – Dec 1, 2026 |
+| [**TypeBoost**](https://typeboost.ai/?ref=pimjo) | AI writing in every app on your Mac, plus an iPhone keyboard. Fix, rewrite or dictate text anywhere. | 50% OFF first year of Pro annual: $60 → $30 (Coupon: `TYPEBOOST50`, web checkout only) | Nov 23 – Nov 30, 2026 |
 
 ---
 
@@ -185,6 +186,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Gramcheck**](https://extensions.loopspec.com/gramcheck?utm_source=github_pimjo&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=gramcheck) | On-device grammar and spelling checker for Chrome; your writing is never uploaded. | **51% OFF** one-time license: $39 → $19, including 5 years of updates; no code needed. License keeps working afterward. | Nov 5 – Dec 2, 2026 |
 | [**Roomtape**](https://extensions.loopspec.com/roomtape?utm_source=github_pimjo&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=roomtape) | Chrome extension that records Google Meet and Teams calls to local MP4 files, with no bot or uploads. | **69% OFF** one-time license: $29 → $9, including 3 years of updates; no code needed. License keeps working afterward. | Nov 5 – Dec 2, 2026 |
 | [**Bardach Technologies Templates**](https://bardachtechnologies.gumroad.com/) | Spreadsheet and Notion templates for small businesses and freelancers, and the Larderly menu costing. | 25% OFF all products, regular prices from $4.99 (Coupon: `BLACKFRIDAY2026`) | Nov 24 – Dec 1, 2026 |
+| [**DigiCard Pro**](https://digicard.pro/?ref=pimjo) | Digital business card for Apple Wallet and Google Wallet, shared with a QR code. One-time purchase. | 50% OFF Pro: $49.99 → $24.99, one-time (Coupon: `DIGI50`) | Nov 23 – Nov 30, 2026 |
 
 ---
 
