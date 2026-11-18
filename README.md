@@ -139,6 +139,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Tower**](https://www.git-tower.com/) | The most powerful Git client for Mac and Windows. | **Up to 50% OFF** the first year for new customers: Pro $129 → $64.50, Basic $69 → $48.30 (no code needed) | Nov 23 – Dec 6, 2026 |
 
 | [**PortDroid**](https://portdroid.net/sale) | Android network toolkit for port scanning, ping, traceroute, DNS, LAN device discovery and more. | **50% OFF** Pro Lifetime, $9.49 → $4.69 (Coupon: `CYBER_2026`) | Nov 5 – Dec 4, 2026 |
+| [**BundleWP**](https://bundlewp.com/complete-business-software-bundle/) | Complete Business Software Bundle: all 11 business software products in one bundle — restaurant system, e-commerce system, billing software, WordPress plugins & tools. Lifetime access, license keys delivered automatically. | All 11 products $129 (regular $1,029), Coupon: `BUNDLE129` | Ongoing (no expiry) |
 
 ---
 
