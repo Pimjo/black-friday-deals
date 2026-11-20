@@ -85,6 +85,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Shashank Thigale Framer Templates**](https://shashankthigale.com/templates/?utm_source=pimjo&utm_medium=referral&utm_campaign=bfcm2026) | Niche Framer website templates for med spas (Nacre), retreat centers (Quinta) and therapy practices (Bower), with booking flows and CMS content. | 30% OFF all templates, single-site and Unlimited licenses; All-Access Pass (every template and component) $199 → $139 (Coupon: `BFCM30`) | Nov 27 – Dec 1, 2026 |
 | [**MingCute UI**](https://ui.mingcute.com/?utm_source=bfd1) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
 | [**SaaSykit**](https://saasykit.com/) | Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics. One-time purchase. | **50% OFF** all versions: SaaSykit $239 → $119.50, Tenancy $269 → $134.50, Complete $299 → $149.50. Auto-applied (Coupon: `BLACKFRIDAY26`) | Nov 14 – Dec 6, 2026 |
+| [**Liftoff**](https://nandohusni.gumroad.com/l/hnxqmi) | Next.js 16 and Tailwind CSS landing page kit for SaaS products, with a guide to ship it in a day. | **40% OFF** ($29 → $17.40) (Coupon: `BF40`) | Nov 20 – Dec 1, 2026 |
 
 ---
 
@@ -142,6 +143,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Seqora**](https://seqora.dev/blog/black-friday/) | Desktop database client for PostgreSQL, MySQL, MariaDB, SQLite and SQL Server on macOS, Windows and Linux. The Free plan has no account and no time limit; Pro adds the Plan tab, schema design, schema compare, longer schema history and object pages. | Pro $2.99/month for the first 3 months, then $5.99/month (regular $9.99/month). No code needed | Now – Dec 6, 2026 |
 | [**Social Fetch**](https://socialfetch.dev/black-friday) | REST API and hosted MCP server for public social data as JSON from TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more. | Double credits on every plan, applied automatically, no code. New monthly plans: double credits in month one. New annual plans: double credits for the first 3 months. Growth pack ($59): 25,000 credits plus 25,000 free. New plans only, once per workspace. | Nov 19 – Dec 1, 2026 |
 | [**data-peek**](https://www.datapeek.dev/pricing?utm_source=pimjo) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on macOS, Windows and Linux. Free for personal use. | 40% OFF Pro yearly, $29 → $17.40 (Coupon: `BF26PEEK`, auto-applied) | Nov 26 – Dec 1, 2026 |
+| [**Next.js Launch Skills**](https://nandohusni.gumroad.com/l/nextjs-launch-skills) | Agent skills for Claude Code, Cursor and Codex that take a Next.js site from build to launch, with scripts that check the result. | **40% OFF** ($9.99 → $5.99) (Coupon: `BF40`) | Nov 19 – Dec 1, 2026 |
 
 ---
 
