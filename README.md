@@ -156,6 +156,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Next.js Launch Skills**](https://nandohusni.gumroad.com/l/nextjs-launch-skills) | Agent skills for Claude Code, Cursor and Codex that take a Next.js site from build to launch, with scripts that check the result. | **40% OFF** ($9.99 → $5.99) (Coupon: `BF40`) | Nov 19 – Dec 1, 2026 |
 | [**Options Matrix Pro**](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail options traders. | 50% OFF every plan: first year on annual, first 3 months on monthly. No code needed. | Nov 23 – Nov 30, 2026 |
 | [**Oil Studio**](https://studio.oiloil.org/en/) | Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, local on-device Whisper transcript editing, and a built-in CLI + Agent Skill for Claude Code / Codex. One-time purchase for 2 Macs, no subscription. | **20% OFF** one-time license, $31.20 on top of the $39 launch price, regular $49 (Coupon: `BFCM2026`) | Nov 20 – Dec 2, 2026 |
+| [**Devkito**](https://devkito.com/pricing?utm_source=pimjo) | 122 offline developer tools in one desktop app for macOS, Windows and Linux: JSON, JWT, regex, Base64, hashes, cURL to code, HTTP client, DNS and more. | 50% OFF every one-time licence, $10 → $5 (Coupon: `BF2026`, auto-applied from the pricing page) | Nov 20 – Dec 2, 2026 |
 
 ---
 
