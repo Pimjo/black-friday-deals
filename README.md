@@ -324,6 +324,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Masked Email Manager**](https://maskedmail.app/) | Create, manage, and toggle Fastmail masked email addresses from iPhone, iPad, and Mac, with Apple Shortcuts support. | 50% OFF Full Version one-time unlock ($2.99 -> $1.49 on the App Store, no code needed) | Nov 20 - Dec 1, 2026 |
 | [**SubsDay**](https://subsday.appps.od.ua) | Subscription calendar for iOS and Mac with automatic import from the App Store and other sources. | **40% OFF** Lifetime: Single $19.99 → $11.99 with [BLKFR2026](https://apps.apple.com/redeem?ctx=offercodes&id=6743316600&code=BLKFR2026); Family $26.99 → $15.99 with [BLKFR2026FAMILY](https://apps.apple.com/redeem?ctx=offercodes&id=6743316600&code=BLKFR2026FAMILY) | Nov 15 – Dec 1, 2026 |
 | [**DeskMinder**](https://deskminder.appps.od.ua) | Create quick reminders and start tasks on your Mac desktop. | **43% OFF** Lifetime: $6.99 → $3.99 · redeem [BLKFR2026](https://apps.apple.com/redeem?ctx=offercodes&id=6740942938&code=BLKFR2026) | Nov 15 – Dec 1, 2026 |
+| [**Glifa**](https://glifa.app/?ref=bf-awesome#pricing) | Markdown editor for Mac you can ask for anything. AI changes come as proposals you keep or undo, using Claude Code, Codex, Apple Intelligence, a local model or your own API key. Plain .md files, one-time purchase. | **33% OFF** $14.99 (the lowest price before the offer): $9.99 one-time, up to 3 Macs (no code needed) | Nov 20 - Nov 30, 2026, Pacific Time |
 
 ---
 
