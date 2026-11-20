@@ -58,6 +58,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Podwise**](https://podwise.ai/pricing?utm_source=pimjo&utm_medium=deal_list&utm_campaign=bf2026) | AI podcast app that turns episodes into transcripts, summaries, mind maps and notes you can search and export. | 40% OFF Standard and Pro, monthly or yearly; renewals stay 40% off (Coupon: `BF2026`) · Also Black Friday pricing in the iOS app, checkout on podwise.ai | Nov 16 – Dec 6, 2026 |
 | [**Relaybrook n8n Workflow Packs**](https://relaybrook.bytesell.app) | Ready-to-import n8n automation packs: AI lead enrichment, AI inbox triage, content repurposing, crypto alerts. | 40% OFF all packs (Coupon: `BLACKFRIDAY40`) | Nov 18 – Dec 1, 2026 |
 | [**Yaptake**](https://yaptake.com/#pricing) | Video editor for Mac that works like a document: delete words in the transcript to cut them from the video, tighten pauses and burn in captions, with speech models that run on your Mac. | 50% OFF your first year: Monthly $9.99 → $4.99 for 12 months, Yearly $79 → $39.50, new subscribers (Coupon: `YAPTAKEBF26`) | Nov 18 – Dec 2, 2026 |
+| [**ChartScout**](https://chartscout.io/black-friday) | Chart-pattern detection and alerts for crypto traders. | 40% OFF Pro monthly: $23.40 USD/month for your next 3 paid months, then $39 USD/month. Auto-applied through the offer page (Coupon: `BLACKFRIDAY2026`). One use per account. | Ends Nov 30, 2026, at 11:59 p.m. CET |
 
 ---
 
