@@ -164,6 +164,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**LottieGo**](https://lottiego.com/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Mac app that shrinks Lottie JSON files and exports MP4, transparent MOV or GIF, all locally. | 50% OFF Pro Lifetime: $4.99 → $2.49 (no code needed) | Nov 20 – Dec 6, 2026 |
 | [**Designmodo**](https://designmodo.com/black-friday/) | Postcards, an AI email template builder for 20+ ESPs, and Slides, a no-code website builder with hosting. | Up to 40% OFF yearly plans, 3 drops of 100 coupons (Coupon: `BLACK`) | Nov 16 – Nov 30, 2026 |
 | [**Textmock**](https://textmock.com/pricing) | Make iMessage-style conversation mockups on the web or Mac and save them as images or videos. | 50% OFF Textmock Pro for your first 12 months, $5 → $2.50 a month, new subscribers (Coupon: `TEXTMOCKBF26`) | Nov 18 – Dec 2, 2026 |
+| [**Krumzi**](https://www.krumzi.com/pricing) | Web app that designs editable flyers, social posts, carousels and video from a one-line description, in your brand colors and fonts. | 60% OFF the first year of yearly plans: Starter $190 → $76, Pro $390 → $156, Studio $890 → $356, new customers and monthly users switching (no code needed) | Nov 20 – Dec 1, 2026 |
 
 ---
 
