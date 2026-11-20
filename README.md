@@ -63,6 +63,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Transcribee**](https://transcribee.io/black-friday/) | AI transcription for audio and video in 90+ languages, with a meeting recorder for Zoom, Meet and Teams and AI summaries. | 40% OFF Unlimited: monthly $25.99 → $15.59 for the first month, yearly $199.99 → $119.99 for the first year (Coupon: `BF2026`) | Nov 19 – Nov 30, 2026 |
 | [InPlaceText](https://inplacetext.com/) | Edit text in any JPG, PNG, poster, menu, product photo, AI-generated image, meme, thumbnail, or screenshot in place while keeping the original font. | Up to +50% bonus credits on one-time credit packs (no subscription, auto-applied at [Pricing](https://inplacetext.com/pricing/)) | Nov 19, 2026 - Dec 1, 2026 |
 | [**Nutrify - AI Calorie Tracker**](https://nutrifytracker.com/api/go?store=auto&campaign=holiday_sale&source=pimjo_bfdeals&medium=deal_list) | AI calorie tracker for iPhone and Android: snap a photo of a meal to log its calories and macros. | **60% OFF** the first year of Yearly: $49.99 → $19.99. Lifetime $99 → $79. Applied automatically in the app, no code needed, new subscribers, US prices (local prices vary) | Nov 20 - Dec 30, 2026 |
+| [**Oil UI Pro**](https://ui.oiloil.org/en/pro/) | Full UI/UX design workflow skill for Claude Code, Codex, Cursor & AI coding agents (3-direction HTML comparison, DESIGN.md governance, real-browser screenshot review). One-time purchase with lifetime updates + 100 bonus image credits. | **20% OFF** one-time purchase, $14.99 → $11.99 (Coupon: `BFCM2026`) | Nov 20 – Dec 2, 2026 |
 
 ---
 
@@ -151,6 +152,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**data-peek**](https://www.datapeek.dev/pricing?utm_source=pimjo) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on macOS, Windows and Linux. Free for personal use. | 40% OFF Pro yearly, $29 → $17.40 (Coupon: `BF26PEEK`, auto-applied) | Nov 26 – Dec 1, 2026 |
 | [**Next.js Launch Skills**](https://nandohusni.gumroad.com/l/nextjs-launch-skills) | Agent skills for Claude Code, Cursor and Codex that take a Next.js site from build to launch, with scripts that check the result. | **40% OFF** ($9.99 → $5.99) (Coupon: `BF40`) | Nov 19 – Dec 1, 2026 |
 | [**Options Matrix Pro**](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail options traders. | 50% OFF every plan: first year on annual, first 3 months on monthly. No code needed. | Nov 23 – Nov 30, 2026 |
+| [**Oil Studio**](https://studio.oiloil.org/en/) | Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, local on-device Whisper transcript editing, and a built-in CLI + Agent Skill for Claude Code / Codex. One-time purchase for 2 Macs, no subscription. | **20% OFF** one-time license, $31.20 on top of the $39 launch price, regular $49 (Coupon: `BFCM2026`) | Nov 20 – Dec 2, 2026 |
 
 ---
 
