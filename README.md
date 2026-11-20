@@ -58,6 +58,8 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Podwise**](https://podwise.ai/pricing?utm_source=pimjo&utm_medium=deal_list&utm_campaign=bf2026) | AI podcast app that turns episodes into transcripts, summaries, mind maps and notes you can search and export. | 40% OFF Standard and Pro, monthly or yearly; renewals stay 40% off (Coupon: `BF2026`) · Also Black Friday pricing in the iOS app, checkout on podwise.ai | Nov 16 – Dec 6, 2026 |
 | [**Relaybrook n8n Workflow Packs**](https://relaybrook.bytesell.app) | Ready-to-import n8n automation packs: AI lead enrichment, AI inbox triage, content repurposing, crypto alerts. | 40% OFF all packs (Coupon: `BLACKFRIDAY40`) | Nov 18 – Dec 1, 2026 |
 | [**Yaptake**](https://yaptake.com/#pricing) | Video editor for Mac that works like a document: delete words in the transcript to cut them from the video, tighten pauses and burn in captions, with speech models that run on your Mac. | 50% OFF your first year: Monthly $9.99 → $4.99 for 12 months, Yearly $79 → $39.50, new subscribers (Coupon: `YAPTAKEBF26`) | Nov 18 – Dec 2, 2026 |
+| [**Fix My Japanese**](https://fixmyjapanese.com/upgrade) | Japanese grammar, particle, and keigo checker for iOS and web that corrects your writing and explains every change. | 40% OFF Pro Annual ($29.99 -> $17.99/yr, auto-applied on web and iOS; iOS code: `BLACKFRIDAY2026`) | Nov 20 - Dec 1, 2026 |
+| [**Advanced AI Actions**](https://apps.apple.com/us/app/advanced-ai-actions/id6743052292) | Use OpenAI, Claude, Gemini, GitHub Copilot, and custom AI providers inside Apple Shortcuts on Mac, iPhone, and iPad. | 50% OFF one-time App Store purchase ($2.99 -> $1.49, no code needed) | Nov 20 - Dec 1, 2026 |
 
 ---
 
@@ -142,6 +144,9 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Seqora**](https://seqora.dev/blog/black-friday/) | Desktop database client for PostgreSQL, MySQL, MariaDB, SQLite and SQL Server on macOS, Windows and Linux. The Free plan has no account and no time limit; Pro adds the Plan tab, schema design, schema compare, longer schema history and object pages. | Pro $2.99/month for the first 3 months, then $5.99/month (regular $9.99/month). No code needed | Now – Dec 6, 2026 |
 | [**Social Fetch**](https://socialfetch.dev/black-friday) | REST API and hosted MCP server for public social data as JSON from TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more. | Double credits on every plan, applied automatically, no code. New monthly plans: double credits in month one. New annual plans: double credits for the first 3 months. Growth pack ($59): 25,000 credits plus 25,000 free. New plans only, once per workspace. | Nov 19 – Dec 1, 2026 |
 | [**data-peek**](https://www.datapeek.dev/pricing?utm_source=pimjo) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on macOS, Windows and Linux. Free for personal use. | 40% OFF Pro yearly, $29 → $17.40 (Coupon: `BF26PEEK`, auto-applied) | Nov 26 – Dec 1, 2026 |
+| [**Synclet**](https://synclet.dev/) | End-to-end encrypted dotfile and Mac app config sync across macOS and Linux, using Synclet Cloud or your own Dropbox. | 50% OFF one-time license ($14.99 -> $7.49, auto-applied at checkout) | Nov 20 - Dec 1, 2026 |
+| [**Warplet**](https://warplet.app/) | Native macOS app that connects ChatGPT, Claude, Perplexity, and Grok to your local MCP servers. | 40% OFF first year of Annual ($14.99 -> $8.99, Coupon: `BLACKFRIDAY2026`) | Nov 20 - Dec 1, 2026 |
+| [**Kikuyo**](https://kikuyo.app/) | Feedback boards, voting, and changelogs for indie hackers and small teams managing multiple apps, with CLI and MCP support. | 38% OFF Lifetime Pro ($79 -> $49 one-time, capped at 5 organizations, auto-applied) | Nov 20 - Dec 1, 2026 |
 
 ---
 
@@ -271,6 +276,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Spacepal**](https://getspacepal.com/black-friday/) | Mac menu bar app that names your desktops (Spaces), shows them all with live previews on Option-Tab and switches without the slide animation. Free; Pro adds the overview and Mission Control names. | 20% OFF Pro, $9.99 → $7.99 one-time (Coupon: `BLACKFRIDAY`, applied automatically) | Nov 27 – Dec 1, 2026 |
 | [**Craft**](https://www.craft.do/pricing?ref=pimjo-black-friday-deals) | Notes, docs and tasks in one native app for Mac, iPhone and iPad. Start in today's daily note, grow it into a page and share it as a link. Works offline. | 40% OFF yearly Plus and Family, kept on every renewal (Coupon: `BLACKFRIDAY26-A`). 20% OFF monthly (Coupon: `BLACKFRIDAY26-M`) | Nov 16 – Dec 9, 2026 |
 | [**Roads Audio**](https://roadsaudio.com/black-friday) | Roads turns voice memos into conversations, so you and your friends stay close without needing to schedule a call. Available on iPhone and Android. | **50% OFF** Roads Audio Plus Lifetime: $99.99 → $49.99 USD, one-time purchase, no subscription (no code needed) | Nov 26 – Dec 1, 2026 |
+| [**Masked Email Manager**](https://maskedmail.app/) | Create, manage, and toggle Fastmail masked email addresses from iPhone, iPad, and Mac, with Apple Shortcuts support. | 50% OFF Full Version one-time unlock ($2.99 -> $1.49 on the App Store, no code needed) | Nov 20 - Dec 1, 2026 |
 
 ---
 
