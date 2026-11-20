@@ -142,6 +142,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Seqora**](https://seqora.dev/blog/black-friday/) | Desktop database client for PostgreSQL, MySQL, MariaDB, SQLite and SQL Server on macOS, Windows and Linux. The Free plan has no account and no time limit; Pro adds the Plan tab, schema design, schema compare, longer schema history and object pages. | Pro $2.99/month for the first 3 months, then $5.99/month (regular $9.99/month). No code needed | Now – Dec 6, 2026 |
 | [**Social Fetch**](https://socialfetch.dev/black-friday) | REST API and hosted MCP server for public social data as JSON from TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more. | Double credits on every plan, applied automatically, no code. New monthly plans: double credits in month one. New annual plans: double credits for the first 3 months. Growth pack ($59): 25,000 credits plus 25,000 free. New plans only, once per workspace. | Nov 19 – Dec 1, 2026 |
 | [**data-peek**](https://www.datapeek.dev/pricing?utm_source=pimjo) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on macOS, Windows and Linux. Free for personal use. | 40% OFF Pro yearly, $29 → $17.40 (Coupon: `BF26PEEK`, auto-applied) | Nov 26 – Dec 1, 2026 |
+| [**Options Matrix Pro**](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail options traders. | 50% OFF every plan: first year on annual, first 3 months on monthly. No code needed. | Nov 23 – Nov 30, 2026 |
 
 ---
 
