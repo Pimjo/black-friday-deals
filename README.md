@@ -76,6 +76,8 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Clarpex AI**](https://clarpex.ai/pricing?utm_source=github-pimjo&utm_medium=bf_directory&utm_campaign=bf2026) | AI photo fixer on the web: unblur, upscale to 4K or 8K, restore and colorize old photos, remove watermarks and change backgrounds. 10 free credits a day. | **50% OFF** the first month of monthly plans (Starter $4.95, was $9.90) and **30% OFF** the first year of yearly plans. Auto-applied at checkout, no code needed; renews at the regular price | Nov 20 – Dec 1, 2026 |
 | [**Moonsmith**](https://moonsmith.app/?ref=pimjo) | Native Mac app for a team of AI agents that delegate to each other, each on the model you choose: a built-in local model, 22 providers or your AI subscription. | 20% OFF the first year of Pro yearly, €79 → €63.20, new subscribers (Coupon: `BLACKFRIDAY26`) | Nov 23 – Dec 1, 2026 |
 | [**Sum**](https://sumtranscribe.com/pricing) | Sum turns audio and video into transcripts and AI summaries in your browser. | **50% OFF** the first billing period of Sum Pro Monthly or Annual with code `SUMBF50`; renews at regular price | Nov 20 – Nov 30, 2026 (US Eastern Time) |
+| [**Fix My Japanese**](https://fixmyjapanese.com/upgrade) | Japanese grammar, particle, and keigo checker for iOS and web that corrects your writing and explains every change. | 40% OFF Pro Annual ($29.99 -> $17.99/yr, auto-applied on web and iOS; iOS code: `BLACKFRIDAY2026`) | Nov 20 - Dec 1, 2026 |
+| [**Advanced AI Actions**](https://apps.apple.com/us/app/advanced-ai-actions/id6743052292) | Use OpenAI, Claude, Gemini, GitHub Copilot, and custom AI providers inside Apple Shortcuts on Mac, iPhone, and iPad. | 50% OFF one-time App Store purchase ($2.99 -> $1.49, no code needed) | Nov 20 - Dec 1, 2026 |
 
 ---
 
@@ -166,6 +168,9 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Options Matrix Pro**](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail options traders. | 50% OFF every plan: first year on annual, first 3 months on monthly. No code needed. | Nov 23 – Nov 30, 2026 |
 | [**Oil Studio**](https://studio.oiloil.org/en/) | Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, local on-device Whisper transcript editing, and a built-in CLI + Agent Skill for Claude Code / Codex. One-time purchase for 2 Macs, no subscription. | **20% OFF** one-time license, $31.20 on top of the $39 launch price, regular $49 (Coupon: `BFCM2026`) | Nov 20 – Dec 2, 2026 |
 | [**Devkito**](https://devkito.com/pricing?utm_source=pimjo) | 122 offline developer tools in one desktop app for macOS, Windows and Linux: JSON, JWT, regex, Base64, hashes, cURL to code, HTTP client, DNS and more. | 50% OFF every one-time licence, $10 → $5 (Coupon: `BF2026`, auto-applied from the pricing page) | Nov 20 – Dec 2, 2026 |
+| [**Synclet**](https://synclet.dev/) | End-to-end encrypted dotfile and Mac app config sync across macOS and Linux, using Synclet Cloud or your own Dropbox. | 50% OFF one-time license ($14.99 -> $7.49, auto-applied at checkout) | Nov 20 - Dec 1, 2026 |
+| [**Warplet**](https://warplet.app/) | Native macOS app that connects ChatGPT, Claude, Perplexity, and Grok to your local MCP servers. | 40% OFF first year of Annual ($14.99 -> $8.99, Coupon: `BLACKFRIDAY2026`) | Nov 20 - Dec 1, 2026 |
+| [**Kikuyo**](https://kikuyo.app/) | Feedback boards, voting, and changelogs for indie hackers and small teams managing multiple apps, with CLI and MCP support. | 38% OFF Lifetime Pro ($79 -> $49 one-time, capped at 5 organizations, auto-applied) | Nov 20 - Dec 1, 2026 |
 
 ---
 
@@ -315,6 +320,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**XGetter**](https://xgetter.com/?utm_source=pimjo#pricing) | Desktop video and audio downloader for Windows, macOS and Linux. Downloads from 70+ platforms like YouTube, TikTok, Facebook, Instagram, X/Twitter and Bilibili in up to 8K, with playlist, channel and batch downloads and no watermark. | 30% OFF all plans: Pro $10 → $7, Extended $15 → $10.50 (Coupon: `BF2026`) | Nov 20 – Dec 2, 2026 |
 | [**Whisper Memos**](https://whispermemos.com/changelog/2026-11-black-friday) | Record voice memos on iPhone and Apple Watch, get accurate transcripts and summaries, and send them to your email or other apps. Works in 58 languages. | **30% OFF** yearly: $69.99 → $49.99/year, price stays locked while you stay subscribed. 7-day free trial for new users (no code needed, applied in the app) | Nov 16 – Dec 6, 2026 |
 | [**Tutti**](https://tutti.barrybarrywu.com/#pricing) | Native macOS menu bar app for multi-output audio, per-app volume, and display controls | About 31% OFF Pro one-time for one Mac (US$12.99 → US$8.99) · no code needed | Nov 20 – Nov 30, 2026 (ends 23:59 PST) |
+| [**Masked Email Manager**](https://maskedmail.app/) | Create, manage, and toggle Fastmail masked email addresses from iPhone, iPad, and Mac, with Apple Shortcuts support. | 50% OFF Full Version one-time unlock ($2.99 -> $1.49 on the App Store, no code needed) | Nov 20 - Dec 1, 2026 |
 
 ---
 
