@@ -202,6 +202,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Wavedance**](https://wave.dance) | Menu-bar app with 20 generative live wallpapers for Mac, behind your icons, click-through, on every Space. One-time purchase. | 30% OFF (Coupon: `BLACKFRIDAY30`) | Nov 19 – Dec 1, 2026 |
 | [**3DRoomDesign.ai**](https://3droomdesign.ai/pricing) | AI-powered home and interior design web app for drawing floor plans, converting them to 3D and visualizing rooms. | **50% bonus credits** on non-expiring one-time packs (~33% lower cost per credit; $9.90: 50 → 75 credits), plus **up to 300 extra credits** in the first month for new or returning subscribers without an active plan. Same prices, auto-applied, one redemption per category per account; both can be combined. Ends Nov 27, 11:59 PM PT. | Nov 17 – Nov 27, 2026 |
 | [**Krumzi**](https://www.krumzi.com/pricing) | Web app that designs editable flyers, social posts, carousels and video from a one-line description, in your brand colors and fonts. | 60% OFF the first year of yearly plans: Starter $190 → $76, Pro $390 → $156, Studio $890 → $356, new customers and monthly users switching (no code needed) | Nov 20 – Dec 1, 2026 |
+| [**Linger**](https://withlinger.com/black-friday/) | Linger is a local-first native Mac app for saving design references, notes, and sources on your own computer. | **38% OFF** Lifetime ($79→$49), Personal $39→$25 (36% off), Studio Duo (two Lifetime codes) $158→$79 (50% off), no code needed | Nov 19 – Dec 1, 2026, 23:59 PST |
 
 ---
 
