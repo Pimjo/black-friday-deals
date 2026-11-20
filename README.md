@@ -283,6 +283,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Daily Time Tracking**](https://dailytimetracking.com/?utm_source=bf2026-pimjo) | Popular time tracker for Mac that periodically asks what you’re doing, without toggling timers or privacy-invasive monitoring. CSV, JSON and PDF exports; API, MCP, Zapier and AppleScript integrations. | **Up to 30% OFF**: Annual $39.99 → $29.99 (25% off) for one upcoming year (Coupon: `DAILYBF2026`), then standard annual renewal. Lifetime $99.99 → $69.99 (30% off), no code needed; choose Lifetime in Daily’s license options. Same EUR prices; local prices and savings vary. | Nov 23 – Nov 30, 2026 |
 
 | [**Kipzy**](https://kipzy.app/?utm_source=pimjo) | Fast, private web browser for iPhone with a built-in ad, tracker and popup blocker, private tabs and offline video saving. | 50% OFF Pro Lifetime ($49.99 → $24.99), one-time purchase, applied automatically in the App Store (no coupon needed) | Nov 13 – Nov 30, 2026 |
+| [**Toffee**](https://apps.apple.com/us/app/toffee-debt-payoff-snowball/id6743946913) | Debt payoff planner for iPhone and Android. Add your debts, pick snowball or avalanche, and see the exact date you will be debt free. | **50% OFF** Pro Lifetime: $59.99 → $29.99 USD, one-time purchase (no code needed) | Nov 19 – Dec 1, 2026 |
 
 ---
 
