@@ -58,6 +58,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Podwise**](https://podwise.ai/pricing?utm_source=pimjo&utm_medium=deal_list&utm_campaign=bf2026) | AI podcast app that turns episodes into transcripts, summaries, mind maps and notes you can search and export. | 40% OFF Standard and Pro, monthly or yearly; renewals stay 40% off (Coupon: `BF2026`) · Also Black Friday pricing in the iOS app, checkout on podwise.ai | Nov 16 – Dec 6, 2026 |
 | [**Relaybrook n8n Workflow Packs**](https://relaybrook.bytesell.app) | Ready-to-import n8n automation packs: AI lead enrichment, AI inbox triage, content repurposing, crypto alerts. | 40% OFF all packs (Coupon: `BLACKFRIDAY40`) | Nov 18 – Dec 1, 2026 |
 | [**Yaptake**](https://yaptake.com/#pricing) | Video editor for Mac that works like a document: delete words in the transcript to cut them from the video, tighten pauses and burn in captions, with speech models that run on your Mac. | 50% OFF your first year: Monthly $9.99 → $4.99 for 12 months, Yearly $79 → $39.50, new subscribers (Coupon: `YAPTAKEBF26`) | Nov 18 – Dec 2, 2026 |
+| [**Skillry**](https://skillry.dev/pricing) | Curated creative Agent Skills for Claude Code, Codex & Cursor — generate editable slides, websites, images & launch videos from one prompt. | **50% OFF** Pro ($9.99 first month, was $19.90; or $79 first year, was $158) + Founding Lifetime $169 one-time (was $249). Auto-applied at checkout (no code needed). | Nov 19 – Nov 30, 2026 |
 
 ---
 
@@ -207,6 +208,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Radar Lab**](https://partnershipintel.com/?utm_source=pimjo#pricing) | Find newsletters to sponsor that reach your buyers: ranks 4,700+ newsletters by fit and shows who already sponsors each one, with the real ads. | **67% OFF** Pro yearly, ~~$299~~ $99/year, locked for as long as you stay (no code needed) | Nov 16 – Nov 30, 2026 |
 | [**Mailzzy**](https://mailzzy.com/emails-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) | Email marketing for small businesses with templates, AI-drafted campaigns, A/B testing and automations. | 70% OFF the first year (annual) or 60% OFF the first 3 months (monthly). Auto-applied, no code needed | Nov 16 – Dec 14, 2026 |
 | [**Unspam.email**](https://unspam.email/black-friday) | Email spam checker with a 0-100 spam score, inbox placement tests, blacklist checks and previews on 60+ clients. | 35% OFF the first invoice of the Custom plan (Coupon: `BLACKFRIDAY35`) | Nov 16 – Dec 1, 2026 |
+| [**BizPeel**](https://bizpeel.com/pricing) | Verified revenue, traffic sources, SEO & ad breakdowns for 700+ real startups — browsable on web and queryable in Claude Code & Cursor via MCP. | **50% OFF** first month across all plans (Starter $14.95, Pro $29.95, Business $49.95) + 20% OFF first year stacked on 15% annual savings. Auto-applied at checkout (no code needed). | Nov 19 – Nov 30, 2026 |
 
 ---
 
