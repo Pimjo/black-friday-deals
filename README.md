@@ -275,6 +275,8 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Craft**](https://www.craft.do/pricing?ref=pimjo-black-friday-deals) | Notes, docs and tasks in one native app for Mac, iPhone and iPad. Start in today's daily note, grow it into a page and share it as a link. Works offline. | 40% OFF yearly Plus and Family, kept on every renewal (Coupon: `BLACKFRIDAY26-A`). 20% OFF monthly (Coupon: `BLACKFRIDAY26-M`) | Nov 16 – Dec 9, 2026 |
 | [**Roads Audio**](https://roadsaudio.com/black-friday) | Roads turns voice memos into conversations, so you and your friends stay close without needing to schedule a call. Available on iPhone and Android. | **50% OFF** Roads Audio Plus Lifetime: $99.99 → $49.99 USD, one-time purchase, no subscription (no code needed) | Nov 26 – Dec 1, 2026 |
 | [**PureScribe**](https://appsthere.com/apps/purescribe) | On-device speech to text for Mac and iPhone. Audio never leaves the device, no account, no subscription. | **50% OFF** Pro one-time purchase: $9.99 → $4.99 USD, Mac, iPhone and iPad (no code needed, applied in the App Store) | Nov 27 – Dec 1, 2026 |
+| [**Daily Time Tracking**](https://dailytimetracking.com/?utm_source=bf2026-pimjo) | Popular time tracker for Mac that periodically asks what you’re doing, without toggling timers or privacy-invasive monitoring. CSV, JSON and PDF exports; API, MCP, Zapier and AppleScript integrations. | **Up to 30% OFF**: Annual $39.99 → $29.99 (25% off) for one upcoming year (Coupon: `DAILYBF2026`), then standard annual renewal. Lifetime $99.99 → $69.99 (30% off), no code needed; choose Lifetime in Daily’s license options. Same EUR prices; local prices and savings vary. | Nov 23 – Nov 30, 2026 |
+
 
 ---
 
