@@ -174,6 +174,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Warplet**](https://warplet.app/) | Native macOS app that connects ChatGPT, Claude, Perplexity, and Grok to your local MCP servers. | 40% OFF first year of Annual ($14.99 -> $8.99, Coupon: `BLACKFRIDAY2026`) | Nov 20 - Dec 1, 2026 |
 | [**Kikuyo**](https://kikuyo.app/) | Feedback boards, voting, and changelogs for indie hackers and small teams managing multiple apps, with CLI and MCP support. | 38% OFF Lifetime Pro ($79 -> $49 one-time, capped at 5 organizations, auto-applied) | Nov 20 - Dec 1, 2026 |
 | [**Toplify**](https://toplify.app) | Tracks App Store chart positions in 175 countries for iOS and Mac developers. | **45% OFF** Lifetime: $89.99 → $49.99 · redeem [BLKFR2026](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) | Nov 15 – Dec 1, 2026 |
+| [**LurkAPI**](https://lurkapi.com/pricing) | Social media data API and MCP server: public posts, ads and profiles from 16 platforms, including Facebook, Reddit, YouTube, TikTok, Instagram and X, as JSON. | 30% OFF any credit pack (Coupon: `BLACKFRIDAY30`) | Nov 20 – Nov 30, 2026 |
 
 ---
 
