@@ -171,6 +171,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Designmodo**](https://designmodo.com/black-friday/) | Postcards, an AI email template builder for 20+ ESPs, and Slides, a no-code website builder with hosting. | Up to 40% OFF yearly plans, 3 drops of 100 coupons (Coupon: `BLACK`) | Nov 16 – Nov 30, 2026 |
 | [**Textmock**](https://textmock.com/pricing) | Make iMessage-style conversation mockups on the web or Mac and save them as images or videos. | 50% OFF Textmock Pro for your first 12 months, $5 → $2.50 a month, new subscribers (Coupon: `TEXTMOCKBF26`) | Nov 18 – Dec 2, 2026 |
 | [**Wavedance**](https://wave.dance) | Menu-bar app with 20 generative live wallpapers for Mac, behind your icons, click-through, on every Space. One-time purchase. | 30% OFF (Coupon: `BLACKFRIDAY30`) | Nov 19 – Dec 1, 2026 |
+| [**3DRoomDesign.ai**](https://3droomdesign.ai/pricing) | AI-powered home and interior design web app for drawing floor plans, converting them to 3D and visualizing rooms. | **50% bonus credits** on non-expiring one-time packs (~33% lower cost per credit; $9.90: 50 → 75 credits), plus **up to 300 extra credits** in the first month for new or returning subscribers without an active plan. Same prices, auto-applied, one redemption per category per account; both can be combined. Ends Nov 27, 11:59 PM PT. | Nov 17 – Nov 27, 2026 |
 
 ---
 
