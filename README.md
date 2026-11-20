@@ -171,6 +171,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Synclet**](https://synclet.dev/) | End-to-end encrypted dotfile and Mac app config sync across macOS and Linux, using Synclet Cloud or your own Dropbox. | 50% OFF one-time license ($14.99 -> $7.49, auto-applied at checkout) | Nov 20 - Dec 1, 2026 |
 | [**Warplet**](https://warplet.app/) | Native macOS app that connects ChatGPT, Claude, Perplexity, and Grok to your local MCP servers. | 40% OFF first year of Annual ($14.99 -> $8.99, Coupon: `BLACKFRIDAY2026`) | Nov 20 - Dec 1, 2026 |
 | [**Kikuyo**](https://kikuyo.app/) | Feedback boards, voting, and changelogs for indie hackers and small teams managing multiple apps, with CLI and MCP support. | 38% OFF Lifetime Pro ($79 -> $49 one-time, capped at 5 organizations, auto-applied) | Nov 20 - Dec 1, 2026 |
+| [**Toplify**](https://toplify.app) | Tracks App Store chart positions in 175 countries for iOS and Mac developers. | **45% OFF** Lifetime: $89.99 → $49.99 · redeem [BLKFR2026](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) | Nov 15 – Dec 1, 2026 |
 
 ---
 
@@ -321,6 +322,8 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Whisper Memos**](https://whispermemos.com/changelog/2026-11-black-friday) | Record voice memos on iPhone and Apple Watch, get accurate transcripts and summaries, and send them to your email or other apps. Works in 58 languages. | **30% OFF** yearly: $69.99 → $49.99/year, price stays locked while you stay subscribed. 7-day free trial for new users (no code needed, applied in the app) | Nov 16 – Dec 6, 2026 |
 | [**Tutti**](https://tutti.barrybarrywu.com/#pricing) | Native macOS menu bar app for multi-output audio, per-app volume, and display controls | About 31% OFF Pro one-time for one Mac (US$12.99 → US$8.99) · no code needed | Nov 20 – Nov 30, 2026 (ends 23:59 PST) |
 | [**Masked Email Manager**](https://maskedmail.app/) | Create, manage, and toggle Fastmail masked email addresses from iPhone, iPad, and Mac, with Apple Shortcuts support. | 50% OFF Full Version one-time unlock ($2.99 -> $1.49 on the App Store, no code needed) | Nov 20 - Dec 1, 2026 |
+| [**SubsDay**](https://subsday.appps.od.ua) | Subscription calendar for iOS and Mac with automatic import from the App Store and other sources. | **40% OFF** Lifetime: Single $19.99 → $11.99 with [BLKFR2026](https://apps.apple.com/redeem?ctx=offercodes&id=6743316600&code=BLKFR2026); Family $26.99 → $15.99 with [BLKFR2026FAMILY](https://apps.apple.com/redeem?ctx=offercodes&id=6743316600&code=BLKFR2026FAMILY) | Nov 15 – Dec 1, 2026 |
+| [**DeskMinder**](https://deskminder.appps.od.ua) | Create quick reminders and start tasks on your Mac desktop. | **43% OFF** Lifetime: $6.99 → $3.99 · redeem [BLKFR2026](https://apps.apple.com/redeem?ctx=offercodes&id=6740942938&code=BLKFR2026) | Nov 15 – Dec 1, 2026 |
 
 ---
 
