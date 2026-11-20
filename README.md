@@ -79,6 +79,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Fix My Japanese**](https://fixmyjapanese.com/upgrade) | Japanese grammar, particle, and keigo checker for iOS and web that corrects your writing and explains every change. | 40% OFF Pro Annual ($29.99 -> $17.99/yr, auto-applied on web and iOS; iOS code: `BLACKFRIDAY2026`) | Nov 20 - Dec 1, 2026 |
 | [**Advanced AI Actions**](https://apps.apple.com/us/app/advanced-ai-actions/id6743052292) | Use OpenAI, Claude, Gemini, GitHub Copilot, and custom AI providers inside Apple Shortcuts on Mac, iPhone, and iPad. | 50% OFF one-time App Store purchase ($2.99 -> $1.49, no code needed) | Nov 20 - Dec 1, 2026 |
 | [**CutFast**](https://cutfa.st/?utm_source=github-pimjo&utm_medium=github&utm_campaign=bf2026#pricing) | AI video editor: highlight the subtitle lines you want to keep, cut filler words and silence, and export clips. Web app plus a native Mac and Windows app. | 30% OFF Lifetime ($399 → $279.30) and the 60-minute pack ($30 → $21). Auto-applied, no code needed | Nov 20 – Dec 1, 2026 |
+| [**ChatImg**](https://chatimg.ai/en/pricing?utm_source=github-pimjo&utm_medium=github&utm_campaign=bf2026) | AI image generator and editor: upload a photo, type the change in plain words, and export, with the leading image models on one credit balance. | 50% OFF the first payment of Plus / Pro (Pro yearly $215.28 → $107.64); 30% OFF credit packs. Auto-applied, no code needed | Nov 20 – Dec 1, 2026 |
 
 ---
 
