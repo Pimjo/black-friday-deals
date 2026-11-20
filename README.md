@@ -206,6 +206,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Radar Lab**](https://partnershipintel.com/?utm_source=pimjo#pricing) | Find newsletters to sponsor that reach your buyers: ranks 4,700+ newsletters by fit and shows who already sponsors each one, with the real ads. | **67% OFF** Pro yearly, ~~$299~~ $99/year, locked for as long as you stay (no code needed) | Nov 16 – Nov 30, 2026 |
 | [**Mailzzy**](https://mailzzy.com/emails-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) | Email marketing for small businesses with templates, AI-drafted campaigns, A/B testing and automations. | 70% OFF the first year (annual) or 60% OFF the first 3 months (monthly). Auto-applied, no code needed | Nov 16 – Dec 14, 2026 |
 | [**Unspam.email**](https://unspam.email/black-friday) | Email spam checker with a 0-100 spam score, inbox placement tests, blacklist checks and previews on 60+ clients. | 35% OFF the first invoice of the Custom plan (Coupon: `BLACKFRIDAY35`) | Nov 16 – Dec 1, 2026 |
+| [**post2all**](https://www.post2all.com/pricing?utm_source=pimjo&utm_medium=deal-list&utm_campaign=bfcm2026) | Manage your socials with AI agents: a social media scheduler for X, LinkedIn, Instagram, TikTok, YouTube and 10 more networks that ChatGPT, Claude or any agent can use through the app, API, CLI or MCP. | 25% OFF the first year of any annual plan (Coupon: `BFCM25`) | Nov 18 – Dec 7, 2026 |
 
 ---
 
