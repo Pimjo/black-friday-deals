@@ -282,6 +282,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**PureScribe**](https://appsthere.com/apps/purescribe) | On-device speech to text for Mac and iPhone. Audio never leaves the device, no account, no subscription. | **50% OFF** Pro one-time purchase: $9.99 → $4.99 USD, Mac, iPhone and iPad (no code needed, applied in the App Store) | Nov 27 – Dec 1, 2026 |
 | [**Daily Time Tracking**](https://dailytimetracking.com/?utm_source=bf2026-pimjo) | Popular time tracker for Mac that periodically asks what you’re doing, without toggling timers or privacy-invasive monitoring. CSV, JSON and PDF exports; API, MCP, Zapier and AppleScript integrations. | **Up to 30% OFF**: Annual $39.99 → $29.99 (25% off) for one upcoming year (Coupon: `DAILYBF2026`), then standard annual renewal. Lifetime $99.99 → $69.99 (30% off), no code needed; choose Lifetime in Daily’s license options. Same EUR prices; local prices and savings vary. | Nov 23 – Nov 30, 2026 |
 
+| [**Kipzy**](https://kipzy.app/?utm_source=pimjo) | Fast, private web browser for iPhone with a built-in ad, tracker and popup blocker, private tabs and offline video saving. | 50% OFF Pro Lifetime ($49.99 → $24.99), one-time purchase, applied automatically in the App Store (no coupon needed) | Nov 13 – Nov 30, 2026 |
 
 ---
 
