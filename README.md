@@ -150,6 +150,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Social Fetch**](https://socialfetch.dev/black-friday) | REST API and hosted MCP server for public social data as JSON from TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more. | Double credits on every plan, applied automatically, no code. New monthly plans: double credits in month one. New annual plans: double credits for the first 3 months. Growth pack ($59): 25,000 credits plus 25,000 free. New plans only, once per workspace. | Nov 19 – Dec 1, 2026 |
 | [**data-peek**](https://www.datapeek.dev/pricing?utm_source=pimjo) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on macOS, Windows and Linux. Free for personal use. | 40% OFF Pro yearly, $29 → $17.40 (Coupon: `BF26PEEK`, auto-applied) | Nov 26 – Dec 1, 2026 |
 | [**Next.js Launch Skills**](https://nandohusni.gumroad.com/l/nextjs-launch-skills) | Agent skills for Claude Code, Cursor and Codex that take a Next.js site from build to launch, with scripts that check the result. | **40% OFF** ($9.99 → $5.99) (Coupon: `BF40`) | Nov 19 – Dec 1, 2026 |
+| [**Options Matrix Pro**](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail options traders. | 50% OFF every plan: first year on annual, first 3 months on monthly. No code needed. | Nov 23 – Nov 30, 2026 |
 
 ---
 
