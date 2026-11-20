@@ -59,8 +59,6 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Relaybrook n8n Workflow Packs**](https://relaybrook.bytesell.app) | Ready-to-import n8n automation packs: AI lead enrichment, AI inbox triage, content repurposing, crypto alerts. | 40% OFF all packs (Coupon: `BLACKFRIDAY40`) | Nov 18 – Dec 1, 2026 |
 | [**Yaptake**](https://yaptake.com/#pricing) | Video editor for Mac that works like a document: delete words in the transcript to cut them from the video, tighten pauses and burn in captions, with speech models that run on your Mac. | 50% OFF your first year: Monthly $9.99 → $4.99 for 12 months, Yearly $79 → $39.50, new subscribers (Coupon: `YAPTAKEBF26`) | Nov 18 – Dec 2, 2026 |
 | [**VocalRemover.one**](https://vocalremover.one/black-friday) | Separate songs into vocals and instrumental tracks with AI. | Producer Pack: 1,000 minutes for $59.99 once, valid for 2 years. Costs 55% less per minute than the regular Large Pack. No code needed. | Nov 15 - Nov 30, 2026 (Pacific time) |
-| [**Molens AI**](https://molensai.com/black-friday) | Generate AI videos from text or photos and create images with the same credits. | 50% off the first year of Starter, Plus or Pro for accounts without an active subscription. Starter is $64.50 (regularly $129). No code needed. | Nov 1 (UTC) - Nov 30 (PT), 2026 |
-| [**Krea3 AI**](https://krea3.org/black-friday) | Turn prompts and photos into portraits, product shots and posters. | 40% off the first year of Starter, Creator or Pro Credits annual plans. Starter is $89.40 (regularly $149). Applied automatically on the deal page. | Nov 1 - Nov 30, 2026 (Pacific time) |
 
 ---
 
