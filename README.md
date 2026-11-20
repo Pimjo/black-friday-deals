@@ -300,6 +300,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | --- | --- | --- | --- |
 | [**own.page**](https://own.page/pricing?utm_source=pimjo&utm_medium=deal_list&utm_campaign=black_week_2026) | No-code personal website builder that goes way beyond link in bio: sell products, take bookings, collect leads and get paid on your own domain. | 40% OFF Pro yearly ($79.90 → $47.94) and 30% OFF Business yearly ($199 → $139.30), auto-applied, no code needed | Nov 20 – Nov 30, 2026 |
 | [**Siter.io**](https://siter.io/black-friday) | No-code website builder with a free-form design canvas, Figma import, AI page generation and hosting. | 35% OFF the first payment on Solo, Plus and Pro (Coupon: `BLACKFRIDAY35`) | Nov 16 – Dec 1, 2026 |
+| [**Liite Lifetime Bundle**](https://liite.co/lifetime?utm_source=pimjo&utm_medium=deal-list&utm_campaign=blackfriday2026) | Pay once for Liite Pro (AI page builder, custom domain) plus lifetime licenses for SmartSpreadsheets, PicBolt Pro, UtilBolt, Picify and MacSuite (14 Mac apps). | 83% OFF Lifetime Bundle: $249 one-time instead of $1,444 (no code needed). First 500 bundles only | Now – Nov 30, 2026 |
 
 ---
 
