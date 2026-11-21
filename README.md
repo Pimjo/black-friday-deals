@@ -334,6 +334,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Workspaces**](https://www.apptorium.com/workspaces) | Project-based Mac launcher that opens grouped files, folders, apps, websites, emails and Shortcuts with one click. | 50% OFF one-time purchase ($19.99 → $9.99), no code needed | Nov 20 – Dec 6, 2026 |
 | [**FiveNotes**](https://www.apptorium.com/fivenotes) | Focused Mac menu bar app for exactly five quick notes, with Markdown, themes, iCloud sync and automation. | 50% OFF one-time purchase ($7.99 → $3.99), no code needed | Nov 20 – Dec 6, 2026 |
 | [**Trophikos**](https://apps.apple.com/us/app/trophikos/id6773508921) | Recipe and cocktail library with a cooking log, so you remember what you changed and what worked last time. For iPhone, iPad, Apple Watch & Apple TV. | **80% OFF** Lifetime Premium: $9.99 → $1.99 USD, one-time purchase, no subscription (no code needed) | Nov 20 – Dec 1, 2026 |
+| [**dypt**](https://dypt.app/?utm_source=pimjo&utm_campaign=black-friday-2026#pricing) | Task planning for work that feels too big to start: break a task into steps, then break those down until the next one is obvious. AI suggests the missing steps, and a CLI lets your coding agents work from the same task list. | 50% OFF the first year of annual Pro ($48 → $24) or VIP ($84 → $42); new subscriptions only, renews at full price (Coupon: `BLACKFRIDAY`) | Nov 20 – Nov 30, 2026 |
 
 ---
 
