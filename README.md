@@ -82,6 +82,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**CutFast**](https://cutfa.st/?utm_source=github-pimjo&utm_medium=github&utm_campaign=bf2026#pricing) | AI video editor: highlight the subtitle lines you want to keep, cut filler words and silence, and export clips. Web app plus a native Mac and Windows app. | 30% OFF Lifetime ($399 → $279.30) and the 60-minute pack ($30 → $21). Auto-applied, no code needed | Nov 20 – Dec 1, 2026 |
 | [**ChatImg**](https://chatimg.ai/en/pricing?utm_source=github-pimjo&utm_medium=github&utm_campaign=bf2026) | AI image generator and editor: upload a photo, type the change in plain words, and export, with the leading image models on one credit balance. | 50% OFF the first payment of Plus / Pro (Pro yearly $215.28 → $107.64); 30% OFF credit packs. Auto-applied, no code needed | Nov 20 – Dec 1, 2026 |
 | [**quso.ai**](https://quso.ai/pricing?utm_source=pimjo&utm_medium=referral&utm_campaign=bf26_deal_lists) | Turn long videos and podcasts into captioned vertical clips with AI, then schedule and auto-post them to TikTok, YouTube Shorts, Instagram, LinkedIn and X. Also works inside ChatGPT and Claude. | 50% OFF yearly plans, recurring, no code needed (Lite ~~$348~~ **$174**/year, Essential ~~$468~~ **$234**/year, Growth ~~$588~~ **$294**/year) | Nov 20 – Dec 1, 2026 |
+| [**CVder**](https://cvder.app/pricing) | AI job application tool: paste a job posting and CVder tailors your CV to it, checks the ATS score and writes the cover letter. | 50% OFF your first payment on any Pro plan: monthly €14 → €7, annual €84 → €42 (Coupon: `BF2026`) | Nov 27 – Dec 1, 2026 |
 
 ---
 
@@ -334,6 +335,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Workspaces**](https://www.apptorium.com/workspaces) | Project-based Mac launcher that opens grouped files, folders, apps, websites, emails and Shortcuts with one click. | 50% OFF one-time purchase ($19.99 → $9.99), no code needed | Nov 20 – Dec 6, 2026 |
 | [**FiveNotes**](https://www.apptorium.com/fivenotes) | Focused Mac menu bar app for exactly five quick notes, with Markdown, themes, iCloud sync and automation. | 50% OFF one-time purchase ($7.99 → $3.99), no code needed | Nov 20 – Dec 6, 2026 |
 | [**Trophikos**](https://apps.apple.com/us/app/trophikos/id6773508921) | Recipe and cocktail library with a cooking log, so you remember what you changed and what worked last time. For iPhone, iPad, Apple Watch & Apple TV. | **80% OFF** Lifetime Premium: $9.99 → $1.99 USD, one-time purchase, no subscription (no code needed) | Nov 20 – Dec 1, 2026 |
+| [**Wispim: Voice Teleprompter**](https://wispim.com/black-friday) | Teleprompter for iPhone, iPad and Mac that follows your voice: the script scrolls as you speak and waits while you pause. | 50% OFF Lifetime Pro, a one-time purchase ($199.99 → $99.99), no code needed | Nov 27 – Nov 30, 2026 |
 
 ---
 
