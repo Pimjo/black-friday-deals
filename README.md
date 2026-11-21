@@ -4,7 +4,7 @@ The ultimate **Black Friday** and **Cyber Monday 2026** deals list for **AI tool
 
 Deals are **submitted by makers and the community and reviewed** before they go live, with the coupon code and dates in one place.
 
-> **Total Deals Count**: 263+ · Have a deal? [Add it here](#how-to-contribute)
+> **Total Deals Count**: 274+ · Have a deal? [Add it here](#how-to-contribute)
 
 **Jump to:** [🤖 AI Tools](#ai-tools) · [🎨 UI Kits & Templates](#ui-kits-templates) · [🛠️ Dev Tools & SaaS](#dev-tools-saas) · [🖋️ Design & Icons](#design-icons) · [🌐 Hosting](#hosting-domains) · [📈 Marketing & SEO](#marketing-seo) · [🧩 Productivity & Apps](#productivity) · [📚 Books & Courses](#books-courses) · [⚙️ NoCode](#nocode) · [🗞️ Communities](#communities-newsletters) · [🧱 Other](#other-resources)
 
@@ -83,7 +83,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**ChatImg**](https://chatimg.ai/en/pricing?utm_source=github-pimjo&utm_medium=github&utm_campaign=bf2026) | AI image generator and editor: upload a photo, type the change in plain words, and export, with the leading image models on one credit balance. | 50% OFF the first payment of Plus / Pro (Pro yearly $215.28 → $107.64); 30% OFF credit packs. Auto-applied, no code needed | Nov 20 – Dec 1, 2026 |
 | [**quso.ai**](https://quso.ai/pricing?utm_source=pimjo&utm_medium=referral&utm_campaign=bf26_deal_lists) | Turn long videos and podcasts into captioned vertical clips with AI, then schedule and auto-post them to TikTok, YouTube Shorts, Instagram, LinkedIn and X. Also works inside ChatGPT and Claude. | 50% OFF yearly plans, recurring, no code needed (Lite ~~$348~~ **$174**/year, Essential ~~$468~~ **$234**/year, Growth ~~$588~~ **$294**/year) | Nov 20 – Dec 1, 2026 |
 | [**Enconvo**](https://enconvo.com/?utm_source=github-pimjo&utm_medium=deal-list&utm_campaign=black-friday-2026) | Native AI assistant and agent for Mac: automates tasks across your apps, dictates, searches your documents, and runs cloud AI or local models. | 30% OFF every Lifetime license (Standard $59 → $41.30, Premium $119 → $83.30, Teams $159 → $111.30) and the first payment of an Enconvo Cloud plan. Auto-applied, no code needed | Nov 20 – Dec 7, 2026 |
-| [**ConceptViz**](https://conceptviz.app/pricing) | AI scientific figures and diagrams for researchers. Turn text or papers into editable, publication-ready diagrams, concept maps and figures. | $299 Lifetime deal: one payment, no monthly fee, no code needed. Includes 1,500 non-expiring credits, Ultra features for life and 50% off Studio credit packs | Now – Dec 1, 2026 |
+| [**ConceptViz**](https://conceptviz.app/pricing) | AI scientific figures and diagrams for researchers. Turn text or papers into editable, publication-ready diagrams, concept maps and figures. | 30% OFF the 150-credit Project pack, $49.90 → $34.93 (Coupon: `BF30`) · Also a Black Friday Lifetime plan: $299 once with 1,500 non-expiring credits and Ultra features | Now – Dec 1, 2026 |
 
 ---
 
@@ -113,10 +113,9 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**SaaSykit**](https://saasykit.com/) | Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics. One-time purchase. | **50% OFF** all versions: SaaSykit $239 → $119.50, Tenancy $269 → $134.50, Complete $299 → $149.50. Auto-applied (Coupon: `BLACKFRIDAY26`) | Nov 14 – Dec 6, 2026 |
 | [**SoarStarter**](https://soarstarter.com/?utm_source=pimjo-bf&utm_campaign=bf2026#pricing) | Starter kits for web, mobile and desktop: Next.js, Nuxt, TanStack Start, SwiftUI, Kotlin, Expo, Electron and Tauri, with auth and payments built in. One-time purchase. | **20% OFF** All-Access Bundle, all 8 kits $249 → $199 (Coupon: `BF2026`) | Nov 24 – Dec 1, 2026 |
 | [**Liftoff**](https://nandohusni.gumroad.com/l/hnxqmi) | Next.js 16 and Tailwind CSS landing page kit for SaaS products, with a guide to ship it in a day. | **40% OFF** ($29 → $17.40) (Coupon: `BF40`) | Nov 20 – Dec 1, 2026 |
-| [**TanStarter**](https://tanstarter.dev/#pricing) | Full-stack SaaS starter for TanStack Start and Cloudflare Workers. | Lifetime license: US$99 (regularly US$199, save US$100); `2026-BLACKFRIDAY` applied automatically. | Nov 21–30, 2026 |
-| [**MkSaaS**](https://mksaas.com/#pricing) | Next.js starter with authentication, billing, AI chat and image generation. | Lifetime license: $99 instead of $199 (auto-applied) | Through Nov 30, 2026 |
-| [**ShadcnSpace**](https://shadcnspace.com) | 1,400+ ready-to-use shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. | **40% OFF** ($129 → $77) (Coupon: `BFCM`) | Until Dec 3, 2026 |
-
+| [**TanStarter**](https://tanstarter.dev/#pricing) | Full-stack SaaS starter for TanStack Start and Cloudflare Workers. | 50% OFF Lifetime license: $199 → $99 (Coupon: `2026-BLACKFRIDAY`, auto-applied) | Nov 21 – Nov 30, 2026 |
+| [**MkSaaS**](https://mksaas.com/#pricing) | Next.js starter with authentication, billing, AI chat and image generation. | 50% OFF Lifetime license: $199 → $99 (auto-applied) | Now – Nov 30, 2026 |
+| [**ShadcnSpace**](https://shadcnspace.com) | 1,400+ ready-to-use shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. | **40% OFF** ($129 → $77) (Coupon: `BFCM`) | Now – Dec 3, 2026 |
 
 ---
 
@@ -183,8 +182,6 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Kikuyo**](https://kikuyo.app/) | Feedback boards, voting, and changelogs for indie hackers and small teams managing multiple apps, with CLI and MCP support. | 38% OFF Lifetime Pro ($79 → $49 one-time, capped at 5 organizations, auto-applied) | Nov 20 – Dec 1, 2026 |
 | [**Toplify**](https://toplify.app) | Tracks App Store chart positions in 175 countries for iOS and Mac developers. | **45% OFF** Lifetime: $89.99 → $49.99 · redeem [BLKFR2026](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) | Nov 15 – Dec 1, 2026 |
 | [**LurkAPI**](https://lurkapi.com/pricing) | Social media data API and MCP server: public posts, ads and profiles from 16 platforms, including Facebook, Reddit, YouTube, TikTok, Instagram and X, as JSON. | 30% OFF any credit pack (Coupon: `BLACKFRIDAY30`) | Nov 20 – Nov 30, 2026 |
-| [**WrapPixel**](https://www.wrappixel.com) | Leading provider of premium web templates and admin dashboards, trusted by 500K+ developers worldwide. Templates available in Next.js, Tailwind CSS, React, Angular and more. | **Up to 95% OFF** on the All Access Pass or **50% OFF** on individual admin templates (Coupon: `BFCM`) | Until Dec 7, 2026 |
-
 
 ---
 
@@ -210,7 +207,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Wavedance**](https://wave.dance) | Menu-bar app with 20 generative live wallpapers for Mac, behind your icons, click-through, on every Space. One-time purchase. | 30% OFF (Coupon: `BLACKFRIDAY30`) | Nov 19 – Dec 1, 2026 |
 | [**3DRoomDesign.ai**](https://3droomdesign.ai/pricing) | AI-powered home and interior design web app for drawing floor plans, converting them to 3D and visualizing rooms. | **50% bonus credits** on non-expiring one-time packs (~33% lower cost per credit; $9.90: 50 → 75 credits), plus **up to 300 extra credits** in the first month for new or returning subscribers without an active plan. Same prices, auto-applied, one redemption per category per account; both can be combined. Ends Nov 27, 11:59 PM PT. | Nov 17 – Nov 27, 2026 |
 | [**Krumzi**](https://www.krumzi.com/pricing) | Web app that designs editable flyers, social posts, carousels and video from a one-line description, in your brand colors and fonts. | 60% OFF the first year of yearly plans: Starter $190 → $76, Pro $390 → $156, Studio $890 → $356, new customers and monthly users switching (no code needed) | Nov 20 – Dec 1, 2026 |
-| [**Linger**](https://withlinger.com/black-friday/) | Linger is a local-first native Mac app for saving design references, notes, and sources on your own computer. | **38% OFF** Lifetime ($79→$49), Personal $39→$25 (36% off), Studio Duo (two Lifetime codes) $158→$79 (50% off), no code needed | Nov 19 – Dec 1, 2026, 23:59 PST |
+| [**Linger**](https://withlinger.com/black-friday/) | Local-first native Mac app for saving design references, notes, and sources on your own computer. | **38% OFF** Lifetime ($79→$49), Personal $39→$25 (36% off), Studio Duo (two Lifetime codes) $158→$79 (50% off), no code needed | Nov 19 – Dec 1, 2026 |
 
 ---
 
