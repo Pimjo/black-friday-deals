@@ -177,6 +177,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Kikuyo**](https://kikuyo.app/) | Feedback boards, voting, and changelogs for indie hackers and small teams managing multiple apps, with CLI and MCP support. | 38% OFF Lifetime Pro ($79 → $49 one-time, capped at 5 organizations, auto-applied) | Nov 20 – Dec 1, 2026 |
 | [**Toplify**](https://toplify.app) | Tracks App Store chart positions in 175 countries for iOS and Mac developers. | **45% OFF** Lifetime: $89.99 → $49.99 · redeem [BLKFR2026](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) | Nov 15 – Dec 1, 2026 |
 | [**LurkAPI**](https://lurkapi.com/pricing) | Social media data API and MCP server: public posts, ads and profiles from 16 platforms, including Facebook, Reddit, YouTube, TikTok, Instagram and X, as JSON. | 30% OFF any credit pack (Coupon: `BLACKFRIDAY30`) | Nov 20 – Nov 30, 2026 |
+| [**SerpWrap**](https://serpwrap.com) | SERP API returning structured JSON from live search results. Pay-once credit packs, no subscription, credits valid 12 months. | 40% OFF every credit pack (Coupon: `BLACKF40`) | Nov 21 – Nov 30, 2026 |
 
 ---
 
@@ -247,6 +248,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**BizPeel**](https://bizpeel.com/pricing) | Verified revenue, traffic sources, SEO & ad breakdowns for 700+ real startups — browsable on web and queryable in Claude Code & Cursor via MCP. | **50% OFF** first month across all plans (Starter $14.95, Pro $29.95, Business $49.95) + 20% OFF first year stacked on 15% annual savings. Auto-applied at checkout (no code needed). | Nov 19 – Nov 30, 2026 |
 | [**post2all**](https://www.post2all.com/pricing?utm_source=pimjo&utm_medium=deal-list&utm_campaign=bfcm2026) | Manage your socials with AI agents: a social media scheduler for X, LinkedIn, Instagram, TikTok, YouTube and 10 more networks that ChatGPT, Claude or any agent can use through the app, API, CLI or MCP. | 25% OFF the first year of any annual plan (Coupon: `BFCM25`) | Nov 18 – Dec 7, 2026 |
 | [**Appfigures**](https://appfigures.com/platform/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=pimjo) | ASO and App Intelligence for the App Store and Google Play: competitor keywords, custom product pages, and download and revenue estimates. | **50% OFF** monthly or annual plans for 12 months (Coupon: `BF2650`) | Nov 23 – Nov 30, 2026 |
+| [**Pitchlist**](https://pitchlist.serpwrap.com) | Local business leads by city and business type with phone, address, rating and website, as CSV, XLSX or JSON. Claude Code integration support via a hosted MCP server. Pay once, no subscription. | 60% OFF every lead pack (Coupon: `BLACKFRIDAY60`) | Nov 21 – Nov 30, 2026 |
 
 ---
 
