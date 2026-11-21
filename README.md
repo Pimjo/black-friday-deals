@@ -111,6 +111,8 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**SaaSykit**](https://saasykit.com/) | Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics. One-time purchase. | **50% OFF** all versions: SaaSykit $239 → $119.50, Tenancy $269 → $134.50, Complete $299 → $149.50. Auto-applied (Coupon: `BLACKFRIDAY26`) | Nov 14 – Dec 6, 2026 |
 | [**SoarStarter**](https://soarstarter.com/?utm_source=pimjo-bf&utm_campaign=bf2026#pricing) | Starter kits for web, mobile and desktop: Next.js, Nuxt, TanStack Start, SwiftUI, Kotlin, Expo, Electron and Tauri, with auth and payments built in. One-time purchase. | **20% OFF** All-Access Bundle, all 8 kits $249 → $199 (Coupon: `BF2026`) | Nov 24 – Dec 1, 2026 |
 | [**Liftoff**](https://nandohusni.gumroad.com/l/hnxqmi) | Next.js 16 and Tailwind CSS landing page kit for SaaS products, with a guide to ship it in a day. | **40% OFF** ($29 → $17.40) (Coupon: `BF40`) | Nov 20 – Dec 1, 2026 |
+| [**ShadcnSpace**](https://shadcnspace.com) | 1,400+ ready-to-use shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. | **40% OFF** ($129 → $77) (Coupon: `BFCM`) | Until Dec 3, 2026 |
+
 
 ---
 
@@ -177,6 +179,8 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Kikuyo**](https://kikuyo.app/) | Feedback boards, voting, and changelogs for indie hackers and small teams managing multiple apps, with CLI and MCP support. | 38% OFF Lifetime Pro ($79 → $49 one-time, capped at 5 organizations, auto-applied) | Nov 20 – Dec 1, 2026 |
 | [**Toplify**](https://toplify.app) | Tracks App Store chart positions in 175 countries for iOS and Mac developers. | **45% OFF** Lifetime: $89.99 → $49.99 · redeem [BLKFR2026](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) | Nov 15 – Dec 1, 2026 |
 | [**LurkAPI**](https://lurkapi.com/pricing) | Social media data API and MCP server: public posts, ads and profiles from 16 platforms, including Facebook, Reddit, YouTube, TikTok, Instagram and X, as JSON. | 30% OFF any credit pack (Coupon: `BLACKFRIDAY30`) | Nov 20 – Nov 30, 2026 |
+| [**WrapPixel**](https://www.wrappixel.com) | Leading provider of premium web templates and admin dashboards, trusted by 500K+ developers worldwide. Templates available in Next.js, Tailwind CSS, React, Angular and more. | **Up to 95% OFF** on the All Access Pass or **50% OFF** on individual admin templates (Coupon: `BFCM`) | Until Dec 7, 2026 |
+
 
 ---
 
