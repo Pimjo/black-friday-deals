@@ -113,6 +113,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**SoarStarter**](https://soarstarter.com/?utm_source=pimjo-bf&utm_campaign=bf2026#pricing) | Starter kits for web, mobile and desktop: Next.js, Nuxt, TanStack Start, SwiftUI, Kotlin, Expo, Electron and Tauri, with auth and payments built in. One-time purchase. | **20% OFF** All-Access Bundle, all 8 kits $249 → $199 (Coupon: `BF2026`) | Nov 24 – Dec 1, 2026 |
 | [**Liftoff**](https://nandohusni.gumroad.com/l/hnxqmi) | Next.js 16 and Tailwind CSS landing page kit for SaaS products, with a guide to ship it in a day. | **40% OFF** ($29 → $17.40) (Coupon: `BF40`) | Nov 20 – Dec 1, 2026 |
 | [**TanStarter**](https://tanstarter.dev/#pricing) | Full-stack SaaS starter for TanStack Start and Cloudflare Workers. | Lifetime license: US$99 (regularly US$199, save US$100); `2026-BLACKFRIDAY` applied automatically. | Nov 21–30, 2026 |
+| [**MkSaaS**](https://mksaas.com/#pricing) | Next.js starter with authentication, billing, AI chat and image generation. | Lifetime license: $99 instead of $199 (auto-applied) | Through Nov 30, 2026 |
 
 ---
 
