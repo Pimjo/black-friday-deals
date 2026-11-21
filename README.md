@@ -334,6 +334,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Workspaces**](https://www.apptorium.com/workspaces) | Project-based Mac launcher that opens grouped files, folders, apps, websites, emails and Shortcuts with one click. | 50% OFF one-time purchase ($19.99 → $9.99), no code needed | Nov 20 – Dec 6, 2026 |
 | [**FiveNotes**](https://www.apptorium.com/fivenotes) | Focused Mac menu bar app for exactly five quick notes, with Markdown, themes, iCloud sync and automation. | 50% OFF one-time purchase ($7.99 → $3.99), no code needed | Nov 20 – Dec 6, 2026 |
 | [**Trophikos**](https://apps.apple.com/us/app/trophikos/id6773508921) | Recipe and cocktail library with a cooking log, so you remember what you changed and what worked last time. For iPhone, iPad, Apple Watch & Apple TV. | **80% OFF** Lifetime Premium: $9.99 → $1.99 USD, one-time purchase, no subscription (no code needed) | Nov 20 – Dec 1, 2026 |
+| [**CursorClip**](https://cursorclip.com/pricing/?ref=bf-pimjo) | Native Mac screen recorder for tutorials, courses and product demos. It adds smooth zooms where you click while you record. New in 2.3: 86 backgrounds, a mic and camera check before you start, and captions made on your Mac. | Lifetime for **$49**, one-time payment, no subscription (no code needed, `BLACKFRIDAY` is auto-applied at checkout) | Nov 15 – Nov 30, 2026 |
 
 ---
 
