@@ -334,6 +334,9 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Workspaces**](https://www.apptorium.com/workspaces) | Project-based Mac launcher that opens grouped files, folders, apps, websites, emails and Shortcuts with one click. | 50% OFF one-time purchase ($19.99 → $9.99), no code needed | Nov 20 – Dec 6, 2026 |
 | [**FiveNotes**](https://www.apptorium.com/fivenotes) | Focused Mac menu bar app for exactly five quick notes, with Markdown, themes, iCloud sync and automation. | 50% OFF one-time purchase ($7.99 → $3.99), no code needed | Nov 20 – Dec 6, 2026 |
 | [**Trophikos**](https://apps.apple.com/us/app/trophikos/id6773508921) | Recipe and cocktail library with a cooking log, so you remember what you changed and what worked last time. For iPhone, iPad, Apple Watch & Apple TV. | **80% OFF** Lifetime Premium: $9.99 → $1.99 USD, one-time purchase, no subscription (no code needed) | Nov 20 – Dec 1, 2026 |
+| [**ByteSweep**](https://bytesweep.app/) | Disk cleaner for Mac, Windows and Linux. Shows what fills your disk, removes only what you pick, and every clean can be undone for 7 days. | **50% OFF** one-time purchase: $29.99 → $15, applied automatically at checkout, no code needed | Nov 17 – Dec 31, 2026 |
+| [**Earmix**](https://earmix.app/) | Volume mixer for the Mac menu bar. Set the volume for each app and each browser tab, send each app to its own output, and add EQ. | **50% OFF** one-time purchase: $12.99 → $6.50 (Coupon: `BLACKFRIDAY50`) | Until Dec 1, 2026 |
+| [**Findow**](https://findowmac.com/) | Scrolling window manager for Mac, with tiling, a window switcher and saved workspaces. | **75% OFF** one-time purchase: $19.99 → $5, applied automatically at checkout, no code needed | Until Dec 1, 2026 |
 
 ---
 
