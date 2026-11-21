@@ -111,6 +111,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**SaaSykit**](https://saasykit.com/) | Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics. One-time purchase. | **50% OFF** all versions: SaaSykit $239 → $119.50, Tenancy $269 → $134.50, Complete $299 → $149.50. Auto-applied (Coupon: `BLACKFRIDAY26`) | Nov 14 – Dec 6, 2026 |
 | [**SoarStarter**](https://soarstarter.com/?utm_source=pimjo-bf&utm_campaign=bf2026#pricing) | Starter kits for web, mobile and desktop: Next.js, Nuxt, TanStack Start, SwiftUI, Kotlin, Expo, Electron and Tauri, with auth and payments built in. One-time purchase. | **20% OFF** All-Access Bundle, all 8 kits $249 → $199 (Coupon: `BF2026`) | Nov 24 – Dec 1, 2026 |
 | [**Liftoff**](https://nandohusni.gumroad.com/l/hnxqmi) | Next.js 16 and Tailwind CSS landing page kit for SaaS products, with a guide to ship it in a day. | **40% OFF** ($29 → $17.40) (Coupon: `BF40`) | Nov 20 – Dec 1, 2026 |
+| [**Star Foundry**](https://kosmorph.gumroad.com/l/talent-agency?utm_source=github-pimjo&utm_medium=deals&utm_campaign=bfcm2026) | Next.js website template for talent, creator and influencer agencies, in English and Arabic (RTL): 4 designs, 72 pages and an admin panel, exported as a static site for free hosting. | Extended license (up to 10 sites) $279 → $99, one-time, first 25 buyers (Coupon: `CYBER26`) | Nov 24 – Dec 2, 2026 |
 
 ---
 
