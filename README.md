@@ -334,6 +334,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Workspaces**](https://www.apptorium.com/workspaces) | Project-based Mac launcher that opens grouped files, folders, apps, websites, emails and Shortcuts with one click. | 50% OFF one-time purchase ($19.99 → $9.99), no code needed | Nov 20 – Dec 6, 2026 |
 | [**FiveNotes**](https://www.apptorium.com/fivenotes) | Focused Mac menu bar app for exactly five quick notes, with Markdown, themes, iCloud sync and automation. | 50% OFF one-time purchase ($7.99 → $3.99), no code needed | Nov 20 – Dec 6, 2026 |
 | [**Trophikos**](https://apps.apple.com/us/app/trophikos/id6773508921) | Recipe and cocktail library with a cooking log, so you remember what you changed and what worked last time. For iPhone, iPad, Apple Watch & Apple TV. | **80% OFF** Lifetime Premium: $9.99 → $1.99 USD, one-time purchase, no subscription (no code needed) | Nov 20 – Dec 1, 2026 |
+| [**Helix**](https://tryhelix.app/?utm_source=github&utm_campaign=pimjo-bf) | Radial menu for Mac. Hold Option + Space and your tools pop up in a circle: clipboard history, screenshots, media controls, window snapping, timers and Ask AI. | **30% OFF** one-time for 2 Macs: $9 → $6.30 USD (Coupon: `BLACKFRIDAY30`) | Nov 20 – Dec 1, 2026 |
 
 ---
 
