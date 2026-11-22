@@ -178,6 +178,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**AY Grants**](https://grants.ayskilllab.com/#pricing) | Open government grants in the US, EU and UK in one list, by deadline, with saved searches and nightly alerts. | 50% OFF the first month on the monthly plan: $4.50 (was $9), then renews at the normal price. Auto-applied, no code needed | Nov 22 – Nov 30, 2026 |
 | [**AY Tenders**](https://tenders.ayskilllab.com/#pricing) | Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with alerts. | 50% OFF the first month on monthly plans: Tenders $9.50 (was $19), Tenders + Grants $12 (was $24), then the normal price. Auto-applied, no code needed | Nov 22 – Nov 30, 2026 |
 | [**Storewire**](https://plugins.hackerman.ge) | Laravel package that lets an online store answer shoppers inside AI assistants (search, compare, cart handoff), built on the official laravel/mcp. Free MIT version: hackerman/storewire-lite. | **40% OFF**: single store $149 → $89, unlimited $349 → $209. No code needed | Nov 27 – Dec 2, 2026 |
+| [**12happy**](https://www.12hpy.com/deals/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black-friday-2026) | Uptime monitoring for websites, APIs and cron jobs, with alerts and status pages. Free plan available. | **3 months of Pro free**, no card needed ($15/mo → $0), new and Free accounts, first 100 (Coupon: `BLACKFRIDAY`) | Nov 22 – Dec 1, 2026 |
 
 ---
 
