@@ -106,6 +106,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**TanStarter**](https://tanstarter.dev/#pricing) | Full-stack SaaS starter for TanStack Start and Cloudflare Workers. | 50% OFF Lifetime license: $199 → $99 (Coupon: `2026-BLACKFRIDAY`, auto-applied) | Nov 21 – Nov 30, 2026 |
 | [**MkSaaS**](https://mksaas.com/#pricing) | Next.js starter with authentication, billing, AI chat and image generation. | 50% OFF Lifetime license: $199 → $99 (auto-applied) | Now – Nov 30, 2026 |
 | [**ShadcnSpace**](https://shadcnspace.com) | 1,400+ ready-to-use shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. | **40% OFF** ($129 → $77) (Coupon: `BFCM`) | Now – Dec 3, 2026 |
+| [**TailThemes**](https://tailthemes.com/?utm_source=pimjo-black-friday&utm_medium=listing&utm_campaign=black-friday-2026#all-access) | 26 Tailwind CSS site themes, each with a Next.js edition and a plain HTML edition, light and dark modes, and an AGENTS.md file for coding agents. | **39% OFF** All-Access, all 26 themes $129 → $79, one payment (No code needed) | Nov 21 – Dec 1, 2026 |
 
 ---
 
