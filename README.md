@@ -78,6 +78,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Enconvo**](https://enconvo.com/?utm_source=github-pimjo&utm_medium=deal-list&utm_campaign=black-friday-2026) | Native AI assistant and agent for Mac: automates tasks across your apps, dictates, searches your documents, and runs cloud AI or local models. | 30% OFF every Lifetime license (Standard $59 → $41.30, Premium $119 → $83.30, Teams $159 → $111.30) and the first payment of an Enconvo Cloud plan. Auto-applied, no code needed | Nov 20 – Dec 7, 2026 |
 | [**ConceptViz**](https://conceptviz.app/pricing) | AI scientific figures and diagrams for researchers. Turn text or papers into editable, publication-ready diagrams, concept maps and figures. | 30% OFF the 150-credit Project pack, $49.90 → $34.93 (Coupon: `BF30`) · Also a Black Friday Lifetime plan: $299 once with 1,500 non-expiring credits and Ultra features | Now – Dec 1, 2026 |
 | [**CVder**](https://cvder.app/pricing) | AI job application tool: paste a job posting and CVder tailors your CV to it, checks the ATS score and writes the cover letter. | 50% OFF your first payment on any Pro plan: monthly €14 → €7, annual €84 → €42 (Coupon: `BF2026`) | Nov 27 – Dec 1, 2026 |
+| [**Motionflare**](https://motionflare.ai/pricing) | Paste your URL and get an on-brand marketing video built from your real screenshots, logo, colors and copy. | 50% OFF the first month of Pro or Max ($29 → $14.50, $99 → $49.50) (no code needed) | Nov 21 – Dec 1, 2026 |
 
 ---
 
