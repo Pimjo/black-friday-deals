@@ -343,6 +343,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Wispim: Voice Teleprompter**](https://wispim.com/black-friday) | Teleprompter for iPhone, iPad and Mac that follows your voice: the script scrolls as you speak and waits while you pause. | 50% OFF Lifetime Pro, a one-time purchase ($199.99 → $99.99), no code needed | Nov 27 – Nov 30, 2026 |
 | [**dypt**](https://dypt.app/?utm_source=pimjo&utm_campaign=black-friday-2026#pricing) | Task planning for work that feels too big to start: break a task into steps, then break those down until the next one is obvious. AI suggests the missing steps, and a CLI lets your coding agents work from the same task list. | 50% OFF the first year of annual Pro ($48 → $24) or VIP ($84 → $42); new subscriptions only, renews at full price (Coupon: `BLACKFRIDAY`) | Nov 20 – Nov 30, 2026 |
 | [**Keystro**](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. One-time purchase. | 30% OFF one-time licenses, Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30 (Coupon: `BFKEYSTRO26`, auto-applied at checkout) | Nov 22 – Dec 4, 2026 |
+| [**ScreenPost**](https://screenpost.app/buy?promo=LAUNCH19&ref=pimjo) | A native Mac app that takes a screenshot, recording or GIF from capture to a posted X post: capture, annotate, redact secrets, post. | $19 instead of $29 (USD, one-time). Code `LAUNCH19`, pre-applied at checkout. | Nov 24 to Dec 1, 2026 |
 
 ---
 
