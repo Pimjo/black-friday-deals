@@ -79,6 +79,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**ConceptViz**](https://conceptviz.app/pricing) | AI scientific figures and diagrams for researchers. Turn text or papers into editable, publication-ready diagrams, concept maps and figures. | 30% OFF the 150-credit Project pack, $49.90 → $34.93 (Coupon: `BF30`) · Also a Black Friday Lifetime plan: $299 once with 1,500 non-expiring credits and Ultra features | Now – Dec 1, 2026 |
 | [**CVder**](https://cvder.app/pricing) | AI job application tool: paste a job posting and CVder tailors your CV to it, checks the ATS score and writes the cover letter. | 50% OFF your first payment on any Pro plan: monthly €14 → €7, annual €84 → €42 (Coupon: `BF2026`) | Nov 27 – Dec 1, 2026 |
 | [**Motionflare**](https://motionflare.ai/pricing) | Paste your URL and get an on-brand marketing video built from your real screenshots, logo, colors and copy. | 50% OFF the first month of Pro or Max ($29 → $14.50, $99 → $49.50) (no code needed) | Nov 21 – Dec 1, 2026 |
+| [**ScribeToAny**](https://scribetoany.com/pricing) | Turns audio and video files and links into timestamped transcripts and SRT/VTT subtitles in about 98 languages, with speaker labels, AI summaries and translation into 134+ languages. Free plan: 100 minutes a month. | 30% OFF the first month of monthly plans (Coupon: `FIRST_30_OFF`) or $20 OFF the first year of yearly plans (Coupon: `FIRST_20_OFF`), plus up to 1,000 bonus minutes on the first subscription | Nov 17 – Nov 30, 2026 |
 
 ---
 
