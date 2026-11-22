@@ -177,6 +177,8 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Kikuyo**](https://kikuyo.app/) | Feedback boards, voting, and changelogs for indie hackers and small teams managing multiple apps, with CLI and MCP support. | 38% OFF Lifetime Pro ($79 → $49 one-time, capped at 5 organizations, auto-applied) | Nov 20 – Dec 1, 2026 |
 | [**Toplify**](https://toplify.app) | Tracks App Store chart positions in 175 countries for iOS and Mac developers. | **45% OFF** Lifetime: $89.99 → $49.99 · redeem [BLKFR2026](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) | Nov 15 – Dec 1, 2026 |
 | [**LurkAPI**](https://lurkapi.com/pricing) | Social media data API and MCP server: public posts, ads and profiles from 16 platforms, including Facebook, Reddit, YouTube, TikTok, Instagram and X, as JSON. | 30% OFF any credit pack (Coupon: `BLACKFRIDAY30`) | Nov 20 – Nov 30, 2026 |
+| [**AY Grants**](https://grants.ayskilllab.com/#pricing) | Open government grants in the US, EU and UK in one list, by deadline, with saved searches and nightly alerts. | 50% OFF the first month on the monthly plan: $4.50 (was $9), then renews at the normal price. Auto-applied, no code needed | Nov 22 – Nov 30, 2026 |
+| [**AY Tenders**](https://tenders.ayskilllab.com/#pricing) | Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with alerts. | 50% OFF the first month on monthly plans: Tenders $9.50 (was $19), Tenders + Grants $12 (was $24), then the normal price. Auto-applied, no code needed | Nov 22 – Nov 30, 2026 |
 
 ---
 
