@@ -176,6 +176,8 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**LurkAPI**](https://lurkapi.com/pricing) | Social media data API and MCP server: public posts, ads and profiles from 16 platforms, including Facebook, Reddit, YouTube, TikTok, Instagram and X, as JSON. | 30% OFF any credit pack (Coupon: `BLACKFRIDAY30`) | Nov 20 – Nov 30, 2026 |
 | [**SerpWrap**](https://serpwrap.com) | SERP API returning structured JSON from live search results. Pay-once credit packs, no subscription, credits valid 12 months. | 40% OFF every credit pack (Coupon: `BLACKF40`) | Nov 21 – Nov 30, 2026 |
 | [**Mailtea**](https://mailtea.app/pricing?utm_source=pimjo&utm_medium=deal_list&utm_campaign=black_friday_2026#black-friday) | Transactional and marketing email for people and AI agents, in one product: REST API, six SDKs, a CLI, an MCP server, SMTP and Mailtea Studio. | 3 months free on Pro 25K (Coupon: `BLACKFRIDAY26`) · new customers, first 100 redemptions · card required, then $16 or $21 a month | Nov 23 – Nov 30, 2026 |
+| [**AY Grants**](https://grants.ayskilllab.com/#pricing) | Open government grants in the US, EU and UK in one list, by deadline, with saved searches and nightly alerts. | 50% OFF the first month on the monthly plan: $4.50 (was $9), then renews at the normal price. Auto-applied, no code needed | Nov 22 – Nov 30, 2026 |
+| [**AY Tenders**](https://tenders.ayskilllab.com/#pricing) | Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with alerts. | 50% OFF the first month on monthly plans: Tenders $9.50 (was $19), Tenders + Grants $12 (was $24), then the normal price. Auto-applied, no code needed | Nov 22 – Nov 30, 2026 |
 
 ---
 
