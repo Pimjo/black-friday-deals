@@ -111,6 +111,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**SaaSykit**](https://saasykit.com/) | Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics. One-time purchase. | **50% OFF** all versions: SaaSykit $239 → $119.50, Tenancy $269 → $134.50, Complete $299 → $149.50. Auto-applied (Coupon: `BLACKFRIDAY26`) | Nov 14 – Dec 6, 2026 |
 | [**SoarStarter**](https://soarstarter.com/?utm_source=pimjo-bf&utm_campaign=bf2026#pricing) | Starter kits for web, mobile and desktop: Next.js, Nuxt, TanStack Start, SwiftUI, Kotlin, Expo, Electron and Tauri, with auth and payments built in. One-time purchase. | **20% OFF** All-Access Bundle, all 8 kits $249 → $199 (Coupon: `BF2026`) | Nov 24 – Dec 1, 2026 |
 | [**Liftoff**](https://nandohusni.gumroad.com/l/hnxqmi) | Next.js 16 and Tailwind CSS landing page kit for SaaS products, with a guide to ship it in a day. | **40% OFF** ($29 → $17.40) (Coupon: `BF40`) | Nov 20 – Dec 1, 2026 |
+| [**SaaScaffold**](https://saascaffold.com/pricing) | Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 coding-agent runbooks, 4 payment & 4 AI providers. One-time purchase. | **50% OFF** one-time license ($99 → $49), auto-applied (no code needed) | Nov 21 – Dec 6, 2026 |
 
 ---
 
