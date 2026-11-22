@@ -172,6 +172,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Toplify**](https://toplify.app) | Tracks App Store chart positions in 175 countries for iOS and Mac developers. | **45% OFF** Lifetime: $89.99 → $49.99 · redeem [BLKFR2026](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) | Nov 15 – Dec 1, 2026 |
 | [**LurkAPI**](https://lurkapi.com/pricing) | Social media data API and MCP server: public posts, ads and profiles from 16 platforms, including Facebook, Reddit, YouTube, TikTok, Instagram and X, as JSON. | 30% OFF any credit pack (Coupon: `BLACKFRIDAY30`) | Nov 20 – Nov 30, 2026 |
 | [**SerpWrap**](https://serpwrap.com) | SERP API returning structured JSON from live search results. Pay-once credit packs, no subscription, credits valid 12 months. | 40% OFF every credit pack (Coupon: `BLACKF40`) | Nov 21 – Nov 30, 2026 |
+| [**Mailtea**](https://mailtea.app/pricing?utm_source=pimjo&utm_medium=deal_list&utm_campaign=black_friday_2026#black-friday) | Transactional and marketing email for people and AI agents, in one product: REST API, six SDKs, a CLI, an MCP server, SMTP and Mailtea Studio. | 3 months free on Pro 25K (Coupon: `BLACKFRIDAY26`) · new customers, first 100 redemptions · card required, then $16 or $21 a month | Nov 23 – Nov 30, 2026 |
 
 ---
 
