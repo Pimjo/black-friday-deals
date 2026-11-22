@@ -334,6 +334,8 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Workspaces**](https://www.apptorium.com/workspaces) | Project-based Mac launcher that opens grouped files, folders, apps, websites, emails and Shortcuts with one click. | 50% OFF one-time purchase ($19.99 → $9.99), no code needed | Nov 20 – Dec 6, 2026 |
 | [**FiveNotes**](https://www.apptorium.com/fivenotes) | Focused Mac menu bar app for exactly five quick notes, with Markdown, themes, iCloud sync and automation. | 50% OFF one-time purchase ($7.99 → $3.99), no code needed | Nov 20 – Dec 6, 2026 |
 | [**Trophikos**](https://apps.apple.com/us/app/trophikos/id6773508921) | Recipe and cocktail library with a cooking log, so you remember what you changed and what worked last time. For iPhone, iPad, Apple Watch & Apple TV. | **80% OFF** Lifetime Premium: $9.99 → $1.99 USD, one-time purchase, no subscription (no code needed) | Nov 20 – Dec 1, 2026 |
+| [**Keystro**](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. One-time purchase. | 30% OFF one-time licenses, Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30 (Coupon: `BFKEYSTRO26`, auto-applied at checkout) | Nov 22 – Dec 4, 2026 |
+
 
 ---
 
