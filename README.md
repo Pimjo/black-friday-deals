@@ -336,7 +336,6 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Trophikos**](https://apps.apple.com/us/app/trophikos/id6773508921) | Recipe and cocktail library with a cooking log, so you remember what you changed and what worked last time. For iPhone, iPad, Apple Watch & Apple TV. | **80% OFF** Lifetime Premium: $9.99 → $1.99 USD, one-time purchase, no subscription (no code needed) | Nov 20 – Dec 1, 2026 |
 | [**Keystro**](https://keystro.app) | Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. For macOS and Windows. One-time purchase. | 30% OFF one-time licenses, Standard $6.99 → $4.89, Extended $14 → $9.80, Team $39 → $27.30 (Coupon: `BFKEYSTRO26`, auto-applied at checkout) | Nov 22 – Dec 4, 2026 |
 
-
 ---
 
 <a id="books-courses"></a>
