@@ -327,6 +327,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Unraster**](https://unraster.ai/pricing) | Turn slide, chart and diagram screenshots into editable PowerPoint (real text boxes and shapes) or SVG, in your browser. | 45% OFF the 150-credit pack, $79.90 → $43.95 (Coupon: `BLACKFRIDAY45`) | Now – Dec 1, 2026 |
 | [**BatchMark**](https://batchmark.dispatchcat.com/holiday-sale/) | Batch watermark up to 100 photos at once, art frames, Color Walk cards and Photo Stories, all on-device, no uploads, no ads. | **50% OFF** Lifetime: $79.99 → $39.99 USD, one-time purchase (no code needed, auto-applied in the app); first year of Yearly $19.99, then $39.99/yr | Nov 15 – Dec 25, 2026 |
 | [**Roost**](https://roostmail.app/black-friday) | Native Mac mail app for many inboxes: several Gmails, Outlook, iCloud, Zoho, Yandex and any IMAP in one keyboard-first window. Mail stays on your Mac. | 14% OFF Lifetime ($29 → $25), one payment for 3 Macs and every future update, no code needed | Nov 27 – Dec 1, 2026 |
+| [**CursorClip**](https://cursorclip.com/pricing/?ref=bf-pimjo) | Native Mac screen recorder for tutorials, courses and product demos. It adds smooth zooms where you click while you record. New in 2.3: 86 backgrounds, a mic and camera check before you start, and captions made on your Mac. | Lifetime for **$49**, one-time payment, no subscription (no code needed, `BLACKFRIDAY` is auto-applied at checkout) | Nov 15 – Nov 30, 2026 |
 
 ---
 
