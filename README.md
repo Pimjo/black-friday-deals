@@ -351,6 +351,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Wireless Operator**](https://training.thexero.co.uk/blackfriday) | Hands-on Wi-Fi pentesting course from TheXero Training Academy, covering 802.11 frames, WPA3, enterprise Wi-Fi, rogue APs, wireless pivots and fuzzing, with a simulated lab and live coaching. | $197 instead of $599 (67% off, no code needed) | Nov 10 – Dec 1, 2026 |
 | [**GenAI Security Lab**](https://genaisecuritylab.com/pricing) | Hands-on AI security labs against deliberately vulnerable LLM, RAG, agent and MCP apps. | 40% OFF the 4-Month Pass and the first year of the yearly plan, auto-applied (Coupon: `BLACKFRIDAY40`) | Nov 17 – Nov 30, 2026 |
 | [**Erla**](https://erla.app/black-friday) | Learn a language by understanding it: listen to and read short stories at your level, watch short videos, then talk with an AI teacher. One app per language, 22 languages, iPhone & iPad. | 70% OFF the first year of Erla PRO ($59.99 → $18) after a 7-day free trial, new subscribers, redeem via erla.app/black-friday (Coupon: `BLACKFRIDAY`) | Nov 12 – Nov 30, 2026 |
+| [**8kSec Academy**](https://academy.8ksec.io/) | On-demand mobile and AI security training with five certification tracks (CAISR, CMSE, OMSE, CISR, CASR) and hands-on labs | 15% off all on-demand courses with code `8KSECBLACKFRIDAY` | Nov 20 – Dec 4, 2026 |
 
 ---
 
