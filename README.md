@@ -178,6 +178,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**AY Grants**](https://grants.ayskilllab.com/#pricing) | Open government grants in the US, EU and UK in one list, by deadline, with saved searches and nightly alerts. | 50% OFF the first month on the monthly plan: $4.50 (was $9), then renews at the normal price. Auto-applied, no code needed | Nov 22 – Nov 30, 2026 |
 | [**AY Tenders**](https://tenders.ayskilllab.com/#pricing) | Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with alerts. | 50% OFF the first month on monthly plans: Tenders $9.50 (was $19), Tenders + Grants $12 (was $24), then the normal price. Auto-applied, no code needed | Nov 22 – Nov 30, 2026 |
 | [**Storewire**](https://plugins.hackerman.ge) | Laravel package that lets an online store answer shoppers inside AI assistants (search, compare, cart handoff), built on the official laravel/mcp. Free MIT version: hackerman/storewire-lite. | **40% OFF**: single store $149 → $89, unlimited $349 → $209. No code needed | Nov 27 – Dec 2, 2026 |
+| [**CtrlOps**](https://ctrlops.io/pricing?utm_source=pimjo&utm_medium=referral&utm_campaign=bfcm2026) | Deploy, debug, manage and audit Linux servers with AI, from one local-first desktop app for Mac, Windows and Linux. | 31% OFF all Yearly and Lifetime plans, recurring on Yearly: Personal $62.10/yr (was $90), Lifetime $240.81 (was $349); Team $269.10/yr (was $390), Lifetime $585.81 (was $849) (Coupon: `BFCM31`) | Nov 21 – Dec 2, 2026 |
 
 ---
 
