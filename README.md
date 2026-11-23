@@ -109,6 +109,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**MkSaaS**](https://mksaas.com/#pricing) | Next.js starter with authentication, billing, AI chat and image generation. | 50% OFF Lifetime license: $199 → $99 (auto-applied) | Now – Nov 30, 2026 |
 | [**ShadcnSpace**](https://shadcnspace.com) | 1,400+ ready-to-use shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. | **40% OFF** ($129 → $77) (Coupon: `BFCM`) | Now – Dec 3, 2026 |
 | [**TailThemes**](https://tailthemes.com/?utm_source=pimjo-black-friday&utm_medium=listing&utm_campaign=black-friday-2026#all-access) | 26 Tailwind CSS site themes, each with a Next.js edition and a plain HTML edition, light and dark modes, and an AGENTS.md file for coding agents. | **39% OFF** All-Access, all 26 themes $129 → $79, one payment (No code needed) | Nov 21 – Dec 1, 2026 |
+| [**NateUI**](https://nateui.com/pricing?utm_source=pimjo&utm_medium=deal-list&utm_campaign=bf30&utm_content=ui-kits-table) | Themeable React and Tailwind CSS components, blocks and 4 Next.js app templates, with six theme presets and a hosted MCP for coding agents. | 30% OFF Basic and All-Access, one-time (Basic from $55.30, All-Access from $195.30) (Coupon: `BF30`) | Nov 23 – Dec 1, 2026 |
 
 ---
 
