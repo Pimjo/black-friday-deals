@@ -381,6 +381,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | --- | --- | --- | --- |
 | [**own.page**](https://own.page/pricing?utm_source=pimjo&utm_medium=deal_list&utm_campaign=black_week_2026) | No-code personal website builder that goes way beyond link in bio: sell products, take bookings, collect leads and get paid on your own domain. | 40% OFF Pro yearly ($79.90 → $47.94) and 30% OFF Business yearly ($199 → $139.30), auto-applied, no code needed | Nov 20 – Nov 30, 2026 |
 | [**Siter.io**](https://siter.io/black-friday) | No-code website builder with a free-form design canvas, Figma import, AI page generation and hosting. | 35% OFF the first payment on Solo, Plus and Pro (Coupon: `BLACKFRIDAY35`) | Nov 16 – Dec 1, 2026 |
+| [**Checkout Page**](https://checkoutpage.com/black-friday) | Checkout pages, events and forms for tickets, memberships and donations, with payments to your own Stripe account. | 30% OFF every paid plan, first 6 months on monthly billing or first year on yearly billing, no code needed (new paid plans only) | Nov 23 – Nov 30, 2026 |
 
 ---
 
