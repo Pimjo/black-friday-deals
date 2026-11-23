@@ -375,6 +375,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**GenAI Security Lab**](https://genaisecuritylab.com/pricing) | Hands-on AI security labs against deliberately vulnerable LLM, RAG, agent and MCP apps. | 40% OFF the 4-Month Pass and the first year of the yearly plan, auto-applied (Coupon: `BLACKFRIDAY40`) | Nov 17 – Nov 30, 2026 |
 | [**Erla**](https://erla.app/black-friday) | Learn a language by understanding it: listen to and read short stories at your level, watch short videos, then talk with an AI teacher. One app per language, 22 languages, iPhone & iPad. | 70% OFF the first year of Erla PRO ($59.99 → $18) after a 7-day free trial, new subscribers, redeem via erla.app/black-friday (Coupon: `BLACKFRIDAY`) | Nov 12 – Nov 30, 2026 |
 | [**8kSec Academy**](https://academy.8ksec.io/) | On-demand mobile and AI security training with five certification tracks (CAISR, CMSE, OMSE, CISR, CASR) and hands-on labs | 15% off all on-demand courses with code `8KSECBLACKFRIDAY` | Nov 20 – Dec 4, 2026 |
+| [**Android App Hacking Mastery**](https://training.byteblind.com/products/courses/android-app-hacking) | Hands-on Android app pentesting course for pentesters and bug bounty hunters: 55 lessons, vulnerable APKs, lifetime access, 7-day refund guarantee. | 40% OFF ($149 → $89.40) (Coupon: `BYTENOV40`) | Nov 23 – Nov 30, 2026 |
 
 ---
 
