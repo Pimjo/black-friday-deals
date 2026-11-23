@@ -178,7 +178,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**AY Grants**](https://grants.ayskilllab.com/#pricing) | Open government grants in the US, EU and UK in one list, by deadline, with saved searches and nightly alerts. | 50% OFF the first month on the monthly plan: $4.50 (was $9), then renews at the normal price. Auto-applied, no code needed | Nov 22 – Nov 30, 2026 |
 | [**AY Tenders**](https://tenders.ayskilllab.com/#pricing) | Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with alerts. | 50% OFF the first month on monthly plans: Tenders $9.50 (was $19), Tenders + Grants $12 (was $24), then the normal price. Auto-applied, no code needed | Nov 22 – Nov 30, 2026 |
 | [**Storewire**](https://plugins.hackerman.ge) | Laravel package that lets an online store answer shoppers inside AI assistants (search, compare, cart handoff), built on the official laravel/mcp. Free MIT version: hackerman/storewire-lite. | **40% OFF**: single store $149 → $89, unlimited $349 → $209. No code needed | Nov 27 – Dec 2, 2026 |
-
+| [**pline.ai**](https://www.pline.ai/pricing?utm_source=Pimjo&utm_medium=referral&utm_campaign=bf2026) | Web scraping api that converts any web page into clean usable data | **30% OFF**: on all paid plans. No code needed | Nov 25 – Nov 30, 2026 |
 ---
 
 <a id="design-icons"></a>
