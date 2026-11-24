@@ -259,6 +259,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Pitchlist**](https://pitchlist.serpwrap.com) | Local business leads by city and business type with phone, address, rating and website, as CSV, XLSX or JSON. Claude Code integration support via a hosted MCP server. Pay once, no subscription. | 60% OFF every lead pack (Coupon: `BLACKFRIDAY60`) | Nov 21 – Nov 30, 2026 |
 | [**WaveGen**](https://wavegen.ai/pricing?utm_source=pimjo&utm_medium=listing&utm_campaign=thanksgiving2026) | Turns your articles, newsletters and YouTube videos into on-brand carousels and short videos, then schedules them to Instagram, LinkedIn, TikTok, Facebook, YouTube and Pinterest. Free plan available. | **40% OFF** the first year of any yearly plan (Coupon: `THANKS2026`), auto-applied at checkout | Nov 23 – Dec 1, 2026 |
 | [**Highseat**](https://highseat.com/pricing?billing=yearly&utm_source=pimjo&utm_medium=deal-list&utm_campaign=black-friday-2026) | Cookieless web analytics with revenue on every breakdown, net of refunds, so you see which traffic makes money. | 40% OFF the first year of any yearly plan, no code needed (10k events $90 → $54/yr). New customers only. | Nov 23 – Dec 1, 2026 |
+| [**EarlyLore**](https://earlylore.com/pricing) | AI product discovery & competitive intelligence across 540K+ products, traffic, Design DNA & 14 MCP tools. | **Up to 53% OFF** Annual (extra 25% off Pro $144 → $108/yr [$9/mo], Max $384 → $288/yr [$24/mo]; first year, renews at $144/$384). Auto-applied or Coupon: `BF2026` | Nov 24 – Nov 30, 2026 |
 
 ---
 
