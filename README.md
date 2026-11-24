@@ -85,6 +85,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Gixo Lumen**](https://gixo.ai/products/presentations#plans) | Turn notes, briefs, and source documents into editable presentations with citations and PowerPoint export. | 60% OFF Lite, $5 → $2/month in the US after a 14-day no-card trial for eligible new users. Local pricing varies. | Nov 23 – Dec 14, 2026 |
 | [**Gixo Quill**](https://gixo.ai/products/content#plans) | Draft and edit source-grounded articles, guides, and reports, then publish or export them from one workspace. | 60% OFF Lite, $5 → $2/month in the US after a 14-day no-card trial for eligible new users. Local pricing varies. | Nov 23 – Dec 14, 2026 |
 | [**Gixo Lex**](https://gixo.ai/products/legal#plans) | Draft and review legal documents from your source material with citations and review controls. | 64% OFF Lite, $14 → $5/month in the US after a 14-day no-card trial for eligible new users. Local pricing varies. | Nov 23 – Dec 14, 2026 |
+| [**ClaudeKit**](https://claudekit.app/pricing?utm_source=pimjo-bf&utm_medium=directory&utm_campaign=bf-2026) | Chrome and Edge extension for claude.ai: a live usage circle with the exact limit reset time, a heads-up at 90%, chat forks, pins and a prompt library. | First year of Pro annual $28 → $20 (auto-applied, no code) | Nov 24 – Dec 2, 2026 |
 
 ---
 
