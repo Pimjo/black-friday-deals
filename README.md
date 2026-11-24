@@ -85,6 +85,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Gixo Lumen**](https://gixo.ai/products/presentations#plans) | Turn notes, briefs, and source documents into editable presentations with citations and PowerPoint export. | 60% OFF Lite, $5 → $2/month in the US after a 14-day no-card trial for eligible new users. Local pricing varies. | Nov 23 – Dec 14, 2026 |
 | [**Gixo Quill**](https://gixo.ai/products/content#plans) | Draft and edit source-grounded articles, guides, and reports, then publish or export them from one workspace. | 60% OFF Lite, $5 → $2/month in the US after a 14-day no-card trial for eligible new users. Local pricing varies. | Nov 23 – Dec 14, 2026 |
 | [**Gixo Lex**](https://gixo.ai/products/legal#plans) | Draft and review legal documents from your source material with citations and review controls. | 64% OFF Lite, $14 → $5/month in the US after a 14-day no-card trial for eligible new users. Local pricing varies. | Nov 23 – Dec 14, 2026 |
+| [**ABContents**](https://abcontents.com/?utm_source=pimjo) | Turns a PDF, slide deck or website into a narrated explainer or marketing video with AI voice, word-by-word captions and music, in more than 100 styles, with a REST API and MCP server. | 30% OFF every video and API pack, videos from $2.10 (was $3) (Coupon: `BLACKFRIDAY`) | Nov 27 – Dec 1, 2026 |
 
 ---
 
