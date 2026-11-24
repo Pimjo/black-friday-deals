@@ -359,6 +359,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Fadeclock**](https://fadeclock.app/#price) | Mac timer for teaching with slides: a small capsule floats over full-screen Keynote, PowerPoint or HTML slides and shows when the activity ends, on the projector too. Free download, not notarized by Apple yet. | **50% OFF** Pro, one-time purchase: $12 → $6 (Coupon: `BF2026`, auto-applied by the Buy Pro button) | Nov 21 – Nov 30, 2026 |
 | [**Paperkeep**](https://paperkeep.be/pro.html) | Free browser extension for Chrome, Edge and Firefox that downloads and renames your SaaS invoices (ChatGPT, Canva, Meta Ads, Google Workspace...) in one click, for your accountant. Works locally, no account. | 30% OFF the first year of Pro (€39 → €27.30) (Coupon: `PAPERKEEP30`) | Nov 24 – Dec 1, 2026 |
 | [**DataCheck**](https://datacheck.cc/en/pricing) | Research data verification: rule-driven duplicate, shift & numerical anomaly checks for research tables across 56 versioned rules, with source-cell evidence on Web and Windows. One-time purchase. | **30% OFF** all standard one-time packs (single credit HK$116 → HK$81.20, about $10.35) and Windows perpetual desktop licenses (from HK$15,288 → HK$10,701.60), auto-applied at checkout, no code needed | Nov 23 – Dec 5, 2026 |
+| [**PeekTheDay**](https://peektheday.com?ref=pj) | A thin line under your Mac's menu bar shows your whole day. Peek to see what's next, drag on it to block time. | **67% OFF** one-time, $15 → $5 (no code needed) | Nov 24 – Nov 30, 2026 |
 
 ---
 
