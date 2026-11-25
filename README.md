@@ -222,6 +222,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Linger**](https://withlinger.com/black-friday/) | Local-first native Mac app for saving design references, notes, and sources on your own computer. | **38% OFF** Lifetime ($79→$49), Personal $39→$25 (36% off), Studio Duo (two Lifetime codes) $158→$79 (50% off), no code needed | Nov 19 – Dec 1, 2026 |
 | [**Knitting Chart**](https://knittingchart.com/pricing) | Draw knitting charts for colorwork, lace, and cable patterns, turn photos into charts, and export PDFs in your browser. | **32% OFF** Lifetime Pro: $40.12 once (was $59). No code needed (Nov 23–30, 2026, Pacific time). | Nov 23–30, 2026 |
 | [**The Cross Stitch Pattern Maker**](https://thecrossstitchpatternmaker.com/pricing) | Turn a photo into a cross-stitch chart in your browser, edit stitches, and export a PDF with a DMC floss list. | **32% OFF** Lifetime Pro: $40.12 once (was $59). No code needed (Nov 23–30, 2026, Pacific time). | Nov 23–30, 2026 |
+| [**ThreeDee**](https://www.threedee.design/) | Stylized rigged 3D characters, standalone models, and modular packs. | 30% OFF single 3D models, 3D packs, both lifetime libraries, and Nova credits (Coupon: `BLACK30`) | Nov 24 – Dec 2, 2026 |
 
 ---
 
