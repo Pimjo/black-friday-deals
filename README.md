@@ -408,6 +408,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Ejectify 2**](https://ejectify.app/?discount=BLACKFRIDAY&utm_source=bf2026-pimjo) | Unmounts external drives before your Mac sleeps and remounts them when it wakes. | **€2 off** a one-time purchase (~~€6.99~~ **€4.99**, coupon `BLACKFRIDAY` auto-applied) | Nov 24 – Nov 30, 2026 |
 | [**Paste Formatter**](https://paste-formatter.app/?discount=BLACKFRIDAY&utm_source=bf2026-pimjo) | Removes unwanted fonts and colors from pasted text on Mac while keeping links and lists. | **€2 off** a one-time purchase (~~€4.99~~ **€2.99**, coupon `BLACKFRIDAY` auto-applied) | Nov 24 – Nov 30, 2026 |
 | [**Backup Status**](https://backupstatus.app/?discount=BLACKFRIDAY&utm_source=bf2026-pimjo) | Shows when Time Machine last backed up your Mac, right on your desktop. | **€2 off** a one-time purchase (~~€4.99~~ **€2.99**, coupon `BLACKFRIDAY` auto-applied) | Nov 24 – Nov 30, 2026 |
+| [**Stepfinch**](https://stepfinch.app/?utm_source=pimjo-bf&utm_campaign=bf2026#pricing) | Mac app that turns a task you do once into a step-by-step guide: a screenshot of every click, the steps written for you, private info blurred. | 26% OFF Lifetime ($39 → $29), one payment for 3 Macs and every update, no code needed | Nov 23 – Dec 1, 2026 |
 
 ---
 
