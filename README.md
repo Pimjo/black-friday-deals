@@ -206,6 +206,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Monitorable**](https://monitorable.io/?utm_source=pimjo&utm_medium=deal-list&utm_campaign=bf2026#pricing) | Hosted monitoring for Linux servers: one open-source OpenTelemetry agent per server, dashboard and alerting included, nothing to host. Free plan for 3 servers. | 40% OFF any paid plan for as long as you stay subscribed: Pro $5.40/mo (was $9), Scale $17.40/mo (was $29), Enterprise $47.40/mo (was $79), annual plans too. First 200 subscriptions (Coupon: `BF2026`) | Nov 24 – Dec 1, 2026 |
 | [**surl.li**](https://surl.li/en/) | URL shortener with custom domains, QR codes, click analytics, API, and MCP server for AI agents. | 60% OFF all plans · no code needed | Nov 25, 2026 - Dec 1, 2026 |
 | [**GridPin**](https://gridpin.dev/buy#snapshot) | Offline geocoder for 13 countries: one file per country, no API key. | 40% OFF the one-time Snapshot ($199 → $119, paid in USDC), no code needed | Nov 25 – Dec 1, 2026 |
+| [**Uptimecheck**](https://uptimecheck.com/pricing/?utm_source=pimjo&utm_medium=deal-list&utm_campaign=black-week-2026) | European uptime monitoring for websites, APIs, cron jobs, servers and domains from 6 locations, with status pages and alerts by email, Slack, Teams, SMS, phone call and push. Free plan available. | **70% OFF** the first year on yearly plans: Start €108 → €29, Professional €348 → €99, Business €828 → €239, excl. VAT (no coupon, applied at checkout) | Nov 25 – Dec 4, 2026 |
 
 ---
 
