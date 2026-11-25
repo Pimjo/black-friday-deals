@@ -226,6 +226,8 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Knitting Chart**](https://knittingchart.com/pricing) | Draw knitting charts for colorwork, lace, and cable patterns, turn photos into charts, and export PDFs in your browser. | **32% OFF** Lifetime Pro: $59 → $40.12 once, no code needed | Nov 23 – Nov 30, 2026 |
 | [**The Cross Stitch Pattern Maker**](https://thecrossstitchpatternmaker.com/pricing) | Turn a photo into a cross-stitch chart in your browser, edit stitches, and export a PDF with a DMC floss list. | **32% OFF** Lifetime Pro: $59 → $40.12 once, no code needed | Nov 23 – Nov 30, 2026 |
 | [**ThreeDee**](https://www.threedee.design/) | Stylized rigged 3D characters, standalone models, and modular packs. | 30% OFF single 3D models, 3D packs, both lifetime libraries, and Nova credits (Coupon: `BLACK30`) | Nov 24 – Dec 2, 2026 |
+| [**Liniqo**](https://liniqo.com/) | 5,000+ hairline isometric illustrations and 680+ interactive figures for SaaS sites, apps and landing pages. SVG, PNG or React, restyle them with Build your style, or pull them into Claude, Cursor or v0 via the Liniqo MCP server. | Up to 70% OFF: Lifetime ~~$79~~ $39.50, Pro from $11.70, Personal from $5.70 (Auto-applied, no code) | Nov 21 – Dec 1, 2026 |
+
 
 ---
 
