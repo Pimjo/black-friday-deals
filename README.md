@@ -125,6 +125,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**NateUI**](https://nateui.com/pricing?utm_source=pimjo&utm_medium=deal-list&utm_campaign=bf30&utm_content=ui-kits-table) | Themeable React and Tailwind CSS components, blocks and 4 Next.js app templates, with six theme presets and a hosted MCP for coding agents. | 30% OFF Basic and All-Access, one-time (Basic from $55.30, All-Access from $195.30) (Coupon: `BF30`) | Nov 23 – Dec 1, 2026 |
 | [**ShadcnStore**](https://shadcnstore.com/pricing?utm_source=pimjo&utm_medium=deal-list&utm_campaign=cyber-week-2026) | Production-ready shadcn/ui blocks, pages and templates on Base UI, installed with the shadcn CLI, plus a Figma kit. One-time payment, lifetime updates. | 40% OFF every plan and template, no code needed (Pro ~~$149~~ $89, Starter ~~$99~~ $59) | Nov 21 – Dec 1, 2026 |
 | [**ReUI**](https://reui.io/pricing?utm_source=pimjo-bfcm&utm_medium=directory&utm_campaign=reui-nov26) | The agent-ready layer for shadcn/ui | 30% OFF every license, no code needed | Until Nov 30, 2026 |
+| [**ShipRust**](https://shiprust.com/#pricing) | Generate a Rust SaaS starter with Axum, Maud, SQLx and PostgreSQL. | 70% off lifetime access: $299 once instead of $999. | Through Dec 5, 2026 |
 
 ---
 
