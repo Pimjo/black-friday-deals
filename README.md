@@ -85,6 +85,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Gixo Lumen**](https://gixo.ai/products/presentations#plans) | Turn notes, briefs, and source documents into editable presentations with citations and PowerPoint export. | 60% OFF Lite, $5 → $2/month in the US after a 14-day no-card trial for eligible new users. Local pricing varies. | Nov 23 – Dec 14, 2026 |
 | [**Gixo Quill**](https://gixo.ai/products/content#plans) | Draft and edit source-grounded articles, guides, and reports, then publish or export them from one workspace. | 60% OFF Lite, $5 → $2/month in the US after a 14-day no-card trial for eligible new users. Local pricing varies. | Nov 23 – Dec 14, 2026 |
 | [**Gixo Lex**](https://gixo.ai/products/legal#plans) | Draft and review legal documents from your source material with citations and review controls. | 64% OFF Lite, $14 → $5/month in the US after a 14-day no-card trial for eligible new users. Local pricing varies. | Nov 23 – Dec 14, 2026 |
+| [**Whizi**](https://whizi.io/pricing/?utm_medium=deal-list&utm_campaign=bf2026&utm_source=pimjo) | One subscription for Claude, ChatGPT, Gemini and other AI models, with image, video and music in the same chat. Web, iPhone and Android. | 30% OFF the first year of annual plans, auto-applied at checkout (Pro $239.99 → $167.99) | Nov 24 – Dec 24, 2026 |
 
 ---
 
