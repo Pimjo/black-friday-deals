@@ -393,6 +393,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**BetterDisplay**](https://betterdisplay.pro/) | Control scaling, brightness and virtual screens from the Mac menu bar. | **33% OFF** BetterDisplay Pro, one-time purchase with at least 2 years of free updates (Coupon: `BFCM2026`) | Nov 26 – Dec 1, 2026 |
 | [**ShiftApp**](https://shiftapp.com/black-friday) | Employee scheduling software and app. Plan shifts, handle time off requests, and keep staff informed on their phones. | **88% OFF** the first 8 months of Essential monthly plans, new orders (Coupon: `BLACKFRIDAY2026`, auto-applied) | Nov 23 – Dec 12, 2026 |
 | [**shepetal**](https://shepetal.app/blog/black-friday-dictation-note-taking-deals?ref=pimjo) | Dictation and meeting notes for the Mac that run on your Mac. Speech recognition works offline. | 80% OFF the lifetime license, €24 → €4.80 once (Coupon: `BLACKFRIDAY`) | Nov 24 – Nov 30, 2026 |
+| [**FrameGloss**](https://framegloss.app/?deal=blackfriday&utm_source=pimjo&utm_campaign=black-friday-2026) | Browser-based product demo polisher: drop any screen recording or record your tab, add smooth spring zooms, macOS/browser frames, backdrops and callouts, and export MP4 or GIF 100% locally via WebCodecs. No account, no uploads; free 720p tier included. | **50% OFF** Pro Lifetime, one-time purchase: $15 → $7.50 (Coupon: `BLACKFRIDAY`) | Nov 24 – Nov 30, 2026 |
 
 ---
 
