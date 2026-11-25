@@ -93,6 +93,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**ABContents**](https://abcontents.com/?utm_source=pimjo) | Turns a PDF, slide deck or website into a narrated explainer or marketing video with AI voice, word-by-word captions and music, in more than 100 styles, with a REST API and MCP server. | 30% OFF every video and API pack, videos from $2.10 (was $3) (Coupon: `BLACKFRIDAY`) | Nov 27 – Dec 1, 2026 |
 | [**Whizi**](https://whizi.io/pricing/?utm_medium=deal-list&utm_campaign=bf2026&utm_source=pimjo) | One subscription for Claude, ChatGPT, Gemini and other AI models, with image, video and music in the same chat. Web, iPhone and Android. | 30% OFF the first year of annual plans, auto-applied at checkout (Pro $239.99 → $167.99) | Nov 24 – Dec 24, 2026 |
 | [**Zeptap**](https://zeptap.com/pricing) | Mac app that lets Claude, Codex or any MCP agent use your real iPhone and its apps. No Xcode, no developer account, nothing to install on the phone. | 50% OFF every plan · Lifetime $99 once (was $199), Lifetime Plus up to 5 iPhones $199 once (was $399) · no code needed | Nov 25 – Dec 1, 2026 |
+| [**Spring Prompt**](https://springprompt.com/plans) | Two lines of code that test every LLM prompt in your app on other models and better wordings, and tell you when a cheaper model or a prompt fix would do the job. | 40% OFF the first 3 months of either monthly plan: Basic $49 → $29.40/mo, Pro $200 → $120/mo, new subscriptions (Coupon: `BF2026`) | Nov 25 – Dec 1, 2026 |
 
 ---
 
