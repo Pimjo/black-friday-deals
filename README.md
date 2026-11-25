@@ -92,6 +92,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**ClaudeKit**](https://claudekit.app/pricing?utm_source=pimjo-bf&utm_medium=directory&utm_campaign=bf-2026) | Chrome and Edge extension for claude.ai: a live usage circle with the exact limit reset time, a heads-up at 90%, chat forks, pins and a prompt library. | First year of Pro annual $28 → $20 (auto-applied, no code) | Nov 24 – Dec 2, 2026 |
 | [**ABContents**](https://abcontents.com/?utm_source=pimjo) | Turns a PDF, slide deck or website into a narrated explainer or marketing video with AI voice, word-by-word captions and music, in more than 100 styles, with a REST API and MCP server. | 30% OFF every video and API pack, videos from $2.10 (was $3) (Coupon: `BLACKFRIDAY`) | Nov 27 – Dec 1, 2026 |
 | [**Whizi**](https://whizi.io/pricing/?utm_medium=deal-list&utm_campaign=bf2026&utm_source=pimjo) | One subscription for Claude, ChatGPT, Gemini and other AI models, with image, video and music in the same chat. Web, iPhone and Android. | 30% OFF the first year of annual plans, auto-applied at checkout (Pro $239.99 → $167.99) | Nov 24 – Dec 24, 2026 |
+| [**Zeptap**](https://zeptap.com/pricing) | Mac app that lets Claude, Codex or any MCP agent use your real iPhone and its apps. No Xcode, no developer account, nothing to install on the phone. | 50% OFF every plan · Lifetime $99 once (was $199), Lifetime Plus up to 5 iPhones $199 once (was $399) · no code needed | Nov 25 – Dec 1, 2026 |
 
 ---
 
