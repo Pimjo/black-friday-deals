@@ -86,6 +86,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Gixo Quill**](https://gixo.ai/products/content#plans) | Draft and edit source-grounded articles, guides, and reports, then publish or export them from one workspace. | 60% OFF Lite, $5 → $2/month in the US after a 14-day no-card trial for eligible new users. Local pricing varies. | Nov 23 – Dec 14, 2026 |
 | [**Gixo Lex**](https://gixo.ai/products/legal#plans) | Draft and review legal documents from your source material with citations and review controls. | 64% OFF Lite, $14 → $5/month in the US after a 14-day no-card trial for eligible new users. Local pricing varies. | Nov 23 – Dec 14, 2026 |
 | [**Narva**](https://narva.app/#pricing) | Turn a topic, script or voiceover into a finished faceless YouTube video | 30% OFF the first month of any plan (Coupon: `NARVA30`) | Nov 23 - Nov 30, 2026 |
+| [**memecub**](https://memecub.com/pricing?utm_source=pimjo&utm_campaign=bf2026) | Meme search engine your AI agent can use: find reaction memes and GIFs, let AI place memes into a post, or draw a new meme from one line. MCP server, REST API and CLI. | 50% OFF the first payment on any plan, applied automatically: Hobby $3 → $1.50 first month, Pro yearly $90 → $45 first year. Once per account. | Nov 24 – Dec 2, 2026 |
 
 ---
 
