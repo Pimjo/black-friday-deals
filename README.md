@@ -380,6 +380,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Mic to Speaker: Microphone**](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098) | iOS app that turns your phone into a live microphone for any Bluetooth speaker, for karaoke and announcements. | 40% OFF Lifetime ($49.99 → $29.99, no code needed) | Nov 21 – Nov 30, 2026 |
 | [**PeekTheDay**](https://peektheday.com?ref=pj) | A thin line under your Mac's menu bar shows your whole day. Peek to see what's next, drag on it to block time. | **67% OFF** one-time, $15 → $5 (no code needed) | Nov 24 – Nov 30, 2026 |
 | [**SnapApp**](https://snapapp.im/pricing?utm_source=pimjo&utm_medium=deal-list&utm_campaign=black-friday-2026) | Snipping tool for Mac: one shortcut snips any area, then mark it up with arrows, shapes, text and highlights and copy it in one click. Pro adds blur, redaction, text recognition and numbered steps. Native, macOS 14+. | **50% OFF** SnapApp Pro for first-time buyers on snapapp.im: Lifetime $89 → $44.50 once, Yearly $29 → $14.50 for the first year, Monthly $2.90 → $1.45 for the first 12 months (Coupon: `SNAPAPPBF26`). Mac App Store: Pro Lifetime $89 → $44.99 Nov 24 – Dec 1, no code | Nov 23 – Dec 1, 2026 |
+| [**BetterDisplay**](https://betterdisplay.pro/) | Control scaling, brightness and virtual screens from the Mac menu bar. | **33% OFF** BetterDisplay Pro, one-time purchase with at least 2 years of free updates (Coupon: `BFCM2026`) | Nov 26 – Dec 1, 2026 |
 
 ---
 
