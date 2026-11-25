@@ -91,6 +91,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**memecub**](https://memecub.com/pricing?utm_source=pimjo&utm_campaign=bf2026) | Meme search engine your AI agent can use: find reaction memes and GIFs, let AI place memes into a post, or draw a new meme from one line. MCP server, REST API and CLI. | 50% OFF the first payment on any plan, applied automatically: Hobby $3 → $1.50 first month, Pro yearly $90 → $45 first year. Once per account. | Nov 24 – Dec 2, 2026 |
 | [**ClaudeKit**](https://claudekit.app/pricing?utm_source=pimjo-bf&utm_medium=directory&utm_campaign=bf-2026) | Chrome and Edge extension for claude.ai: a live usage circle with the exact limit reset time, a heads-up at 90%, chat forks, pins and a prompt library. | First year of Pro annual $28 → $20 (auto-applied, no code) | Nov 24 – Dec 2, 2026 |
 | [**ABContents**](https://abcontents.com/?utm_source=pimjo) | Turns a PDF, slide deck or website into a narrated explainer or marketing video with AI voice, word-by-word captions and music, in more than 100 styles, with a REST API and MCP server. | 30% OFF every video and API pack, videos from $2.10 (was $3) (Coupon: `BLACKFRIDAY`) | Nov 27 – Dec 1, 2026 |
+| [**Zeptap**](https://zeptap.com/pricing) | Mac app that lets Claude, Codex or any MCP agent use your real iPhone and its apps. No Xcode, no developer account, nothing to install on the phone. | 50% OFF every plan · Lifetime $99 once (was $199), Lifetime Plus up to 5 iPhones $199 once (was $399) · no code needed | Nov 25 – Dec 1, 2026 |
 
 ---
 
