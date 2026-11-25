@@ -371,6 +371,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**ShieldFive**](https://shieldfive.com/pricing?utm_source=github&utm_medium=listing&utm_campaign=pimjo-bf-2026) | Encrypted cloud storage for web, Android, Windows and Mac: every file and filename is encrypted on your device before upload. | Up to 50% OFF the first year of annual plans, applied automatically, new customers (1 TB €30, 2 TB €48, 5 TB €115); or 5 TB lifetime €249 one-time until Nov 30 | Nov 23 – Dec 7, 2026 |
 | [**FlowSpeak**](https://smolkapps.com/flowspeak/?utm_source=pimjo&utm_campaign=bf2026#pricing) | Local Hold-Ctrl push-to-talk dictation for Mac (Apple Silicon Metal & Intel) and Linux x86_64. Runs whisper.cpp on-device, strips um/uh fillers, preserves your clipboard, and includes 25 free dictations. | 34% OFF Lifetime Pro ($29 → $19 one-time for up to 3 personal computers, no code needed) | Nov 24 – Dec 1, 2026 |
 | [**Mic to Speaker: Microphone**](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098) | iOS app that turns your phone into a live microphone for any Bluetooth speaker, for karaoke and announcements. | 40% OFF Lifetime ($49.99 → $29.99, no code needed) | Nov 21 – Nov 30, 2026 |
+| [**PeekTheDay**](https://peektheday.com?ref=pj) | A thin line under your Mac's menu bar shows your whole day. Peek to see what's next, drag on it to block time. | **67% OFF** one-time, $15 → $5 (no code needed) | Nov 24 – Nov 30, 2026 |
 
 ---
 
