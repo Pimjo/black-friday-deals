@@ -256,6 +256,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Kinsta**](https://kinsta.com/black-friday/) | Fast, secure, feature-rich managed hosting for WordPress on next-generation cloud infrastructure, secured by Cloudflare. | 3 Months FREE on Annual Plans or 50% OFF the First 3 Months on Monthly Plans (new customers, no coupon needed) | Nov 11 – Dec 1, 2026 |
 | [**Static.app**](https://static.app/black-friday) | Static website hosting with a browser code editor, custom domains, free SSL, forms and daily backups. | 35% OFF the first payment, monthly or yearly (Coupon: `BLACKFRIDAY35`) | Nov 16 – Dec 1, 2026 |
 | [**Faivelo**](https://faivelo.com/black-friday?utm_source=github&utm_medium=deal_listing&utm_campaign=pimjo) | Email hosting for your own domain with unlimited mailboxes, aliases and domains, webmail and calendar included. | 80% OFF: $12 for the year instead of $60, renews at $12 (new customers, first 500 accounts, no coupon needed) | Nov 17 – Dec 1, 2026 |
+| [**Miget**](https://miget.com/plans?utm_source=pimjo&utm_medium=deal-list&utm_campaign=bf2026) | Cloud hosting for apps, databases and workers: one compute plan, no per-app fees, deploys from Git, Docker or an AI coding agent. | 33% OFF for 12 months on a new workspace (Coupon: `BLACKFRIDAY26`), e.g. $29 → $19.43/mo | Nov 27 - Nov 30, 2026 |
 
 ---
 
