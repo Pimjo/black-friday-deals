@@ -415,6 +415,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Paste Formatter**](https://paste-formatter.app/?discount=BLACKFRIDAY&utm_source=bf2026-pimjo) | Removes unwanted fonts and colors from pasted text on Mac while keeping links and lists. | **€2 off** a one-time purchase (~~€4.99~~ **€2.99**, coupon `BLACKFRIDAY` auto-applied) | Nov 24 – Nov 30, 2026 |
 | [**Backup Status**](https://backupstatus.app/?discount=BLACKFRIDAY&utm_source=bf2026-pimjo) | Shows when Time Machine last backed up your Mac, right on your desktop. | **€2 off** a one-time purchase (~~€4.99~~ **€2.99**, coupon `BLACKFRIDAY` auto-applied) | Nov 24 – Nov 30, 2026 |
 | [**Stepfinch**](https://stepfinch.app/?utm_source=pimjo-bf&utm_campaign=bf2026#pricing) | Mac app that turns a task you do once into a step-by-step guide: a screenshot of every click, the steps written for you, private info blurred. | 26% OFF Lifetime ($39 → $29), one payment for 3 Macs and every update, no code needed | Nov 23 – Dec 1, 2026 |
+| [**intropi**](https://intropi.app/black-friday) | [Guided meditation and self-hypnosis](https://intropi.app) for the nights work follows you to bed, with 191 topics and a fresh Daily Short to help you refocus. | Premium Lifetime $89.99 once, regularly $189.99 on iPhone/web or $149.99 on Android. US app stores and web in USD, no code. | November 25 through December 1, 2026 |
 
 ---
 
