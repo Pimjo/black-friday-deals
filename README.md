@@ -98,6 +98,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**FireCut**](https://firecut.ai/pricing/all/) | AI video editing plugin for Premiere Pro & DaVinci Resolve. | Annual plans at 50% off the monthly rate for Black Friday: Pro $34 → $17/mo, Max $59 → $29.50/mo, billed yearly, no code needed | Nov 25 – Nov 30, 2026 |
 | [**Cogitas**](https://cogitas.ai/en/black-friday/) | AI assistant that answers customer questions from your website and documents, cites sources, and hands off to your team on Advanced and Pro. | **40% OFF** the first billing period on new Starter, Advanced or Pro plans: first year on annual (Starter $29 → $17.40/mo, Pro $299 → $179.40/mo) or first month on monthly (Coupon: `BLACKFRIDAY40`) | Nov 25 – Dec 1, 2026 |
 | [**Thastock**](https://thastock.com/black-friday) | AI second opinion on any US stock: the strongest bull case, the strongest bear case and a verdict with a confidence score, backed by live data. Free plan available. | $5/month for life on Pro instead of $9, 44% OFF (no code needed) | Nov 26 – Nov 30, 2026 |
+| [**TIMEACTOR**](https://checkout.time.actor/pricing?lang=en) | All-in-one AI metaphysics toolkit (AI Bazi, Feng Shui, I Ching, Fortune Stick, Tarot, and CapyCal) supporting 9 languages. | 50% OFF all plans & credit packs: Monthly $6.99 → $3.50, Yearly $59.99 → $30.00 (Coupon: `BLACKFRIDAY26`) | Now – Dec 2, 2026 |
 
 ---
 
