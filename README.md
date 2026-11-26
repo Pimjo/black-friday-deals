@@ -433,6 +433,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**8kSec Academy**](https://academy.8ksec.io/) | On-demand mobile and AI security training with five certification tracks (CAISR, CMSE, OMSE, CISR, CASR) and hands-on labs | 15% off all on-demand courses with code `BLACKFRIDAY15` | Nov 20 – Dec 4, 2026 |
 | [**Android App Hacking Mastery**](https://training.byteblind.com/products/courses/android-app-hacking) | Hands-on Android app pentesting course for pentesters and bug bounty hunters: 55 lessons, vulnerable APKs, lifetime access, 7-day refund guarantee. | 40% OFF ($149 → $89.40) (Coupon: `BYTENOV40`) | Nov 23 – Nov 30, 2026 |
 | [**Certificates.dev**](https://certificates.dev/black-friday) | Proctored developer certifications for Vue.js, Nuxt, React, Angular, JavaScript, TypeScript, Laravel and AI-Native development. | Mid-level exam + prep for $199 (regular $378–$499, up to 60% OFF), no code needed | Nov 19 – Dec 2, 2026 |
+| [**VimNinja**](https://www.vimninja.com/upgrade?ref=pimjo) | Learn Vim by practising it in a real Vim editor in your browser: operators, text objects, registers, macros and search and replace, one short hands-on lesson at a time. The first 13 chapters are free, no sign-up. | 34% OFF Lifetime Pro, one payment ($29 → $19), auto-applied | Nov 25 – Nov 30, 2026 |
 
 ---
 
