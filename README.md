@@ -214,6 +214,8 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Uptimecheck**](https://uptimecheck.com/pricing/?utm_source=pimjo&utm_medium=deal-list&utm_campaign=black-week-2026) | European uptime monitoring for websites, APIs, cron jobs, servers and domains from 6 locations, with status pages and alerts by email, Slack, Teams, SMS, phone call and push. Free plan available. | **70% OFF** the first year on yearly plans: Start €108 → €29, Professional €348 → €99, Business €828 → €239, excl. VAT (no coupon, applied at checkout) | Nov 25 – Dec 4, 2026 |
 | [**Vibe Island**](https://vibeisland.app/?ref=pimjo) | Mac notch panel for Claude Code, Codex, Cursor and 27 more AI coding agents. Pops open when one finishes or needs input. Approve requests and answer questions there, or jump to the exact terminal tab. Native Swift, runs locally, no account. | **40% OFF** 1 Mac ($19.99 → $11.99), 2 Macs $21.99, 3 Macs $31.99. No code needed | Nov 25 – Dec 1, 2026 |
 | [**Crabsmith**](https://crabsmith.com/#pricing) | Hosted control panel for your own Ubuntu servers: push-to-deploy Laravel, PHP, Node.js and Next.js over plain SSH, with Caddy automatic HTTPS and systemd workers. | 40% OFF for life on any plan (Coupon: `BLACKFRIDAY40`). Hobby $5 → $3/mo, Pro $12 → $7.20/mo | Nov 26 – Dec 1, 2026 |
+| [**1DevTool**](https://1devtool.com/pricing) | Desktop workbench that runs Claude Code, Codex and other coding agents side by side, with a browser, database client and git built in. Mac, Windows and Linux. | **50% OFF** the one-time Pro licence ($29 → $14.50) (Coupon: `BFDEALS50`), or **30% OFF** any StoicSoft bundle (Coupon: `BFDEALSBUNDLE30`) | Until Nov 29, 2026 |
+| [**Server Compass**](https://servercompass.app) | Desktop app that deploys any repo to your own VPS without the terminal: zero-downtime deploys, SSL and rollbacks. | **50% OFF** the one-time Pro licence ($29 → $14.50) (Coupon: `BFDEALS50`), or **30% OFF** any StoicSoft bundle (Coupon: `BFDEALSBUNDLE30`) | Until Nov 29, 2026 |
 
 ---
 
@@ -242,6 +244,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**The Cross Stitch Pattern Maker**](https://thecrossstitchpatternmaker.com/pricing) | Turn a photo into a cross-stitch chart in your browser, edit stitches, and export a PDF with a DMC floss list. | **32% OFF** Lifetime Pro: $59 → $40.12 once, no code needed | Nov 23 – Nov 30, 2026 |
 | [**ThreeDee**](https://www.threedee.design/) | Stylized rigged 3D characters, standalone models, and modular packs. | 30% OFF single 3D models, 3D packs, both lifetime libraries, and Nova credits (Coupon: `BLACK30`) | Nov 24 – Dec 2, 2026 |
 | [**Liniqo**](https://liniqo.com/) | 5,000+ hairline isometric illustrations and 680+ interactive figures for SaaS sites, apps and landing pages. SVG, PNG or React, restyle them with Build your style, or pull them into Claude, Cursor or v0 via the Liniqo MCP server. | Up to 70% OFF: Lifetime ~~$79~~ $39.50, Pro from $11.70, Personal from $5.70 (Auto-applied, no code) | Nov 21 – Dec 1, 2026 |
+| [**1DesignTool**](https://1designtool.com/#pricing) | Local design studio your coding agents drive to make slides, app screens and brand kits as real files, with a live preview. Mac and Windows. | **50% OFF** the one-time Pro licence ($29 → $14.50) (Coupon: `BFDEALS50`), or **30% OFF** any StoicSoft bundle (Coupon: `BFDEALSBUNDLE30`) | Until Nov 29, 2026 |
 
 ---
 
@@ -419,6 +422,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Backup Status**](https://backupstatus.app/?discount=BLACKFRIDAY&utm_source=bf2026-pimjo) | Shows when Time Machine last backed up your Mac, right on your desktop. | **€2 off** a one-time purchase (~~€4.99~~ **€2.99**, coupon `BLACKFRIDAY` auto-applied) | Nov 24 – Nov 30, 2026 |
 | [**Stepfinch**](https://stepfinch.app/?utm_source=pimjo-bf&utm_campaign=bf2026#pricing) | Mac app that turns a task you do once into a step-by-step guide: a screenshot of every click, the steps written for you, private info blurred. | 26% OFF Lifetime ($39 → $29), one payment for 3 Macs and every update, no code needed | Nov 23 – Dec 1, 2026 |
 | [**intropi**](https://intropi.app/black-friday) | Guided meditation and self-hypnosis for the nights work follows you to bed, with 191 topics and a fresh Daily Short to help you refocus. | Premium Lifetime $189.99 → $89.99 once (US app stores and web, no code needed) | Nov 25 – Dec 1, 2026 |
+| [**StoicSoft**](https://stoicsoft.com/pricing) | Twelve local-first desktop apps for one-person businesses: coding, design, marketing, video, files, local AI and more. Buy once, bring your own AI. | **50% OFF** any single app's one-time Pro licence ($29 → $14.50) (Coupon: `BFDEALS50`), or **30% OFF** any bundle, Complete with all 12 apps $199 → $139.30 (Coupon: `BFDEALSBUNDLE30`) | Until Nov 29, 2026 |
 
 ---
 
