@@ -209,6 +209,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**surl.li**](https://surl.li/en/) | URL shortener with custom domains, QR codes, click analytics, API, and MCP server for AI agents. | 60% OFF the first bill on all plans, no code needed | Nov 25 – Dec 1, 2026 |
 | [**GridPin**](https://gridpin.dev/buy#snapshot) | Offline geocoder for 13 countries: one file per country, no API key. | 40% OFF the one-time Snapshot ($199 → $119, paid in USDC), no code needed | Nov 25 – Dec 1, 2026 |
 | [**Uptimecheck**](https://uptimecheck.com/pricing/?utm_source=pimjo&utm_medium=deal-list&utm_campaign=black-week-2026) | European uptime monitoring for websites, APIs, cron jobs, servers and domains from 6 locations, with status pages and alerts by email, Slack, Teams, SMS, phone call and push. Free plan available. | **70% OFF** the first year on yearly plans: Start €108 → €29, Professional €348 → €99, Business €828 → €239, excl. VAT (no coupon, applied at checkout) | Nov 25 – Dec 4, 2026 |
+| [**Vibe Island**](https://vibeisland.app/?ref=pimjo) | Mac notch panel for Claude Code, Codex, Cursor and 27 more AI coding agents. Pops open when one finishes or needs input. Approve requests and answer questions there, or jump to the exact terminal tab. Native Swift, runs locally, no account. | **40% OFF** 1 Mac ($19.99 → $11.99), 2 Macs $21.99, 3 Macs $31.99. No code needed | Nov 25 – Dec 1, 2026 |
 
 ---
 
