@@ -218,6 +218,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Crabsmith**](https://crabsmith.com/#pricing) | Hosted control panel for your own Ubuntu servers: push-to-deploy Laravel, PHP, Node.js and Next.js over plain SSH, with Caddy automatic HTTPS and systemd workers. | 40% OFF for life on any plan (Coupon: `BLACKFRIDAY40`). Hobby $5 → $3/mo, Pro $12 → $7.20/mo | Nov 26 – Dec 1, 2026 |
 | [**1DevTool**](https://1devtool.com/pricing) | Desktop workbench that runs Claude Code, Codex and other coding agents side by side, with a browser, database client and git built in. Mac, Windows and Linux. | **50% OFF** the one-time Pro licence, $29 → $14.50 (Coupon: `BFDEALS50`) | Until Nov 29, 2026 |
 | [**Exit Loop**](https://www.exitloop.app/black-friday) | Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe. Asks why a subscriber cancels and shows one relevant offer. | 50% OFF the first year of the yearly plan, $149 → $74.50 (Coupon: `BLACKFRIDAY50`) | Nov 26 – Dec 1, 2026 |
+| [**OSINTverse**](https://osintverse.com/pricing) | OSINT investigation platform: search an email, username, phone, domain, name, IP, image or crypto wallet across 17 sources, with cases, a team graph, an API and an MCP server. Pay per lookup. | 10% OFF any credit top-up, wallet credited the full amount (Coupon: `BLACKFRIDAY10`) | Nov 27 – Nov 30, 2026 |
 
 ---
 
