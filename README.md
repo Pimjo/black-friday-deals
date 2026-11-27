@@ -430,6 +430,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Falconry Drive**](https://falconrylabs.com/drive/) | Read and write NTFS drives on macOS 27 (Apple silicon), built on Apple's FSKit with no kernel extension and writing the NTFS journal the way Windows does. 14-day free trial. | 30% OFF the first year of the yearly licence (~~$27.99~~ **$19.60**, renews at $27.99; Coupon: `BLACKFRIDAY30`) | Nov 26 – Dec 1, 2026 |
 | [**Sidekick**](https://heysidekick.app/black-friday/?utm_source=pimjo-deals&utm_medium=directory&utm_campaign=black-friday-2026) | Google Tasks in Claude, ChatGPT and other AI apps, and as a floating list on your Mac's desktop. | 33% OFF Premium, paid once: $9 → $6 (Coupon: `BLACKFRIDAY`) | Nov 26 – Dec 4, 2026 |
 | [**Switchy**](https://getswitchy.app/black-friday) | Menu bar utility with 31 one-click Mac switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. | 50% OFF one-time purchase, $4.99 → $2.49, up to 3 Macs (Coupon: `BLACKFRIDAY50`, pre-filled by the Buy button) | Nov 23 – Dec 1, 2026 |
+| [**PasteNotch**](https://pastenotch.com/black-friday) | The clipboard manager in your notch: unlimited history for text, links, images and files on Mac, searchable and one shortcut away. | 50% OFF one-time purchase, $4.99 → $2.49 (Coupon: `BLACKFRIDAY50`, pre-filled by the Buy button) | Nov 23 – Dec 1, 2026 |
 
 ---
 
