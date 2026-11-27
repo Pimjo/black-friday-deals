@@ -218,6 +218,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Crabsmith**](https://crabsmith.com/#pricing) | Hosted control panel for your own Ubuntu servers: push-to-deploy Laravel, PHP, Node.js and Next.js over plain SSH, with Caddy automatic HTTPS and systemd workers. | 40% OFF for life on any plan (Coupon: `BLACKFRIDAY40`). Hobby $5 → $3/mo, Pro $12 → $7.20/mo | Nov 26 – Dec 1, 2026 |
 | [**1DevTool**](https://1devtool.com/pricing) | Desktop workbench that runs Claude Code, Codex and other coding agents side by side, with a browser, database client and git built in. Mac, Windows and Linux. | **50% OFF** the one-time Pro licence, $29 → $14.50 (Coupon: `BFDEALS50`) | Until Nov 29, 2026 |
 | [**Exit Loop**](https://www.exitloop.app/black-friday) | Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe. Asks why a subscriber cancels and shows one relevant offer. | 50% OFF the first year of the yearly plan, $149 → $74.50 (Coupon: `BLACKFRIDAY50`) | Nov 26 – Dec 1, 2026 |
+| [**Bordfeed**](https://bordfeed.com/black-friday) | Job data API for agents and builders: 500k+ live jobs from company hiring pages, refreshed nightly. Get them by REST API, webhooks, email digest or MCP for ChatGPT and Claude. | 50% OFF your first 3 months on any plan, Pro $79 → $39.50/mo, new subscriptions (Coupon: `BFCM50`) | Nov 27 – Dec 4, 2026 |
 
 ---
 
