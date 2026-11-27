@@ -444,6 +444,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Dayfold**](https://foca.work/dayfold.html) | Countdown and anniversary widgets for iPhone. Pin birthdays, trips and other moments as cards on your Home Screen and Lock Screen. | Lifetime access $14.99 → $7.99 (US App Store), no code needed | Nov 27 – Dec 1, 2026 |
 | [**Core: Interval & HIIT Timer**](https://foca.work/core.html) | An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout. | Lifetime access $14.99 → $7.99 (US App Store), no code needed | Nov 27 – Dec 1, 2026 |
 | [**KopiaLens**](https://kopialens.com/pricing?utm_source=bf2026-pimjo) | Back up your computers and servers, then see inside the backups: which folders really fill the drive, and every old version of every file. Free and open source, for Windows, macOS, Linux and Docker. | **30% OFF** Pro with code `BLACKFRIDAY2026`, pre-filled at checkout: Lifetime ~~$50~~ **$35** one-time, Yearly ~~$20~~ **$14** for the first year | Nov 27, 2026 – Jan 1, 2027 |
+| [**ChattyFit**](https://chatty.fit/?ct=bf-pimjo) | AI personal trainer for iPhone. Tell it what equipment you have, even none, and it sets up the workout; ask in chat to swap a move. Free: 3 workouts a month. | 60% OFF the first year of Annual: $99.99 → $39.99 USD, then $99.99/year (Coupon: `BLACKFRIDAY60`, [redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6748089571&code=BLACKFRIDAY60)). First-time subscribers only. US pricing; local prices vary. | Nov 26 – Dec 1, 2026 |
 
 ---
 
