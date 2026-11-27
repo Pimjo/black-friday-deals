@@ -419,6 +419,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Backup Status**](https://backupstatus.app/?discount=BLACKFRIDAY&utm_source=bf2026-pimjo) | Shows when Time Machine last backed up your Mac, right on your desktop. | **€2 off** a one-time purchase (~~€4.99~~ **€2.99**, coupon `BLACKFRIDAY` auto-applied) | Nov 24 – Nov 30, 2026 |
 | [**Stepfinch**](https://stepfinch.app/?utm_source=pimjo-bf&utm_campaign=bf2026#pricing) | Mac app that turns a task you do once into a step-by-step guide: a screenshot of every click, the steps written for you, private info blurred. | 26% OFF Lifetime ($39 → $29), one payment for 3 Macs and every update, no code needed | Nov 23 – Dec 1, 2026 |
 | [**intropi**](https://intropi.app/black-friday) | Guided meditation and self-hypnosis for the nights work follows you to bed, with 191 topics and a fresh Daily Short to help you refocus. | Premium Lifetime $189.99 → $89.99 once (US app stores and web, no code needed) | Nov 25 – Dec 1, 2026 |
+| [**KopiaLens**](https://kopialens.com/pricing?utm_source=bf2026-pimjo) | Back up your computers and servers, then see inside the backups: which folders really fill the drive, and every old version of every file. Free and open source, for Windows, macOS, Linux and Docker. | **30% OFF** Pro with code `BLACKFRIDAY2026`, pre-filled at checkout: Lifetime ~~$50~~ **$35** one-time, Yearly ~~$20~~ **$14** for the first year | Nov 27, 2026 – Jan 1, 2027 |
 
 ---
 
