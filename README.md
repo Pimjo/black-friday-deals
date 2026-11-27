@@ -130,6 +130,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**ShadcnStore**](https://shadcnstore.com/pricing?utm_source=pimjo&utm_medium=deal-list&utm_campaign=cyber-week-2026) | Production-ready shadcn/ui blocks, pages and templates on Base UI, installed with the shadcn CLI, plus a Figma kit. One-time payment, lifetime updates. | 40% OFF every plan and template, no code needed (Pro ~~$149~~ $89, Starter ~~$99~~ $59) | Nov 21 – Dec 1, 2026 |
 | [**ReUI**](https://reui.io/pricing?utm_source=pimjo-bfcm&utm_medium=directory&utm_campaign=reui-nov26) | Copy-paste shadcn/ui components, blocks and page templates for React and Tailwind, with a public registry for AI coding agents. | 30% OFF every license, no code needed | Now – Nov 30, 2026 |
 | [**ShipRust**](https://shiprust.com/#pricing) | Generate a Rust SaaS starter with Axum, Maud, SQLx and PostgreSQL. | 70% OFF lifetime access: $999 → $299 once, no code needed | Now – Dec 5, 2026 |
+| [**QuietCraft UI Pro**](https://jumpertheme.gumroad.com/l/quietcraft-ui-pro/FIRST50) | Clean React 19 and Tailwind CSS v4 component kit (24 components, 4px tokens, dark/light themes, Figma tokens, Playwright QA). | **40% OFF** ($5.00 to $3.00, code `FIRST50`) or **60% OFF** first 10 ($2.00, code `FIRST10`) | Nov 27 to Dec 1, 2026 |
 
 ---
 
@@ -419,6 +420,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Backup Status**](https://backupstatus.app/?discount=BLACKFRIDAY&utm_source=bf2026-pimjo) | Shows when Time Machine last backed up your Mac, right on your desktop. | **€2 off** a one-time purchase (~~€4.99~~ **€2.99**, coupon `BLACKFRIDAY` auto-applied) | Nov 24 – Nov 30, 2026 |
 | [**Stepfinch**](https://stepfinch.app/?utm_source=pimjo-bf&utm_campaign=bf2026#pricing) | Mac app that turns a task you do once into a step-by-step guide: a screenshot of every click, the steps written for you, private info blurred. | 26% OFF Lifetime ($39 → $29), one payment for 3 Macs and every update, no code needed | Nov 23 – Dec 1, 2026 |
 | [**intropi**](https://intropi.app/black-friday) | Guided meditation and self-hypnosis for the nights work follows you to bed, with 191 topics and a fresh Daily Short to help you refocus. | Premium Lifetime $189.99 → $89.99 once (US app stores and web, no code needed) | Nov 25 – Dec 1, 2026 |
+| [**ScopeForge Studio**](https://tolga571.github.io/black-friday-2026.html) | Offline freelance WBS quote estimator and SOW generator with 8 guardrails, A4 print PDFs, and 5-sheet Excel export. | **40% OFF** ($4.00 to $2.40, code `SCOPE40`) or **60% OFF** first 10 ($1.60, code `FIRST10`) | Nov 27 to Dec 1, 2026 |
 
 ---
 
