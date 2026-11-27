@@ -130,6 +130,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**ShadcnStore**](https://shadcnstore.com/pricing?utm_source=pimjo&utm_medium=deal-list&utm_campaign=cyber-week-2026) | Production-ready shadcn/ui blocks, pages and templates on Base UI, installed with the shadcn CLI, plus a Figma kit. One-time payment, lifetime updates. | 40% OFF every plan and template, no code needed (Pro ~~$149~~ $89, Starter ~~$99~~ $59) | Nov 21 – Dec 1, 2026 |
 | [**ReUI**](https://reui.io/pricing?utm_source=pimjo-bfcm&utm_medium=directory&utm_campaign=reui-nov26) | Copy-paste shadcn/ui components, blocks and page templates for React and Tailwind, with a public registry for AI coding agents. | 30% OFF every license, no code needed | Now – Nov 30, 2026 |
 | [**ShipRust**](https://shiprust.com/#pricing) | Generate a Rust SaaS starter with Axum, Maud, SQLx and PostgreSQL. | 70% OFF lifetime access: $999 → $299 once, no code needed | Now – Dec 5, 2026 |
+| [**Pixels71**](https://www.pixels71.com/pricing) | Website templates for Framer, Next.js and Astro, plus Figma design files. The pass covers current and future templates for unlimited client sites. | 40% OFF the All-Access Pass, $59 once (was $99) | Nov 24 – Dec 1, 2026 |
 
 ---
 
