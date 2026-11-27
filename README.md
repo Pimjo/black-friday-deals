@@ -424,6 +424,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Stepfinch**](https://stepfinch.app/?utm_source=pimjo-bf&utm_campaign=bf2026#pricing) | Mac app that turns a task you do once into a step-by-step guide: a screenshot of every click, the steps written for you, private info blurred. | 26% OFF Lifetime ($39 → $29), one payment for 3 Macs and every update, no code needed | Nov 23 – Dec 1, 2026 |
 | [**intropi**](https://intropi.app/black-friday) | Guided meditation and self-hypnosis for the nights work follows you to bed, with 191 topics and a fresh Daily Short to help you refocus. | Premium Lifetime $189.99 → $89.99 once (US app stores and web, no code needed) | Nov 25 – Dec 1, 2026 |
 | [**StoicSoft**](https://stoicsoft.com/pricing) | Twelve local-first desktop apps for one-person businesses: coding, design, marketing, video, files, local AI and more. Buy once, bring your own AI. | **50% OFF** any single app's one-time Pro licence ($29 → $14.50) (Coupon: `BFDEALS50`), or **30% OFF** any bundle, Complete with all 12 apps $199 → $139.30 (Coupon: `BFDEALSBUNDLE30`) | Until Nov 29, 2026 |
+| [**Clearpane**](https://getclearpane.app/?utm_source=pimjo-bf&utm_campaign=bf2026#pricing) | Mac app that tells you in one sentence what's slowing your Mac down, explains every process and says whether it's safe to quit. | 53% OFF one-time ($19 → $9), 2 Macs and every update, no code needed | Nov 26 – Dec 1, 2026 |
 
 ---
 
