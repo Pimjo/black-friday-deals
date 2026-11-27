@@ -432,6 +432,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Sidekick**](https://heysidekick.app/black-friday/?utm_source=pimjo-deals&utm_medium=directory&utm_campaign=black-friday-2026) | Google Tasks in Claude, ChatGPT and other AI apps, and as a floating list on your Mac's desktop. | 33% OFF Premium, paid once: $9 → $6 (Coupon: `BLACKFRIDAY`) | Nov 26 – Dec 4, 2026 |
 | [**Switchy**](https://getswitchy.app/black-friday) | Menu bar utility with 31 one-click Mac switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. | 50% OFF one-time purchase, $4.99 → $2.49, up to 3 Macs (Coupon: `BLACKFRIDAY50`, pre-filled by the Buy button) | Nov 23 – Dec 1, 2026 |
 | [**PasteNotch**](https://pastenotch.com/black-friday) | The clipboard manager in your notch: unlimited history for text, links, images and files on Mac, searchable and one shortcut away. | 50% OFF one-time purchase, $4.99 → $2.49 (Coupon: `BLACKFRIDAY50`, pre-filled by the Buy button) | Nov 23 – Dec 1, 2026 |
+| [**Tidyware**](https://tidyware.app/?utm_source=pimjo&utm_campaign=black-friday-2026) | Five native Mac apps, each a one-time purchase: LocalVoice (transcribe audio and video on your Mac), NotePorter (Apple Notes for Claude and Cursor), TwinSweep (duplicate files and photos), BatchShift (batch HEIC/WebP to JPG/PNG) and Awakelet (keep your Mac awake). | 30% OFF every app, $19 → $13.30, $15 → $10.50, $9 → $6.30 (Coupon: `BF2026`) | Nov 24 – Dec 1, 2026 |
 
 ---
 
