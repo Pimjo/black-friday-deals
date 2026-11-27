@@ -503,6 +503,7 @@ _No deals yet. [Add yours](#how-to-contribute)!_
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
 | [**SmartUsername Pro**](https://smartusername.com/black-friday/?code=PIMJO10) | WordPress plugin that renames any user, including admin, and stops WordPress showing login names in author URLs, the REST API and oEmbed. Free version on wordpress.org. | **60% OFF** every yearly plan, no code (Personal $29 → $12, Pro $79 → $32, Agency $179 → $72 first year; lifetime $299 → $149). Extra 10% (Coupon: `PIMJO10`) | Nov 11 – Dec 1, 2026 |
+| [**PureVPN**](https://identity.purevpn.com/bfcm?utm_source=github&utm_medium=referral&utm_campaign=bfcm2026_creatoros&utm_content=creatoros) | Exclusive 1-year Black Friday deal not available on PureVPN’s main website. VPN with tracker blocker, password manager, data-removal and dark-web monitoring. | 92% OFF the 1-year plan for $19.95 (about $1.66/mo), no code needed, 31-day money-back. Renews at the standard rate. | Nov 28 – Dec 1, 2026 |
 
 ---
 
